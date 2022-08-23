@@ -8,12 +8,12 @@
 # Cristóbal Martí Oliver <info@moblesmarti.com>, 2020
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2020
 # Rick Hunter <rick.hunter.ec@gmail.com>, 2020
-# renodoo <ren@swisshq.com>, 2020
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
+# renodoo <ren@swissconsultings.ch>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
 # Rodrigo Aragon <conectacoatepec@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Mariana Santos Romo <msn@swisshq.com>, 2020
-# Efrem Jimenez <efj@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Mariana Santos Romo <msn@swissconsultings.ch>, 2020
+# Efrem Jimenez <efj@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2020
 # 

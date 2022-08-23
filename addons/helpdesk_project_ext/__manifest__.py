@@ -7,7 +7,7 @@
 issues.''',
     'category': 'Human Resources',
     'author': 'SwissCRM ',
-    'website': 'https://swisshq.com',
+    'website': 'https://swissconsultings.ch',
     'depends': ['helpdesk_basic', 'project'],
     'data': [
         'views/helpdesk_ticket_view.xml',

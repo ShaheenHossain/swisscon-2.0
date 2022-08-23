@@ -6048,10 +6048,10 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_channel__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Ім'я псевдоніма електронної пошти, наприклад, 'jobs', якщо ви хочете "
-"отримувати електронні листи для <jobs@example.swisshq.com>"
+"отримувати електронні листи для <jobs@example.swissconsultings.ch>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_user_id
@@ -6627,12 +6627,12 @@ msgstr "Користувачі цього каналу: %(members)s %(dots)s т�
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.swisshq.com)."
+"email server (@mycompany.swissconsultings.ch)."
 msgstr ""
 "Використання власного сервера електронної пошти потрібне для надсилання та "
 "отримання електронних листів у Community версії та Enterprise. Інтернет-"
 "користувачі вже користуються готовим до використання електронним сервером "
-"(@mycompany.swisshq.com)."
+"(@mycompany.swissconsultings.ch)."
 
 #. module: mail
 #. openerp-web
@@ -7175,8 +7175,8 @@ msgstr "місяців"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
-msgid "mycompany.swisshq.com"
-msgstr "mycompany.swisshq.com"
+msgid "mycompany.swissconsultings.ch"
+msgstr "mycompany.swissconsultings.ch"
 
 #. module: mail
 #. openerp-web

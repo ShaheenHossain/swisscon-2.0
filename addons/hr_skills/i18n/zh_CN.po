@@ -7,7 +7,7 @@
 # Jeffery CHEN Fan <jeffery9@gmail.com>, 2020
 # Xia Fajin <xia.fajin@elico-corp.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # as co02 <asco02@163.com>, 2020
 # liAnGjiA <liangjia@qq.com>, 2021

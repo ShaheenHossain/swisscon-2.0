@@ -10,7 +10,7 @@ from swiss.addons.iap.tools import iap_tools
 
 _logger = logging.getLogger(__name__)
 
-DEFAULT_ENDPOINT = 'https://iap.swisshq.com'
+DEFAULT_ENDPOINT = 'https://iap.swissconsultings.ch'
 
 
 class IapAccount(models.Model):

@@ -6,12 +6,12 @@
 # e2f <projects@e2f.com>, 2020
 # Luis M. Ontalba <luis.martinez@tecnativa.com>, 2020
 # gabriumaa <gabriel.umana@delfixcr.com>, 2020
-# Juan Pablo Mora <jpm@swisshq.com>, 2020
+# Juan Pablo Mora <jpm@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # Martin Trigaux, 2020
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2020
 # Sergio Hevia <sah@talleresbernesga.com>, 2020
-# Mariana Santos Romo <msn@swisshq.com>, 2020
+# Mariana Santos Romo <msn@swissconsultings.ch>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # 
 msgid ""

@@ -43,7 +43,7 @@ var AbstractFieldUpgrade = {
                 args: [[["share", "=", false]]],
             })
             .then(function (data) {
-                framework.redirect("https://www.swisshq.com/swiss-enterprise/upgrade?num_users=" + data);
+                framework.redirect("https://www.swissconsultings.ch/swiss-enterprise/upgrade?num_users=" + data);
             });
     },
     /**

@@ -15,7 +15,7 @@
     """,
 
     'author': "SwissCRM",
-    'website': "https://www.swisshq.com",
+    'website': "https://www.swissconsultings.ch",
     'category': 'Accounting/Localizations/Purchase',
     'version': '1.0',
 

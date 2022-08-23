@@ -15,9 +15,9 @@
 # 苏州远鼎 <tiexinliu@126.com>, 2020
 # 稀饭~~ <wangwhai@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Emily Jia <eji@swisshq.com>, 2020
+# Emily Jia <eji@swissconsultings.ch>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
-# Mandy Choy <mnc@swisshq.com>, 2020
+# Mandy Choy <mnc@swissconsultings.ch>, 2020
 # Shiping Lv <lvshiping@sina.com>, 2020
 # as co02 <asco02@163.com>, 2020
 # Titan Li <lghbeta@gmail.com>, 2021

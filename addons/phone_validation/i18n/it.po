@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Paolo Valier, 2020
-# Romica Paun <roa@swisshq.com>, 2020
+# Romica Paun <roa@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""

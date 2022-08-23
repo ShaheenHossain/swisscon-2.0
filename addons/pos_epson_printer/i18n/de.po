@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2021
 # 
 msgid ""

@@ -13,7 +13,7 @@
 # Adriel Kotviski <kotviski@gmail.com>, 2020
 # falexandresilva <falexandresilva@gmail.com>, 2020
 # Luiz Carareto Alonso <Luiz.cararetoalonso@gmail.com>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
 # renato sabo <renato.sabo@bradootech.com>, 2020
 # Maurício Liell <mauricio@liell.com.br>, 2020
 # André Carvalho <and2carvalho@gmail.com>, 2020

@@ -6,13 +6,13 @@
 # Lina Maria Avendaño Carvajal <lina8823@gmail.com>, 2020
 # Carlos rodriguez <carlosalbertor436@gmail.com>, 2020
 # Andrés Felipe Casas Palomino <afcasas@nubark.com>, 2020
-# Carolina Gonzalez <cgo@swisshq.com>, 2020
+# Carolina Gonzalez <cgo@swissconsultings.ch>, 2020
 # Christopher Ormaza <chris.ormaza@gmail.com>, 2020
 # David Arnold <blaggacao@users.noreply.github.com>, 2020
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2020
 # David Sanchez <david.sanchez@jarsa.com.mx>, 2020
 # Pablo Rojas <rojaspablo88@gmail.com>, 2020
-# Efrem Jimenez <efj@swisshq.com>, 2020
+# Efrem Jimenez <efj@swissconsultings.ch>, 2020
 # e2f <projects@e2f.com>, 2020
 # Nhomar Hernández [Vauxoo] <nhomar@vauxoo.com>, 2020
 # Daniel Blanco <daniel@blancomartin.com.ar>, 2020
@@ -22,8 +22,8 @@
 # Jorge <jcamacho@trey.es>, 2020
 # Inigo Zuluaga <inigo_zuluaga@yahoo.es>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Alejandro Pérez Torregrosa <alejandropereztorregrosa@gmail.com>, 2020
 # Paulina Rodriguez <pauli.rodriguez.c@gmail.com>, 2020
 # Rick Hunter <rick.hunter.ec@gmail.com>, 2020
@@ -36,8 +36,8 @@
 # Wilson Pujols <wpujols@capw.com.do>, 2021
 # Martin Trigaux, 2021
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
-# Patricia Gutiérrez Capetillo <pagc@swisshq.com>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
+# Patricia Gutiérrez Capetillo <pagc@swissconsultings.ch>, 2021
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
 # Esteka Digital <social@esteka.com>, 2021
 # Xabi Spacebiker <xabispacebiker@gmail.com>, 2021
@@ -9232,8 +9232,8 @@ msgstr "sitio web"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.swisshq.com"
-msgstr "www.swisshq.com"
+msgid "www.swissconsultings.ch"
+msgstr "www.swissconsultings.ch"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.qweb_500

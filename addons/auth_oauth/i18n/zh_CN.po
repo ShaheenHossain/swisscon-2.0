@@ -153,7 +153,7 @@ msgstr "谷歌登陆"
 
 #. module: auth_oauth
 #: model:auth.oauth.provider,body:auth_oauth.provider_openerp
-msgid "Log in with swisshq.com"
+msgid "Log in with swissconsultings.ch"
 msgstr "SwissCRM官方登陆"
 
 #. module: auth_oauth

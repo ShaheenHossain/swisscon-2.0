@@ -9,8 +9,8 @@
 # 苏州远鼎 <tiexinliu@126.com>, 2020
 # guohuadeng <guohuadeng@hotmail.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
-# Emily Jia <eji@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
+# Emily Jia <eji@swissconsultings.ch>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # Shiping Lv <lvshiping@sina.com>, 2020

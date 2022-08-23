@@ -7,7 +7,7 @@
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2020
 # gabriumaa <gabriel.umana@delfixcr.com>, 2020
 # Miguel Orueta <mo@landoo.es>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # 
 msgid ""

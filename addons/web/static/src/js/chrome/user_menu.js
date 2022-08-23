@@ -70,7 +70,7 @@ var UserMenu = Widget.extend({
                     })
                     .guardedCatch(function (result, ev){
                         ev.preventDefault();
-                        framework.redirect('https://accounts.swisshq.com/account');
+                        framework.redirect('https://accounts.swissconsultings.ch/account');
                     });
             },
         });
@@ -79,7 +79,7 @@ var UserMenu = Widget.extend({
      * @private
      */
     _onMenuDocumentation: function () {
-        window.open('https://doc.swisshq.com/2.0', '_blank');
+        window.open('https://doc.swissconsultings.ch/2.0', '_blank');
     },
     /**
      * @private
@@ -112,7 +112,7 @@ var UserMenu = Widget.extend({
      * @private
      */
     _onMenuSupport: function () {
-        window.open('https://www.swisshq.com/buy', '_blank');
+        window.open('https://www.swissconsultings.ch/buy', '_blank');
     },
     /**
      * @private

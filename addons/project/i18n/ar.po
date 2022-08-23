@@ -21,9 +21,9 @@
 # Zuhair Hammadi <zuhair12@gmail.com>, 2020
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
 # Mostafa Hanafy <mostafa.s.hanafy@gmail.com>, 2020
-# Nisrine Tagri <nta@swisshq.com>, 2020
-# Talal Kamal <tka@swisshq.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Nisrine Tagri <nta@swissconsultings.ch>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # Mustafa Rawi <mustafa@cubexco.com>, 2020
 # Talal Albahra <talal.albahra@outlook.com>, 2020
 # Mustafa J. Kadhem <safi2266@gmail.com>, 2021
@@ -3545,10 +3545,10 @@ msgstr ""
 #: model:ir.model.fields,help:project.field_project_project__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "اسم لقب البريد الإلكتروني، مثلًا: 'وظائف' إذا كنت جمع الرسائل المرسلة "
-"لـ<jobs@example.swisshq.com>"
+"لـ<jobs@example.swissconsultings.ch>"
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__alias_user_id

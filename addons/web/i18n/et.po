@@ -2588,8 +2588,8 @@ msgstr ""
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "Minu swisshq.com kasutaja"
+msgid "My swissconsultings.ch account"
+msgstr "Minu swissconsultings.ch kasutaja"
 
 #. module: web
 #. openerp-web

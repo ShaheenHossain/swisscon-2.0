@@ -259,7 +259,7 @@ These values will be used to identify your new theme in SwissCRM’s backend.
 
 The ``data`` property will contain the xml files list. Right now it’s empty, but we will add any new files created.
 
-``category`` defines your module category (always “Theme”) and, after a slash, the subcategory. You can use one subcategory from the SwissCRM Apps categories list. (https://www.swisshq.com/apps/themes)
+``category`` defines your module category (always “Theme”) and, after a slash, the subcategory. You can use one subcategory from the SwissCRM Apps categories list. (https://www.swissconsultings.ch/apps/themes)
 
 
 ``depends`` specifies the modules needed by our theme to work properly. For our tutorial theme, we only need website and website_theme_install to install/update. If you need blogging or eCommerce features as well, you have to add those modules too.

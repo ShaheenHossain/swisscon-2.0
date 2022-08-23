@@ -1,7 +1,7 @@
 SwissCRM Accounting
 ---------------
 
-The SwissCRM <a href="https://www.swisshq.com/page/accounting">Open Source Accounting</a> app allows a better way to
+The SwissCRM <a href="https://www.swissconsultings.ch/page/accounting">Open Source Accounting</a> app allows a better way to
 collaborate with your accountants, your customers and control your suppliers.
 
 Activate features on demand, from integrated analytic accounting to budget,

@@ -2272,10 +2272,10 @@ msgstr "Nama Gelar Perekrutan harus unik!"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Nama email alias, misalnya 'pekerjaan' jika Anda ingin menangkap email untuk"
-" <jobs@example.swisshq.com>"
+" <jobs@example.swissconsultings.ch>"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_user_id

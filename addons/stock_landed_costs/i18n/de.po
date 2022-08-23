@@ -10,7 +10,7 @@
 # Bettina Pfeifer <betzilla@web.de>, 2020
 # Bülent Tiknas <btiknas@googlemail.com>, 2020
 # Mark Lorenz <bandworm@gmail.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
 # Florian Pose <fp@igh.de>, 2020
 # UteHaus, 2020

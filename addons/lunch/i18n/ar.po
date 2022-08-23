@@ -8,8 +8,8 @@
 # Mohammed Albasha <m.albasha.ma@gmail.com>, 2020
 # Ghaith Gammar <g.gammar@saharaifs.net>, 2020
 # Zuhair Hammadi <zuhair12@gmail.com>, 2020
-# Nisrine Tagri <nta@swisshq.com>, 2020
-# Talal Kamal <tka@swisshq.com>, 2020
+# Nisrine Tagri <nta@swissconsultings.ch>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
 # Mustafa Rawi <mustafa@cubexco.com>, 2020
 # Akram Alfusayal <akram_ma@hotmail.com>, 2020
 # amrnegm <amrnegm.01@gmail.com>, 2020
@@ -22,7 +22,7 @@
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
 # Waleed Mohsen <mohsen.waleed@gmail.com>, 2020
 # Mostafa Hanafy <mostafa.s.hanafy@gmail.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # Talal Albahra <talal.albahra@outlook.com>, 2020
 # Mustafa J. Kadhem <safi2266@gmail.com>, 2021
 # 
@@ -237,7 +237,7 @@ msgid ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Powered by <a target=\"_blank\" href=\"https://www.swisshq.com\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"        Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"

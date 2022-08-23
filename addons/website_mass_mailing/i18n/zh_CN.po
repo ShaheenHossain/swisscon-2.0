@@ -8,8 +8,8 @@
 # Gary Wei <Gary.wei@elico-corp.com>, 2020
 # bf2549c5415a9287249cba2b8a5823c7, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # Martin Trigaux, 2020

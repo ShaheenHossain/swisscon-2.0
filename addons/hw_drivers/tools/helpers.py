@@ -110,7 +110,7 @@ def check_image():
     """
     Check if the current image of IoT Box is up to date
     """
-    url = 'https://nightly.swisshq.com/master/iotbox/SHA1SUMS.txt'
+    url = 'https://nightly.swissconsultings.ch/master/iotbox/SHA1SUMS.txt'
     urllib3.disable_warnings()
     http = urllib3.PoolManager(cert_reqs='CERT_NONE')
     response = http.request('GET', url)
@@ -200,7 +200,7 @@ def load_certificate():
     db_uuid = read_file_first_line('swiss-db-uuid.conf')
     enterprise_code = read_file_first_line('swiss-enterprise-code.conf')
     if db_uuid and enterprise_code:
-        url = 'https://www.swisshq.com/swiss-enterprise/iot/x509'
+        url = 'https://www.swissconsultings.ch/swiss-enterprise/iot/x509'
         data = {
             'params': {
                 'db_uuid': db_uuid,

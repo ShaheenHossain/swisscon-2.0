@@ -8,7 +8,7 @@
 ''',
     'category': 'Human Resources',
     'author': 'SwissCRM ',
-    'website': 'https://swisshq.com',
+    'website': 'https://swissconsultings.ch',
     'depends': ['base_setup', 'mail', 'utm', 'rating', 'web_tour', 'resource',
                 'portal', 'digest', 'portal_rating'],
     'data': [

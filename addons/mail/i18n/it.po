@@ -7,14 +7,14 @@
 # SebastianoPistore <SebastianoPistore.info@protonmail.ch>, 2020
 # Massimo Bianchi <bianchi.massimo@gmail.com>, 2020
 # Marco Calcagni <mcalcagni@dinamicheaziendali.it>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Giovanni Perteghella <giovanni@perteghella.org>, 2020
 # Francesco Garganese <francesco.garganese@aeromnia.aero>, 2020
 # Martin Trigaux, 2020
 # Simone Bernini <simone@aperturelabs.it>, 2020
 # Paolo Valier, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
-# Luigia Cimmino Caserta <lcc@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
+# Luigia Cimmino Caserta <lcc@swissconsultings.ch>, 2020
 # Alex Comba <alex.comba@agilebg.com>, 2021
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
@@ -6066,10 +6066,10 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_channel__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Il nome dell’alias e-mail, es. “lavori” per intercettare le e-mail a "
-"<lavori@example.swisshq.com>"
+"<lavori@example.swissconsultings.ch>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_user_id
@@ -6640,11 +6640,11 @@ msgstr "Utenti in questo canale: %(members)s %(dots)s e tu."
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.swisshq.com)."
+"email server (@mycompany.swissconsultings.ch)."
 msgstr ""
 "Per inviare/ricevere e-mail nelle versioni Community o Enterprise è "
 "necessario usare server di posta personali. Gli utenti online beneficiano "
-"già di un server di posta pronto all'uso (@mycompany.swisshq.com)."
+"già di un server di posta pronto all'uso (@mycompany.swissconsultings.ch)."
 
 #. module: mail
 #. openerp-web
@@ -7185,8 +7185,8 @@ msgstr "mese/i"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
-msgid "mycompany.swisshq.com"
-msgstr "mycompany.swisshq.com"
+msgid "mycompany.swissconsultings.ch"
+msgstr "mycompany.swissconsultings.ch"
 
 #. module: mail
 #. openerp-web

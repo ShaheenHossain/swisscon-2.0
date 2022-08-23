@@ -3,16 +3,16 @@
 # 	* crm
 # 
 # Translators:
-# Romica Paun <roa@swisshq.com>, 2020
+# Romica Paun <roa@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Lorenzo Battistini <lb@takobi.online>, 2020
 # Luigi Di Naro <gigidn@gmail.com>, 2020
 # SebastianoPistore <SebastianoPistore.info@protonmail.ch>, 2020
 # David Minneci <david@numeko.it>, 2020
-# efaSwissCRM <efa@swisshq.com>, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# efaSwissCRM <efa@swissconsultings.ch>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Paolo Valier, 2020
-# Iacopo Simonelli <lsi@swisshq.com>, 2020
+# Iacopo Simonelli <lsi@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""
@@ -281,7 +281,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -353,7 +353,7 @@ msgstr ""
 "</td></tr>\n"
 "<!-- FORNITO DA -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Fornito da <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"    Fornito da <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -3035,10 +3035,10 @@ msgstr ""
 #: model:ir.model.fields,help:crm.field_crm_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Nome dell’alias e-mail, es. “lavori” per intercettare le e-mail a "
-"<lavori@example.swisshq.com>"
+"<lavori@example.swissconsultings.ch>"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__partner_name
@@ -3523,8 +3523,8 @@ msgstr "Es. Tariffazione prodotto"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "es. https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "es. https://www.swissconsultings.ch"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_stage__team_count

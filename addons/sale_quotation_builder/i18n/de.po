@@ -8,7 +8,7 @@
 # Martin Trigaux, 2020
 # Mathias Neef <mn@copado.de>, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Friederike Fasterling-Nesselbosch, 2021
 # 
 msgid ""

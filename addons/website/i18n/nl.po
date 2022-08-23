@@ -6,8 +6,8 @@
 # Thijs van Oers <thijsvanoers@yahoo.com>, 2020
 # Gunther Clauwaert <gclauwae@hotmail.com>, 2020
 # GP Nicolai <kameleon1987@hotmail.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Antoine Gilard <ang@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Antoine Gilard <ang@swissconsultings.ch>, 2020
 # Eric Geens <ericgeens@yahoo.com>, 2020
 # Cas Vissers <casvissers@brahoo.nl>, 2020
 # Martin Trigaux, 2020
@@ -9415,8 +9415,8 @@ msgstr "website"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.swisshq.com"
-msgstr "www.swisshq.com"
+msgid "www.swissconsultings.ch"
+msgstr "www.swissconsultings.ch"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.qweb_500

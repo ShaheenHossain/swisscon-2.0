@@ -756,10 +756,10 @@ msgstr "You are about to send this"
 #, python-format
 msgid ""
 "You don't have an IAP account registered for this service.<br>Please go to "
-"<a href=%s target=\"new\">iap.swisshq.com</a> to claim your free credits."
+"<a href=%s target=\"new\">iap.swissconsultings.ch</a> to claim your free credits."
 msgstr ""
 "You don't have an IAP account registered for this service.<br>Please go to "
-"<a href=%s target=\"new\">iap.swisshq.com</a> to claim your free credits."
+"<a href=%s target=\"new\">iap.swissconsultings.ch</a> to claim your free credits."
 
 #. module: snailmail
 #: code:addons/snailmail/models/snailmail_letter.py:0

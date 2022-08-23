@@ -3,7 +3,7 @@
 # * l10n_multilang
 # 
 # Translators:
-# Cécile Collart <cco@swisshq.com>, 2019
+# Cécile Collart <cco@swissconsultings.ch>, 2019
 # Martin Trigaux, 2019
 # Maxime Chambreuil <mchambreuil@ursainfosystems.com>, 2019
 # Olivier Lenoir <olivier.lenoir@free.fr>, 2019

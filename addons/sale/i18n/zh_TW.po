@@ -6,7 +6,7 @@
 # Carson Tsai <Ra661tCat@gmail.com>, 2020
 # Michael Yeung, 2020
 # 226408 台北 <226408@so8d.com>, 2021
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # JustinC <dev@dottdot.com>, 2021
 # Martin Trigaux, 2021
 # Benson <Benson.Dr@Gmail.com>, 2021

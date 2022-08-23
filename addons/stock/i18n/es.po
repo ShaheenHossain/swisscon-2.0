@@ -7,12 +7,12 @@
 # Luis M. Ontalba <luis.martinez@tecnativa.com>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
 # Christopher Ormaza <chris.ormaza@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Víctor Martínez <victor.martinez@tecnativa.com>, 2020
 # Esteka Digital <social@esteka.com>, 2021
 # Xabi Spacebiker <xabispacebiker@gmail.com>, 2021
-# Priscilla (prs) SwissCRM <prs@swisshq.com>, 2021
+# Priscilla (prs) SwissCRM <prs@swissconsultings.ch>, 2021
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
 # Rick Hunter <rick.hunter.ec@gmail.com>, 2021
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021

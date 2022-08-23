@@ -14,7 +14,7 @@
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2020
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
 # Mostafa Hanafy <mostafa.s.hanafy@gmail.com>, 2020
-# Nisrine Tagri <nta@swisshq.com>, 2020
+# Nisrine Tagri <nta@swissconsultings.ch>, 2020
 # Sherif Abd Ekmoniem <sherif.tsupport@gmail.com>, 2020
 # 
 msgid ""

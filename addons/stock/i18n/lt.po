@@ -19,7 +19,7 @@
 # Linas Versada <linaskrisiukenas@gmail.com>, 2021
 # Arunas Vaitekunas <vaitekunas@gmail.com>, 2021
 # Denis Knotko <denis_knotko@yahoo.com>, 2021
-# Jonas Zinkevicius <jozi@swisshq.com>, 2021
+# Jonas Zinkevicius <jozi@swissconsultings.ch>, 2021
 # Donatas <donatasvaliulis16@gmail.com>, 2021
 # 
 msgid ""

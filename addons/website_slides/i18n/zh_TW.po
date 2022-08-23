@@ -6,8 +6,8 @@
 # nle_odoo, 2020
 # Andy Cheng <andy.cheng@richsoda.com>, 2020
 # Martin Trigaux, 2020
-# Mandy Choy <mnc@swisshq.com>, 2021
-# Manga Tsang <mts@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
+# Manga Tsang <mts@swissconsultings.ch>, 2021
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2021
 # 
 msgid ""
@@ -5466,8 +5466,8 @@ msgstr "e.g. 介紹"
 
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "例如：https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "例如：https://www.swissconsultings.ch"
 
 #. module: website_slides
 #: model:ir.ui.menu,name:website_slides.website_slides_menu_root

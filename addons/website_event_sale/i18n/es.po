@@ -7,7 +7,7 @@
 # Pedro M. Baeza <pedro.baeza@gmail.com>, 2020
 # Carlos Lopez <celm1990@hotmail.com>, 2020
 # Miguel Orueta <mo@landoo.es>, 2020
-# Juan Pablo Mora <jpm@swisshq.com>, 2020
+# Juan Pablo Mora <jpm@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # 
 msgid ""

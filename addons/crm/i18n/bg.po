@@ -264,7 +264,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -2860,10 +2860,10 @@ msgstr ""
 #: model:ir.model.fields,help:crm.field_crm_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Името на имейла, напр. \"работни места\", ако искате да уловите имейли за "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__partner_name
@@ -3319,8 +3319,8 @@ msgstr "например Ценообразуване при продуктит�
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "e.g. https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "e.g. https://www.swissconsultings.ch"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_stage__team_count

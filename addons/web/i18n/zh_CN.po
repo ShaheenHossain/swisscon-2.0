@@ -5,7 +5,7 @@
 # Translators:
 # waveyeung <waveyeung@qq.com>, 2020
 # guohuadeng <guohuadeng@hotmail.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # Jerry Pan <panjianyu@inspur.com>, 2020
 # 张宏奎 <zhanghongkui@inspur.com>, 2020
 # Zamba Lee <zambalee@gmail.com>, 2020
@@ -21,7 +21,7 @@
 # ChinaMaker <liuct@chinamaker.net>, 2020
 # snow wang <147156565@qq.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
-# Manga Tsang <mts@swisshq.com>, 2020
+# Manga Tsang <mts@swissconsultings.ch>, 2020
 # as co02 <asco02@163.com>, 2020
 # Gary Wei <Gary.wei@elico-corp.com>, 2020
 # xiaobin wu <bd5dml@gmail.com>, 2020
@@ -29,7 +29,7 @@
 # bf2549c5415a9287249cba2b8a5823c7, 2020
 # 黎伟杰 <674416404@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # wangting <39181819@qq.com>, 2020
 # Jeanphy <hzh0292@qq.com>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
@@ -2615,8 +2615,8 @@ msgstr "多行文字"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "swisshq.com账户"
+msgid "My swissconsultings.ch account"
+msgstr "swissconsultings.ch账户"
 
 #. module: web
 #. openerp-web

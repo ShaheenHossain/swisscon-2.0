@@ -6,7 +6,7 @@
 # Martin Trigaux, 2020
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2020
 # Gunther Clauwaert <gclauwae@hotmail.com>, 2020
-# Antoine Gilard <ang@swisshq.com>, 2020
+# Antoine Gilard <ang@swissconsultings.ch>, 2020
 # Erwin van der Ploeg (SwissCRM Experts) <erwin@odooexperts.nl>, 2021
 # 
 msgid ""

@@ -8,7 +8,7 @@
 # waveyeung <waveyeung@qq.com>, 2020
 # 开源智造OSCG-老杨 <yangxunbo@163.com>, 2020
 # WK Leong <zsdicky@gmail.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # 卫安琪 <weianqi1991@gmail.com>, 2020
 # Frank Liu <liuchunbo@gmail.com>, 2020
 # 飛行de魚 <cnpioneer@163.com>, 2020
@@ -23,7 +23,7 @@
 # 黎伟杰 <674416404@qq.com>, 2020
 # yuan wenpu <1140021222@qq.com>, 2020
 # Liping Wang <lynn.config@gmail.com>, 2020
-# Manga Tsang <mts@swisshq.com>, 2020
+# Manga Tsang <mts@swissconsultings.ch>, 2020
 # as co02 <asco02@163.com>, 2020
 # 226408 台北 <226408@so8d.com>, 2020
 # GritLuo <dooms21day@163.com>, 2020
@@ -31,7 +31,7 @@
 # zilin wu <binggue@qq.com>, 2020
 # ChinaMaker <liuct@chinamaker.net>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Mandy Choy <mnc@swisshq.com>, 2020
+# Mandy Choy <mnc@swissconsultings.ch>, 2020
 # shan wang <wangshan0901@gmail.com>, 2020
 # 晋 宋 <56457576@qq.com>, 2020
 # Felix Yang <felixyangsh@aliyun.com>, 2021
@@ -41,7 +41,7 @@
 # Titan Li <lghbeta@gmail.com>, 2021
 # keecome <7017511@qq.com>, 2021
 # liAnGjiA <liangjia@qq.com>, 2021
-# JZH-SwissCRM <jzh@swisshq.com>, 2021
+# JZH-SwissCRM <jzh@swissconsultings.ch>, 2021
 # Etren Leo <475851879@qq.com>, 2021
 # allan wong, 2021
 # Jeffery CHEN <jeffery9@gmail.com>, 2021

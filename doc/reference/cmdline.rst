@@ -103,11 +103,11 @@ Database
 
     - ``%h`` is replaced by the whole hostname the request is made on.
     - ``%d`` is replaced by the subdomain the request is made on, with the
-      exception of ``www`` (so domain ``swisshq.com`` and ``www.swisshq.com`` both
+      exception of ``www`` (so domain ``swissconsultings.ch`` and ``www.swissconsultings.ch`` both
       match the database ``swiss``).
 
       These operations are case sensitive. Add option ``(?i)`` to match all
-      databases (so domain ``swisshq.com`` using ``(?i)%d`` matches the database
+      databases (so domain ``swissconsultings.ch`` using ``(?i)%d`` matches the database
       ``SwissCRM``).
 
     Since version 11, it's also possible to restrict access to a given database

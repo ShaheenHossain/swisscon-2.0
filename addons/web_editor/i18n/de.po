@@ -7,14 +7,14 @@
 # Thorsten Vocks <thorsten.vocks@openbig.org>, 2020
 # 8fabe9d4925701ba6dc5628e7eca4676_ff48aa2 <acca9f42d56c974689860b9f2ffd9149_361329>, 2020
 # Andreas Perhab <a.perhab@wtioit.at>, 2020
-# Johannes Croe <jcr@swisshq.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Johannes Croe <jcr@swissconsultings.ch>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # e2f <projects@e2f.com>, 2020
 # Ralf Hilgenstock <rh@dialoge.info>, 2020
 # Wolfgang Taferner, 2020
 # Henry Mineehen <info@mineehen.de>, 2020
 # Katharina Moritz <kmo@e2f.com>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
 # Chris Egal <sodaswed@web.de>, 2021
@@ -2425,15 +2425,15 @@ msgstr ""
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
-msgid "https://www.swisshq.com/logo.png"
-msgstr "https://www.swisshq.com/logo.png"
+msgid "https://www.swissconsultings.ch/logo.png"
+msgstr "https://www.swissconsultings.ch/logo.png"
 
 #. module: web_editor
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
-msgid "https://www.swisshq.com/mydocument"
-msgstr "https://www.swisshq.com/mydocument"
+msgid "https://www.swissconsultings.ch/mydocument"
+msgstr "https://www.swissconsultings.ch/mydocument"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options_image_optimization_widgets

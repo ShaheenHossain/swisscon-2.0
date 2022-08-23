@@ -9,13 +9,13 @@
 # Antonio Trueba, 2020
 # Jairo Llopis <yajo.sk8@gmail.com>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # anderson buitron <andersonbuitron@unicauca.edu.co>, 2020
 # Martin Trigaux, 2020
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
-# Patricia Gutiérrez Capetillo <pagc@swisshq.com>, 2021
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
+# Patricia Gutiérrez Capetillo <pagc@swissconsultings.ch>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""
@@ -3808,8 +3808,8 @@ msgstr "ej. Conferencia de Arquitectos"
 
 #. module: event
 #: model_terms:event.event,description:event.event_2
-msgid "events@swisshq.com"
-msgstr "events@swisshq.com"
+msgid "events@swissconsultings.ch"
+msgstr "events@swissconsultings.ch"
 
 #. module: event
 #: model_terms:event.event,description:event.event_7

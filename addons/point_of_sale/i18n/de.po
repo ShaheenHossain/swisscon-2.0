@@ -17,9 +17,9 @@
 # Florian Pose <fp@igh.de>, 2020
 # philku79 <philip.kuss@gmx.de>, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # e2f <projects@e2f.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
 # Tobias Arndt, 2020
 # Felix Schubert <felix.schubert@go-erp.com>, 2020
@@ -27,7 +27,7 @@
 # DE T1 <e2f8846@yahoo.com>, 2021
 # Martin Trigaux, 2021
 # EugenBrodskiSAMSAIT <eugen.brodski@samsa-it.de>, 2021
-# Kevin Harrings <kha@swisshq.com>, 2021
+# Kevin Harrings <kha@swissconsultings.ch>, 2021
 # Robert Förster <hello@suppliot.eu>, 2021
 # Friederike Fasterling-Nesselbosch, 2021
 # 

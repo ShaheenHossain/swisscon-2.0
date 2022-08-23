@@ -15,7 +15,7 @@
 # Jose Ramon Roca <jrroca@pobox.com>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
 # Fernando Herrera <baloosoftware@gmail.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # 

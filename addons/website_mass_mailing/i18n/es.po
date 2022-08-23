@@ -8,7 +8,7 @@
 # Jairo Llopis <yajo.sk8@gmail.com>, 2020
 # Gelo Joga Landoo <gj@landoo.es>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # Martin Trigaux, 2020
 # 

@@ -3,7 +3,7 @@
 # * event
 # 
 # Translators:
-# Martin Trigaux <mat@swisshq.com>, 2017
+# Martin Trigaux <mat@swissconsultings.ch>, 2017
 # Andre de Kock <adekock11@gmail.com>, 2017
 msgid ""
 msgstr ""
@@ -1964,7 +1964,7 @@ msgstr ""
 #. module: event
 #: model_terms:event.event,description:event.event_2
 #: model_terms:event.event,description:event.event_3
-msgid "events@swisshq.com"
+msgid "events@swissconsultings.ch"
 msgstr ""
 
 #. module: event
@@ -1981,7 +1981,7 @@ msgstr ""
 
 #. module: event
 #: model_terms:event.event,description:event.event_3
-msgid "https://www.swisshq.com/services/technical-training"
+msgid "https://www.swissconsultings.ch/services/technical-training"
 msgstr ""
 
 #. module: event

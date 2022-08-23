@@ -6,7 +6,7 @@
     'name': 'SwissCRM Core Backend',
     'version': '2.0.1.0',
     "category": "Hidden",
-    "website": "https://swisshq.com/",
+    "website": "https://swissconsultings.ch/",
     "author": "SwissCRM ,Openworx",
     "license": "LGPL-3",
     'summary': 'Backend Theme For SwissCRM',

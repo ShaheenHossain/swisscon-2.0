@@ -3,7 +3,7 @@
 # 	* sale_project
 # 
 # Translators:
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""

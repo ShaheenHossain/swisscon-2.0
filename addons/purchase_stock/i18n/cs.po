@@ -9,7 +9,7 @@
 # Jan Horzinka <jan.horzinka@centrum.cz>, 2020
 # Michal Veselý <michal@veselyberanek.net>, 2020
 # trendspotter <jirka.p@volny.cz>, 2020
-# Pauline Thiry <pth@swisshq.com>, 2020
+# Pauline Thiry <pth@swissconsultings.ch>, 2020
 # karolína schusterová <karolina.schusterova@vdp.sk>, 2021
 # Rastislav Brencic <rastislav.brencic@azet.sk>, 2021
 # 

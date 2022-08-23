@@ -15,7 +15,7 @@ This module aims to manage employee's attendances.
 Keeps account of the attendances of the employees on the basis of the
 actions(Check in/Check out) performed by them.
        """,
-    'website': 'https://www.swisshq.com/page/employees',
+    'website': 'https://www.swissconsultings.ch/page/employees',
     'depends': ['hr', 'barcodes'],
     'data': [
         'security/hr_attendance_security.xml',

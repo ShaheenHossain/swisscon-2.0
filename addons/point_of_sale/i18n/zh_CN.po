@@ -20,7 +20,7 @@
 # xu xiaohu <xu.xiaohu@gmail.com>, 2020
 # Jeanphy <hzh0292@qq.com>, 2020
 # Jerry Pan <panjianyu@inspur.com>, 2020
-# Manga Tsang <mts@swisshq.com>, 2020
+# Manga Tsang <mts@swissconsultings.ch>, 2020
 # Felix Yang <felixyangsh@aliyun.com>, 2020
 # GritLuo <dooms21day@163.com>, 2020
 # zilin wu <binggue@qq.com>, 2020
@@ -29,9 +29,9 @@
 # ljsrzc007 <ljsrzc007@gmail.com>, 2020
 # Jeffery CHEN <jeffery9@gmail.com>, 2021
 # liAnGjiA <liangjia@qq.com>, 2021
-# JZH-SwissCRM <jzh@swisshq.com>, 2021
+# JZH-SwissCRM <jzh@swissconsultings.ch>, 2021
 # 山西清水欧度(QQ:54773801) <54773801@qq.com>, 2021
-# Felix Yuen <fyu@swisshq.com>, 2021
+# Felix Yuen <fyu@swissconsultings.ch>, 2021
 # inspur qiuguodong <qiuguodong@inspur.com>, 2021
 # Martin Trigaux, 2021
 # Benson <Benson.Dr@Gmail.com>, 2021

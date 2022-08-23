@@ -2,7 +2,7 @@ SwissCRM Manufacturing Resource Planning
 ------------------------------------
 
 Manage Bill of Materials, plan manufacturing orders, track work orders with the
-SwissCRM <a href="https://www.swisshq.com/page/manufacturing">Open Source MRP</a> app.
+SwissCRM <a href="https://www.swissconsultings.ch/page/manufacturing">Open Source MRP</a> app.
 
 Get all your assembly or manufacturing operations managed by SwissCRM. Schedule
 manufacturing orders and work orders automatically. Review the proposed

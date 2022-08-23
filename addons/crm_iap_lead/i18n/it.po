@@ -6,9 +6,9 @@
 # Martin Trigaux, 2020
 # Lorenzo Battistini <lb@takobi.online>, 2020
 # Paolo Valier, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Luana Andronico <andronicoluana@gmail.com>, 2020
-# Iacopo Simonelli <lsi@swisshq.com>, 2020
+# Iacopo Simonelli <lsi@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""

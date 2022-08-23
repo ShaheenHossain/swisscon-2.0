@@ -18,23 +18,23 @@
 # Antonio Trueba, 2020
 # Carlos rodriguez <carlosalbertor436@gmail.com>, 2020
 # RGB Consulting <odoo@rgbconsulting.com>, 2020
-# Mariana Santos Romo <msn@swisshq.com>, 2020
-# Efrem Jimenez <efj@swisshq.com>, 2020
+# Mariana Santos Romo <msn@swissconsultings.ch>, 2020
+# Efrem Jimenez <efj@swissconsultings.ch>, 2020
 # Fabian <fabiananguiano@gmail.com>, 2020
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2020
 # Mateo Tibaquirá Palacios <nestormateo@gmail.com>, 2020
 # José Vicente <txusev@gmail.com>, 2020
 # Pablo Fuentes <pablo@studio73.es>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # Martin Trigaux, 2020
 # Luis M. Ontalba <luis.martinez@tecnativa.com>, 2020
 # Pablo Rojas <rojaspablo88@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
-# Carolina Gonzalez <cgo@swisshq.com>, 2020
-# Olivier Dony <odo@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
+# Carolina Gonzalez <cgo@swissconsultings.ch>, 2020
+# Olivier Dony <odo@swissconsultings.ch>, 2020
 # Jorge Luis Alfonso <jlalfonso21@gmail.com>, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
@@ -5578,8 +5578,8 @@ msgstr ""
 
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "e.j. https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "e.j. https://www.swissconsultings.ch"
 
 #. module: website_slides
 #: model:ir.ui.menu,name:website_slides.website_slides_menu_root

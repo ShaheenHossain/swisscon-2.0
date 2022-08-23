@@ -3,7 +3,7 @@
 # 	* google_drive
 # 
 # Translators:
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # 
 msgid ""

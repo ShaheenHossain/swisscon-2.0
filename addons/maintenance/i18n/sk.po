@@ -1354,10 +1354,10 @@ msgstr ""
 #: model:ir.model.fields,help:maintenance.field_maintenance_equipment_category__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Meno emailového alias, napr. \"práce\", ak chcete zachytiť emaily pre "
-"<praca@priklad.swisshq.com>"
+"<praca@priklad.swissconsultings.ch>"
 
 #. module: maintenance
 #: model:ir.model.fields,help:maintenance.field_maintenance_equipment_category__alias_user_id

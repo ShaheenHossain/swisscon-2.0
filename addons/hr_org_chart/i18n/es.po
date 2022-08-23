@@ -3,7 +3,7 @@
 # 	* hr_org_chart
 # 
 # Translators:
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
 # Martin Trigaux, 2021
 # 
 msgid ""

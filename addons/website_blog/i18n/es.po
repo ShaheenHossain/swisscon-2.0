@@ -14,16 +14,16 @@
 # Gelo Joga Landoo <gj@landoo.es>, 2020
 # 966ff43e6966712895a590e7320ca288, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
-# Carolina Gonzalez <cgo@swisshq.com>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
+# Carolina Gonzalez <cgo@swissconsultings.ch>, 2020
 # David Arnold <blaggacao@users.noreply.github.com>, 2020
 # gabriumaa <gabriel.umana@delfixcr.com>, 2020
 # David Vidal <david.vidal@trespinos.es>, 2020
 # Martin Trigaux, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
-# Althay Ramallo Fuentes <arf@swisshq.com>, 2020
+# Althay Ramallo Fuentes <arf@swissconsultings.ch>, 2020
 # Jose Alejandro Echeverri Valencia <josealejandroeche@gmail.com>, 2020
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021

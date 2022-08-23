@@ -2133,8 +2133,8 @@ msgstr "Pomjeri gore"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1550
 #, python-format
-msgid "My swisshq.com account"
-msgstr "Moj swisshq.com nalog"
+msgid "My swissconsultings.ch account"
+msgstr "Moj swissconsultings.ch nalog"
 
 #. module: web
 #. openerp-web

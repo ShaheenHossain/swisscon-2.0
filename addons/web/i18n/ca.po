@@ -2618,8 +2618,8 @@ msgstr "Text multilínia"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "El meu compte swisshq.com"
+msgid "My swissconsultings.ch account"
+msgstr "El meu compte swissconsultings.ch"
 
 #. module: web
 #. openerp-web

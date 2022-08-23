@@ -9,8 +9,8 @@
 # Ermin Trevisan <trevi@twanda.com>, 2020
 # Katharina Moritz <kmo@e2f.com>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Tobias Arndt, 2020
 # Friederike Fasterling-Nesselbosch, 2021
 # 

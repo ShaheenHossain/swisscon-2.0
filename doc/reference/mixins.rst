@@ -585,7 +585,7 @@ on the alias, the following are of particular interest:
 
 ``alias_name`` - :class:`~swiss.fields.Char`
     name of the email alias, e.g. 'jobs' if you want to catch emails for
-    <jobs@example.swisshq.com>
+    <jobs@example.swissconsultings.ch>
 ``alias_user_id`` - :class:`~swiss.fields.Many2one` (``res.users``)
     owner of records created upon receiving emails on this alias;
     if this field is not set the system will attempt to find the right owner
@@ -807,7 +807,7 @@ These models have a single field ``name`` (i.e. they are simply there to
 distinguish campaigns but don't have any specific behaviour).
 
 Once a customer visits your website with these parameters set in the url
-(i.e. https://www.swisshq.com/?campaign_id=mixin_talk&source_id=www.swisshq.com&medium_id=website),
+(i.e. https://www.swissconsultings.ch/?campaign_id=mixin_talk&source_id=www.swissconsultings.ch&medium_id=website),
 three cookies are set in the visitor's website for these parameters.
 Once a object that inherits the utm.mixin is created from the website (i.e. lead
 form, job application, etc.), the utm.mixin code kicks in and fetches the values

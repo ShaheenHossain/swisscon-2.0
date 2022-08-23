@@ -12,7 +12,7 @@
 # Marina Jacques <marinajacques@gmail.com>, 2020
 # Marcelo Costa <marcelo@comdesk.com.br>, 2020
 # Fernando Colus <fcolus1@gmail.com>, 2020
-# Liane Cafarate <lic@swisshq.com>, 2020
+# Liane Cafarate <lic@swissconsultings.ch>, 2020
 # Éder Brito <britoederr@gmail.com>, 2021
 # 
 msgid ""
@@ -158,8 +158,8 @@ msgstr "Login com Google"
 
 #. module: auth_oauth
 #: model:auth.oauth.provider,body:auth_oauth.provider_openerp
-msgid "Log in with swisshq.com"
-msgstr "Login com swisshq.com"
+msgid "Log in with swissconsultings.ch"
+msgstr "Login com swissconsultings.ch"
 
 #. module: auth_oauth
 #: model:ir.model.fields,field_description:auth_oauth.field_res_users__oauth_access_token

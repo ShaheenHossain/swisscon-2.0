@@ -10,7 +10,7 @@
     recurring of any particular invoice
     """,
     'author': 'SwissCRM ',
-    'website': 'https://www.swisshq.com/',
+    'website': 'https://www.swissconsultings.ch/',
     'depends': ['account', 'recurring'],
     'data': [
         'views/account_invoice_view.xml',

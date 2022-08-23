@@ -11,8 +11,8 @@
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # jabelchi, 2021
-# Daniela Cervantes <dace@swisshq.com>, 2021
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
+# Daniela Cervantes <dace@swissconsultings.ch>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""

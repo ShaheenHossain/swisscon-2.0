@@ -14,7 +14,7 @@
 E-invoice implementation
     """,
     'category': 'Accounting/Localizations/EDI',
-    'website': 'http://www.swisshq.com/',
+    'website': 'http://www.swissconsultings.ch/',
     'data': [
         'security/ir.model.access.csv',
         'data/account_edi_data.xml',

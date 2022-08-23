@@ -6,7 +6,7 @@
     'version': '1.0',
     'category': 'Productivity/Notes',
     'description': "",
-    'website': 'https://www.swisshq.com/page/notes',
+    'website': 'https://www.swissconsultings.ch/page/notes',
     'summary': 'Organize your work with memos',
     'sequence': 260,
     'depends': [

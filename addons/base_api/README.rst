@@ -26,7 +26,7 @@ Maintainers
     
         To get a guaranteed support
         you are kindly requested to purchase the module
-        at `swiss apps store <https://store.swisshq.com/apps/modules/13.0/base_api/>`__.
+        at `swiss apps store <https://swissconsultings.ch/>`__.
         
         Thank you for understanding!
         
@@ -37,7 +37,7 @@ Further information
 
 Demo: http://runbot.it-projects.info/demo/sync-addons/13.0
 
-HTML Description: https://store.swisshq.com/apps/modules/13.0/base_api/
+HTML Description: https://swissconsultings.ch/
 
 Usage instructions: `<doc/index.rst>`__
 

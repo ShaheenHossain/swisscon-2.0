@@ -9,16 +9,16 @@ Extract API
 
 SwissCRM provides a service allowing you to automate the processing of your invoices. The service scans your document using an Optical
 Character Recognition (OCR) engine and then uses AI-based algorithms to extract the fields of interest such as the total, the due date, or
-the invoice lines. More functional information can be found on the `demo page <https://swisshq.com/invoice-automation>`_.
+the invoice lines. More functional information can be found on the `demo page <https://swissconsultings.ch/invoice-automation>`_.
 
-This service is a paid service. Each invoice processing will cost you one credit. Three different sized packs can be bought on `iap.swisshq.com <https://swisshq.com/iap/in-app-services/259?sortby=date>`_.
+This service is a paid service. Each invoice processing will cost you one credit. Three different sized packs can be bought on `iap.swissconsultings.ch <https://swissconsultings.ch/iap/in-app-services/259?sortby=date>`_.
 
 You can either use this service directly in the SwissCRM Accounting App or through the API. The Extract API which is detailed in the next section
 allows you to integrate our service directly into your own projects.
 
 Invoices
 ========
-The extract API use the JSON-RPC2_ protocol. The diffent routes are located at the following address: **https://iap-extract.swisshq.com**.
+The extract API use the JSON-RPC2_ protocol. The diffent routes are located at the following address: **https://iap-extract.swissconsultings.ch**.
 
 Expected successful flow
 ------------------------

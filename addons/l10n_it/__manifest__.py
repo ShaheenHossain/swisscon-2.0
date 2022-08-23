@@ -17,7 +17,7 @@ Piano dei conti italiano di un'impresa generica.
 Italian accounting chart and localization.
     """,
     'category': 'Accounting/Localizations/Account Charts',
-    'website': 'http://www.swisshq.com/',
+    'website': 'http://www.swissconsultings.ch/',
     'data': [
         'data/l10n_it_chart_data.xml',
         'data/account.account.template.csv',

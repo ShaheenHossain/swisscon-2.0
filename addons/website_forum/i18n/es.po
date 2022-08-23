@@ -9,7 +9,7 @@
 # Antonio Trueba, 2020
 # Inigo Zuluaga <inigo_zuluaga@yahoo.es>, 2020
 # Gustavo Orozco H. <gustavo.orozco.h@app-247.com>, 2020
-# Vivian Montana <vmo@swisshq.com>, 2020
+# Vivian Montana <vmo@swissconsultings.ch>, 2020
 # Sergio Flores <vitavitae1@gmail.com>, 2020
 # e2f <projects@e2f.com>, 2020
 # Martin Trigaux, 2020
@@ -23,11 +23,11 @@
 # 966ff43e6966712895a590e7320ca288, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
 # Cris Martin <cristina.marrod@gmail.com>, 2020
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Juan Pablo Mora <jpm@swisshq.com>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Juan Pablo Mora <jpm@swissconsultings.ch>, 2020
 # 2ce5c0f90a7530708d68bb8c6ad9a772_9dbda0e <234f5478d2e8ef72de316673811c6a08_768192>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Osiris Anael Roman Eras <osiris.roman@yachaytech.edu.ec>, 2020
 # Susanna Pujol, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021

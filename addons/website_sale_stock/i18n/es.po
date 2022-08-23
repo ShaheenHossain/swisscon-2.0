@@ -11,7 +11,7 @@
 # Miguel Orueta <mo@landoo.es>, 2020
 # 966ff43e6966712895a590e7320ca288, 2020
 # 36700cd705c35e1852bdffcd0b296648, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # nle_odoo, 2021
 # 

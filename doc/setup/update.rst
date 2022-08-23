@@ -29,7 +29,7 @@ Upgrading (an SwissCRM database)
   Refers to a complex data processing operation where the structure and contents of your
   database is permanently altered to make it compatible with a new release of SwissCRM.
   This operation is irreversible and typically accomplished via SwissCRM's
-  `database upgrade service <https://upgrade.swisshq.com>`_, when you decide to
+  `database upgrade service <https://upgrade.swissconsultings.ch>`_, when you decide to
   switch to a newer release of SwissCRM.
   Historically, this process has also been known as a "migration" because it involves moving data
   around inside the database, even though the database may end up at the same physical location
@@ -37,7 +37,7 @@ Upgrading (an SwissCRM database)
 
 This page describes the typical steps needed to *update* an SwissCRM installation to the latest
 version. If you'd like more information about upgrading a database, please visit the
-`SwissCRM Upgrade page <https://upgrade.swisshq.com>`_ instead.
+`SwissCRM Upgrade page <https://upgrade.swissconsultings.ch>`_ instead.
 
 
 In a nutshell
@@ -64,8 +64,8 @@ because the procedure is very similar.
 Step 1: Download an updated SwissCRM version
 ===========================================
 
-The central download page is https://swisshq.com/download. If you see a "Buy" link for the
-SwissCRM Enterprise download, make sure you are logged into swisshq.com with the same login that is
+The central download page is https://swissconsultings.ch/download. If you see a "Buy" link for the
+SwissCRM Enterprise download, make sure you are logged into swissconsultings.ch with the same login that is
 linked to your SwissCRM Enterprise subscription.
 
 Alternatively, you can use the unique download link that was included with your SwissCRM Enterprise
@@ -107,7 +107,7 @@ Source Install (Tarball)
 ------------------------
 If you have originally installed SwissCRM with the "tarball" version (source code archive), you have
 to replace the installation directory with a newer version. First download the latest tarball
-from swisshq.com. They are updated daily and include the latest security fixes (see step #1)
+from swissconsultings.ch. They are updated daily and include the latest security fixes (see step #1)
 After downloading the package, extract it to a temporary location on your server.
 
 You will get a folder labelled with the version of the source code, for example "swiss-13.0+e.20190719",

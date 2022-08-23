@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # Friederike Fasterling-Nesselbosch, 2021
 # 
 msgid ""

@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Sergio Flores <vitavitae1@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # Martin Trigaux, 2020
 # Luis M. Ontalba <luis.martinez@tecnativa.com>, 2020
@@ -12,8 +12,8 @@
 # 966ff43e6966712895a590e7320ca288, 2020
 # Gustavo Orozco H. <gustavo.orozco.h@app-247.com>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Vivian Montana <vmo@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Vivian Montana <vmo@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Jorge Luis Alfonso <jlalfonso21@gmail.com>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # 

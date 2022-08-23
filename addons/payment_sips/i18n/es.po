@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2020
-# Daniela Cervantes <dace@swisshq.com>, 2021
+# Daniela Cervantes <dace@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""

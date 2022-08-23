@@ -4,8 +4,8 @@
 # 
 # Translators:
 # Martin Trigaux, 2020
-# Lucia Pacheco <lpo@swisshq.com>, 2021
-# Cécile Collart <cco@swisshq.com>, 2021
+# Lucia Pacheco <lpo@swissconsultings.ch>, 2021
+# Cécile Collart <cco@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""

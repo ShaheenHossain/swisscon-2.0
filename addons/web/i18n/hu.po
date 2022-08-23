@@ -2578,8 +2578,8 @@ msgstr "Többsoros szöveg"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "swisshq.com fiókom"
+msgid "My swissconsultings.ch account"
+msgstr "swissconsultings.ch fiókom"
 
 #. module: web
 #. openerp-web

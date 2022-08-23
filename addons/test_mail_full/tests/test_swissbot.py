@@ -24,7 +24,7 @@ class TestSwissCRMbot(TestMailCommon, TestRecipients):
             'partner_ids': [],
             'subtype_xmlid': 'mail.mt_comment'
         }
-        cls.swissbot_ping_body = '<a href="http://swisshq.com/web#model=res.partner&amp;id=%s" class="o_mail_redirect" data-oe-id="%s" data-oe-model="res.partner" target="_blank">@SwissCRMBot</a>' % (cls.swissbot.id, cls.swissbot.id)
+        cls.swissbot_ping_body = '<a href="http://swissconsultings.ch/web#model=res.partner&amp;id=%s" class="o_mail_redirect" data-oe-id="%s" data-oe-model="res.partner" target="_blank">@SwissCRMBot</a>' % (cls.swissbot.id, cls.swissbot.id)
         cls.test_record_employe = cls.test_record.with_user(cls.user_employee)
 
     @mute_logger('swiss.addons.mail.models.mail_mail')

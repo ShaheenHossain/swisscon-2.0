@@ -283,7 +283,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -355,7 +355,7 @@ msgstr ""
 "</td></tr>\n"
 "<!-- 提供者 -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    提供者 <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"    提供者 <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -2912,8 +2912,8 @@ msgstr "这个别名对应的模型(SwissCRM文档类型。 任何未回复现�
 #: model:ir.model.fields,help:crm.field_crm_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
-msgstr "电子邮件别名的名称，例如， 'jobs'如果您想要捕获 <jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
+msgstr "电子邮件别名的名称，例如， 'jobs'如果您想要捕获 <jobs@example.swissconsultings.ch>"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__partner_name
@@ -3357,8 +3357,8 @@ msgstr "例如, 产品定价"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "例如：https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "例如：https://www.swissconsultings.ch"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_stage__team_count

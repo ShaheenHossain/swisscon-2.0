@@ -8,8 +8,8 @@
 # Luigi Di Naro <gigidn@gmail.com>, 2020
 # Maurizio Delmonte <maurizio.delmonte@gmail.com>, 2020
 # Paolo Valier, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
-# Federico Zanuttini <fza@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
+# Federico Zanuttini <fza@swissconsultings.ch>, 2020
 # Loris Balsamo <et94@live.it>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 

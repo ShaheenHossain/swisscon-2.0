@@ -7,33 +7,33 @@
 # Quentin THEURET <odoo@kerpeo.com>, 2020
 # zoe <yann.hoareau@migs.re>, 2020
 # Olivier ANDRE <frsw194@gmail.com>, 2020
-# Florian <fll@swisshq.com>, 2020
+# Florian <fll@swissconsultings.ch>, 2020
 # Olivier Lenoir <olivier.lenoir@free.fr>, 2020
-# Lucas Deliege <lud@swisshq.com>, 2020
+# Lucas Deliege <lud@swissconsultings.ch>, 2020
 # f5f0a0dac17dde787a1d812a6989680e, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Simon CARRIER <carrier.sim@gmail.com>, 2020
 # Guilhaume Bordiau <github@guilhaume.fr>, 2020
-# Alexandra Jubert <aju@swisshq.com>, 2020
-# Nathan Grognet <ngr@swisshq.com>, 2020
+# Alexandra Jubert <aju@swissconsultings.ch>, 2020
+# Nathan Grognet <ngr@swissconsultings.ch>, 2020
 # Maxime Chambreuil <mchambreuil@ursainfosystems.com>, 2020
-# Clo <clo@swisshq.com>, 2020
+# Clo <clo@swissconsultings.ch>, 2020
 # Micky Jault <micky037@hotmail.fr>, 2020
 # Lucas Deliege <lud@swissconsultings.ch>, 2020
-# Pauline Thiry <pth@swisshq.com>, 2020
+# Pauline Thiry <pth@swissconsultings.ch>, 2020
 # Fabri Yohann <psn@fabri.pw>, 2020
 # Xavier Symons <xsy@swissconsultings.ch>, 2020
 # Jérôme Tanché <jerome.tanche@ouest-dsi.fr>, 2020
-# Julien Goergen <jgo@swisshq.com>, 2020
+# Julien Goergen <jgo@swissconsultings.ch>, 2020
 # bb76cd9ac0cb7e20167a14728edb858b, 2020
 # 31c77b784710e4a287a92d851a40e039, 2020
 # Loic <loic.richard2@gmail.com>, 2020
-# Melanie Bernard <mbe@swisshq.com>, 2020
+# Melanie Bernard <mbe@swissconsultings.ch>, 2020
 # Xavier Belmere <Info@cartmeleon.com>, 2020
 # Xavier Brochard <xavier@alternatif.org>, 2020
 # Mohamed BENKIRANE <benkirane.med.ali@gmail.com>, 2020
-# Celia Tydgat <cty@swisshq.com>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
+# Celia Tydgat <cty@swissconsultings.ch>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
 # e2f <projects@e2f.com>, 2020
 # fr trans <e2ffr05@hotmail.com>, 2020
 # Martin Trigaux, 2020
@@ -41,15 +41,15 @@
 # Florian Hatat, 2020
 # Miguel Vidali <mvidali129@gmail.com>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Laura Piraux <lap@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Laura Piraux <lap@swissconsultings.ch>, 2020
 # Nathan Noël <nathan070@me.com>, 2020
 # Bertrand LATOUR <divoir@gmail.com>, 2020
 # Rémi CAZENAVE, 2020
-# Thomas Dobbelsteyn <tdo@swisshq.com>, 2020
-# Marie Willemyns <mwi@swisshq.com>, 2020
-# Maxence del Marmol <mdm@swisshq.com>, 2020
-# omaodoo <oma@swisshq.com>, 2020
+# Thomas Dobbelsteyn <tdo@swissconsultings.ch>, 2020
+# Marie Willemyns <mwi@swissconsultings.ch>, 2020
+# Maxence del Marmol <mdm@swissconsultings.ch>, 2020
+# omaodoo <oma@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # guillaume bauer <guillaume.bauer@syentys.fr>, 2020
 # Arnaud Willem <contact@arnaud-willem.eu>, 2020
@@ -58,8 +58,8 @@
 # Christophe Ricevuto <cri@nalios.be>, 2021
 # Alexis de Lattre <alexis@via.ecp.fr>, 2021
 # qdelcourte <delcourte.quentin@hotmail.com>, 2021
-# Cécile Collart <cco@swisshq.com>, 2021
-# Thomas Deleval <thd@swisshq.com>, 2021
+# Cécile Collart <cco@swissconsultings.ch>, 2021
+# Thomas Deleval <thd@swissconsultings.ch>, 2021
 # 
 msgid ""
 msgstr ""
@@ -67,7 +67,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-16 09:00+0000\n"
 "PO-Revision-Date: 2020-09-07 08:19+0000\n"
-"Last-Translator: Thomas Deleval <thd@swisshq.com>, 2021\n"
+"Last-Translator: Thomas Deleval <thd@swissconsultings.ch>, 2021\n"
 "Language-Team: French (https://www.transifex.com/odoo/teams/41243/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

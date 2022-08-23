@@ -7,15 +7,15 @@
 # ced903afe967c2a46d1036224972db9d, 2020
 # Pablo Rojas <rojaspablo88@gmail.com>, 2020
 # Antonio Trueba, 2020
-# Pierre-Antoine Magnet <pma@swisshq.com>, 2020
+# Pierre-Antoine Magnet <pma@swissconsultings.ch>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# gpi odoo <gpi@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# gpi odoo <gpi@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # Luis M. Ontalba <luis.martinez@tecnativa.com>, 2020
 # Martin Trigaux, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2020
-# Caroline Renson <car@swisshq.com>, 2021
+# Caroline Renson <car@swissconsultings.ch>, 2021
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021
 # Rick Hunter <rick.hunter.ec@gmail.com>, 2021
 # 

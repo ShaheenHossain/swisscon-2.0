@@ -6,7 +6,7 @@
     'summary': 'Chat with your website visitors',
     'category': 'Website/Live Chat',
     'complexity': 'easy',
-    'website': 'https://www.swisshq.com/page/live-chat',
+    'website': 'https://www.swissconsultings.ch/page/live-chat',
     'description':
         """
 Live Chat Support

@@ -1,7 +1,7 @@
 SwissCRM Human Resources
 --------------------
 
-With SwissCRM <a href="https://www.swisshq.com/page/employees">Human Resources</a>,
+With SwissCRM <a href="https://www.swissconsultings.ch/page/employees">Human Resources</a>,
 manage the most important asset in your company: People
 
 Get all your HR operations managed easily: knowledge sharing, recruitments,
@@ -21,7 +21,7 @@ Record employee contracts and get alerts when they have to be renewed.
 Streamline Your Recruitment Process
 -----------------------------------
 
-Index resumes, track applicants, search profiles with <a href="https://www.swisshq.com/page/employees">SwissCRM HR</a>.
+Index resumes, track applicants, search profiles with <a href="https://www.swissconsultings.ch/page/employees">SwissCRM HR</a>.
 
 Post job offers and keep track of each application received. Follow applicants
 in your recruitment process with the smart kanban view.

@@ -5,7 +5,7 @@
 # Translators:
 # Martin Trigaux, 2020
 # f91684c3ff9ec3e650d5c8461e534581_686eae3 <449b96d9f63071f94d89e129677b83de_366193>, 2020
-# Johannes Croe <jcr@swisshq.com>, 2020
+# Johannes Croe <jcr@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2021
 # Friederike Fasterling-Nesselbosch, 2021
 # 

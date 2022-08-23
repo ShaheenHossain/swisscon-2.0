@@ -5,38 +5,38 @@
 # Translators:
 # bb76cd9ac0cb7e20167a14728edb858b, 2020
 # Moka Tourisme <hello@mokatourisme.fr>, 2020
-# Clo <clo@swisshq.com>, 2020
+# Clo <clo@swissconsultings.ch>, 2020
 # Xavier Symons <xsy@swissconsultings.ch>, 2020
-# Melanie Bernard <mbe@swisshq.com>, 2020
+# Melanie Bernard <mbe@swissconsultings.ch>, 2020
 # Xavier Belmere <Info@cartmeleon.com>, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
-# Jonathan Quique <jqu@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
+# Jonathan Quique <jqu@swissconsultings.ch>, 2020
 # Frédéric LIETART <stuff@tifred.fr>, 2020
 # Antoine Lorence <antoine.lorence@gmail.com>, 2020
 # nle_odoo, 2020
-# Fred Gilson <fgi@swisshq.com>, 2020
+# Fred Gilson <fgi@swissconsultings.ch>, 2020
 # Nathan Noël <nathan070@me.com>, 2020
 # Benoît Fontaine <benoitfontaine.ba@gmail.com>, 2020
 # Olivier ANDRE <frsw194@gmail.com>, 2020
-# thomas quertinmont <tqu@swisshq.com>, 2020
+# thomas quertinmont <tqu@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Florian Hatat, 2020
 # Jérôme Tanché <jerome.tanche@ouest-dsi.fr>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Laura Piraux <lap@swisshq.com>, 2020
-# Nathan Grognet <ngr@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Laura Piraux <lap@swissconsultings.ch>, 2020
+# Nathan Grognet <ngr@swissconsultings.ch>, 2020
 # Sébastien BÜHL <buhlsebastien@gmail.com>, 2020
-# Celia Tydgat <cty@swisshq.com>, 2020
-# omaodoo <oma@swisshq.com>, 2020
+# Celia Tydgat <cty@swissconsultings.ch>, 2020
+# omaodoo <oma@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
 # guillaume bauer <guillaume.bauer@syentys.fr>, 2020
 # Arnaud Willem <contact@arnaud-willem.eu>, 2020
 # Idir Talem <idir.talem@gmail.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2021
+# Cécile Collart <cco@swissconsultings.ch>, 2021
 # RHTodoo, 2021
-# Thomas Deleval <thd@swisshq.com>, 2021
+# Thomas Deleval <thd@swissconsultings.ch>, 2021
 # 
 msgid ""
 msgstr ""
@@ -44,7 +44,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 13:50+0000\n"
 "PO-Revision-Date: 2020-09-07 08:17+0000\n"
-"Last-Translator: Thomas Deleval <thd@swisshq.com>, 2021\n"
+"Last-Translator: Thomas Deleval <thd@swissconsultings.ch>, 2021\n"
 "Language-Team: French (https://www.transifex.com/odoo/teams/41243/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

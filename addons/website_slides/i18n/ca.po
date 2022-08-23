@@ -5403,8 +5403,8 @@ msgstr ""
 
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "per exemple https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "per exemple https://www.swissconsultings.ch"
 
 #. module: website_slides
 #: model:ir.ui.menu,name:website_slides.website_slides_menu_root

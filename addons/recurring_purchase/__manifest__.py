@@ -10,7 +10,7 @@
     any particular purchase order
     """,
     'author': 'SwissCRM ',
-    'website': 'https://www.swisshq.com/',
+    'website': 'https://www.swissconsultings.ch/',
     'depends': ['recurring', 'purchase', 'sale_purchase'],
     'data': [
         'views/purchase_views.xml',

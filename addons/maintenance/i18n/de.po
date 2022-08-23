@@ -5,7 +5,7 @@
 # Translators:
 # Andreas Stauder <andreas.stauder@brain-tec.ch>, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Florian Pose <fp@igh.de>, 2020
 # Max-Milan Stoyanov, 2020
 # e2f <projects@e2f.com>, 2020
@@ -1368,10 +1368,10 @@ msgstr ""
 #: model:ir.model.fields,help:maintenance.field_maintenance_equipment_category__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Die Bezeichnung des E-Mail-Alias, z.B. 'jobs', falls Sie E-Mails an z.B. "
-"<jobs@example.swisshq.com> erhalten möchten"
+"<jobs@example.swissconsultings.ch> erhalten möchten"
 
 #. module: maintenance
 #: model:ir.model.fields,help:maintenance.field_maintenance_equipment_category__alias_user_id

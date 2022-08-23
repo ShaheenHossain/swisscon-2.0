@@ -20,7 +20,7 @@ class LinkTrackerMock(common.BaseCase):
         def _get_title_from_url(u):
             return "Test_TITLE"
 
-        self.env['ir.config_parameter'].sudo().set_param('web.base.url', 'https://test.swisshq.com')
+        self.env['ir.config_parameter'].sudo().set_param('web.base.url', 'https://test.swissconsultings.ch')
 
         link_tracker_title_patch = patch('swiss.addons.link_tracker.models.link_tracker.LinkTracker._get_title_from_url', wraps=_get_title_from_url)
         link_tracker_title_patch.start()
@@ -70,7 +70,7 @@ class TestSMSPost(TestMailFullCommon, LinkTrackerMock):
         link = self.env['link.tracker'].search([('url', '=', link)])
         self.assertIn(link.short_url, new_body)
 
-        link = 'https://test.swisshq.com/my/super_page?test[0]=42&toto=áâà#title3'
+        link = 'https://test.swissconsultings.ch/my/super_page?test[0]=42&toto=áâà#title3'
         self.env['link.tracker'].search([('url', '=', link)]).unlink()
         new_body = self.env['mail.render.mixin']._shorten_links_text('Welcome to %s !' % link, self.tracker_values)
         self.assertNotIn(link, new_body)
@@ -87,14 +87,14 @@ class TestSMSPost(TestMailFullCommon, LinkTrackerMock):
         self.assertFalse(new_body)
 
     def test_body_link_shorten_wshort(self):
-        link = 'https://test.swisshq.com/r/RAOUL'
+        link = 'https://test.swissconsultings.ch/r/RAOUL'
         self.env['link.tracker'].search([('url', '=', link)]).unlink()
         new_body = self.env['mail.render.mixin']._shorten_links_text('Welcome to %s !' % link, self.tracker_values)
         self.assertIn(link, new_body)
         self.assertFalse(self.env['link.tracker'].search([('url', '=', link)]))
 
     def test_body_link_shorten_wunsubscribe(self):
-        link = 'https://test.swisshq.com/sms/3/'
+        link = 'https://test.swissconsultings.ch/sms/3/'
         self.env['link.tracker'].search([('url', '=', link)]).unlink()
         new_body = self.env['mail.render.mixin']._shorten_links_text('Welcome to %s !' % link, self.tracker_values)
         self.assertIn(link, new_body)
@@ -108,28 +108,28 @@ class TestSMSPost(TestMailFullCommon, LinkTrackerMock):
         })
 
         sms_0 = self.env['sms.sms'].create({
-            'body': 'Welcome to https://test.swisshq.com',
+            'body': 'Welcome to https://test.swissconsultings.ch',
             'number': '12',
             'mailing_id': mailing.id,
         })
         sms_1 = self.env['sms.sms'].create({
-            'body': 'Welcome to https://test.swisshq.com/r/RAOUL',
+            'body': 'Welcome to https://test.swissconsultings.ch/r/RAOUL',
             'number': '12',
         })
         sms_2 = self.env['sms.sms'].create({
-            'body': 'Welcome to https://test.swisshq.com/r/RAOUL',
+            'body': 'Welcome to https://test.swissconsultings.ch/r/RAOUL',
             'number': '12', 'mailing_id': mailing.id,
         })
         sms_3 = self.env['sms.sms'].create({
-            'body': 'Welcome to https://test.swisshq.com/leodagan/r/RAOUL',
+            'body': 'Welcome to https://test.swissconsultings.ch/leodagan/r/RAOUL',
             'number': '12', 'mailing_id': mailing.id,
         })
 
         res = (sms_0 | sms_1 | sms_2 | sms_3)._update_body_short_links()
-        self.assertEqual(res[sms_0.id], 'Welcome to https://test.swisshq.com')
-        self.assertEqual(res[sms_1.id], 'Welcome to https://test.swisshq.com/r/RAOUL')
-        self.assertEqual(res[sms_2.id], 'Welcome to https://test.swisshq.com/r/RAOUL/s/%s' % sms_2.id)
-        self.assertEqual(res[sms_3.id], 'Welcome to https://test.swisshq.com/leodagan/r/RAOUL')
+        self.assertEqual(res[sms_0.id], 'Welcome to https://test.swissconsultings.ch')
+        self.assertEqual(res[sms_1.id], 'Welcome to https://test.swissconsultings.ch/r/RAOUL')
+        self.assertEqual(res[sms_2.id], 'Welcome to https://test.swissconsultings.ch/r/RAOUL/s/%s' % sms_2.id)
+        self.assertEqual(res[sms_3.id], 'Welcome to https://test.swissconsultings.ch/leodagan/r/RAOUL')
 
     def test_sms_send_batch_size(self):
         self.count = 0

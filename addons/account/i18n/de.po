@@ -13,19 +13,19 @@
 # JackTheHunter <Maximilian.N98@gmail.com>, 2020
 # Marco Gantenbein <gantemar@gmail.com>, 2020
 # Max-Milan Stoyanov, 2020
-# Philipp Fürstos <pfu@swisshq.com>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Philipp Fürstos <pfu@swissconsultings.ch>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # Jürgen Bereuter <jub@matchcut.at>, 2020
 # UteHaus, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
 # Patrick Heuel <patrick.heuel@odoo-bs.com>, 2020
 # philku79 <philip.kuss@gmx.de>, 2020
 # Philip Kuß <p.kuss@enno.de>, 2020
 # Jan Meyer, 2020
 # Florian Pose <fp@igh.de>, 2020
-# Achraf (abz) <abz@swisshq.com>, 2020
+# Achraf (abz) <abz@swissconsultings.ch>, 2020
 # spilymp <visessa+github@gmail.com>, 2020
 # Andreas Jonderko <a.jonderko@gastronovi.com>, 2020
 # Udo Hennig <info@udohennig.de>, 2021

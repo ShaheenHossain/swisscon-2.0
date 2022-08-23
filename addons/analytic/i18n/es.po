@@ -6,7 +6,7 @@
 # Martin Trigaux, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
 # Juan José Scarafía <scarafia.juanjose@gmail.com>, 2021
-# Daniela Cervantes <dace@swisshq.com>, 2021
+# Daniela Cervantes <dace@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""

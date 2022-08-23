@@ -18,7 +18,7 @@
 # Silmar <pinheirosilmar@gmail.com>, 2020
 # Lauro de Lima <lauro@ciclix.com>, 2020
 # Fernando Colus <fcolus1@gmail.com>, 2020
-# Keli Brugalli <kbr@swisshq.com>, 2020
+# Keli Brugalli <kbr@swissconsultings.ch>, 2020
 # Éder Brito <britoederr@gmail.com>, 2021
 # 
 msgid ""

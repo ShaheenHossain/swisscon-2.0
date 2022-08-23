@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Ermin Trevisan <trevi@twanda.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Florian Pose <fp@igh.de>, 2020
 # Martin Trigaux, 2020
 # Friederike Fasterling-Nesselbosch, 2021

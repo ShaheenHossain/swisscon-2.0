@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Francesco Garganese <francesco.garganese@aeromnia.aero>, 2020
-# efraimbiffi <eab@swisshq.com>, 2020
+# efraimbiffi <eab@swissconsultings.ch>, 2020
 # Simone Bernini <simone@aperturelabs.it>, 2020
 # SebastianoPistore <SebastianoPistore.info@protonmail.ch>, 2020
 # Alberto Carollo <baba75@gmail.com>, 2020
@@ -12,7 +12,7 @@
 # Martin Trigaux, 2020
 # Giovanni Perteghella <giovanni@perteghella.org>, 2020
 # Paolo Valier, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # Friederike Fasterling-Nesselbosch, 2021
 # 
@@ -167,7 +167,7 @@ msgid ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Powered by <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=website\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"        Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=website\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"

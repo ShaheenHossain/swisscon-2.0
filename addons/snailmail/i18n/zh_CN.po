@@ -8,14 +8,14 @@
 # 湘子 南 <1360857908@qq.com>, 2020
 # guohuadeng <guohuadeng@hotmail.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Emily Jia <eji@swisshq.com>, 2020
+# Emily Jia <eji@swissconsultings.ch>, 2020
 # snow wang <147156565@qq.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
-# Manga Tsang <mts@swisshq.com>, 2020
+# Manga Tsang <mts@swissconsultings.ch>, 2020
 # Felix Yang <felixyangsh@aliyun.com>, 2020
 # as co02 <asco02@163.com>, 2020
 # keecome <7017511@qq.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # Jeffery CHEN <jeffery9@gmail.com>, 2021
 # QQ1006399173 <pgy866@163.com>, 2021
 # 
@@ -745,8 +745,8 @@ msgstr ""
 #, python-format
 msgid ""
 "You don't have an IAP account registered for this service.<br>Please go to "
-"<a href=%s target=\"new\">iap.swisshq.com</a> to claim your free credits."
-msgstr "您没有为此服务注册的IAP账户。<br>请访问<a href=%s target=\"new\">iap.swisshq.com</a>以获得免费信用。"
+"<a href=%s target=\"new\">iap.swissconsultings.ch</a> to claim your free credits."
+msgstr "您没有为此服务注册的IAP账户。<br>请访问<a href=%s target=\"new\">iap.swissconsultings.ch</a>以获得免费信用。"
 
 #. module: snailmail
 #: code:addons/snailmail/models/snailmail_letter.py:0

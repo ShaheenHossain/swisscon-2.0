@@ -3,17 +3,17 @@
 # 	* point_of_sale
 # 
 # Translators:
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Christopher Ormaza <chris.ormaza@gmail.com>, 2020
 # Luis M. Ontalba <luis.martinez@tecnativa.com>, 2020
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
 # Jorge Luis Alfonso <jlalfonso21@gmail.com>, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # e2f <projects@e2f.com>, 2021
-# Mariana Santos Romo <msn@swisshq.com>, 2021
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
+# Mariana Santos Romo <msn@swissconsultings.ch>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
 # Rick Hunter <rick.hunter.ec@gmail.com>, 2021
 # Martin Trigaux, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021

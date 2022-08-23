@@ -7,7 +7,7 @@
     'description': "",
     'version': '2.2',
     'sequence': 60,
-    'website': 'https://www.swisshq.com/page/mailing',
+    'website': 'https://www.swissconsultings.ch/page/mailing',
     'category': 'Marketing/Email Marketing',
     'depends': [
         'contacts',

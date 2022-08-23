@@ -4,13 +4,13 @@
 # 
 # Translators:
 # Martin Trigaux, 2020
-# Richard Mathot <rim@swisshq.com>, 2020
-# Lucas Deliege <lud@swisshq.com>, 2020
+# Richard Mathot <rim@swissconsultings.ch>, 2020
+# Lucas Deliege <lud@swissconsultings.ch>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Fred Gilson <fgi@swisshq.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Fred Gilson <fgi@swissconsultings.ch>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Sébastien BÜHL <buhlsebastien@gmail.com>, 2020
-# Emmanuel Partsafas <epa@swisshq.com>, 2020
+# Emmanuel Partsafas <epa@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # 
 msgid ""

@@ -8,7 +8,7 @@
 # Luis M. Ontalba <luis.martinez@tecnativa.com>, 2020
 # fr33co <fr33codev@gmail.com>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
-# Daniela Cervantes <dace@swisshq.com>, 2021
+# Daniela Cervantes <dace@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""

@@ -7,10 +7,10 @@
 # Martin Trigaux, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
 # JackTheHunter <Maximilian.N98@gmail.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Max-Milan Stoyanov, 2020
 # Florian Pose <fp@igh.de>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2021
 # Friederike Fasterling-Nesselbosch, 2021
 # 
@@ -229,7 +229,7 @@ msgid ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Powered by <a target=\"_blank\" href=\"https://www.swisshq.com\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"        Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"
@@ -354,7 +354,7 @@ msgstr ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Unterstützt von <a target=\"_blank\" href=\"https://www.swisshq.com\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"        Unterstützt von <a target=\"_blank\" href=\"https://www.swissconsultings.ch\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"

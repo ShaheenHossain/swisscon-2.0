@@ -5902,8 +5902,8 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_channel__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
-msgstr "이메일 별칭 이름. <jobs@example.swisshq.com>에 대한 이메일을 수신하도록 하려면 'jobs'라고 적습니다."
+"<jobs@example.swissconsultings.ch>"
+msgstr "이메일 별칭 이름. <jobs@example.swissconsultings.ch>에 대한 이메일을 수신하도록 하려면 'jobs'라고 적습니다."
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_user_id
@@ -6457,10 +6457,10 @@ msgstr ""
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.swisshq.com)."
+"email server (@mycompany.swissconsultings.ch)."
 msgstr ""
 "커뮤니티 및 유료버전에서 이메일을 보내고 받으려면 전자 메일 서버를 사용해야 합니다. 온라인 사용자는 이미 가입하면 바로 사용가능한 "
-"이메일 서버(@ mycompany.swisshq.com)를 이미 활용하고 있습니다."
+"이메일 서버(@ mycompany.swissconsultings.ch)를 이미 활용하고 있습니다."
 
 #. module: mail
 #. openerp-web
@@ -6982,8 +6982,8 @@ msgstr "월"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
-msgid "mycompany.swisshq.com"
-msgstr "mycompany.swisshq.com"
+msgid "mycompany.swissconsultings.ch"
+msgstr "mycompany.swissconsultings.ch"
 
 #. module: mail
 #. openerp-web

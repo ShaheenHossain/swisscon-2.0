@@ -38,7 +38,7 @@ QUnit.test('reply: discard on pressing escape', async function (assert) {
 
     // partner expected to be found by mention
     this.data['res.partner'].records.push({
-        email: "testpartnert@swisshq.com",
+        email: "testpartnert@swissconsultings.ch",
         id: 11,
         name: "TestPartner",
     });

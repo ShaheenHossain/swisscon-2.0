@@ -7,9 +7,9 @@
 # Matteo Boscolo <matteo.boscolo.76@gmail.com>, 2020
 # Manuela Feliciani <mfeliciani@alice.it>, 2020
 # Cesare Cugnasco <cesare.cugnasco@gmail.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # maiolif <maiolif@mgftools.com>, 2020
-# Luigia Cimmino Caserta <lcc@swisshq.com>, 2020
+# Luigia Cimmino Caserta <lcc@swissconsultings.ch>, 2020
 # Francesco Garganese <francesco.garganese@aeromnia.aero>, 2020
 # Luigi Di Naro <gigidn@gmail.com>, 2020
 # Simone Bernini <simone@aperturelabs.it>, 2020
@@ -19,9 +19,9 @@
 # Andrea Piovesana <andrea.m.piovesana@gmail.com>, 2020
 # David Minneci <david@numeko.it>, 2020
 # Stefano Consolaro <stefano.consolaro@mymage.it>, 2020
-# mbo_odoo <mbo@swisshq.com>, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
-# Iacopo Simonelli <lsi@swisshq.com>, 2020
+# mbo_odoo <mbo@swissconsultings.ch>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
+# Iacopo Simonelli <lsi@swissconsultings.ch>, 2020
 # BigBlu <paolo.moroni@air-srl.com>, 2021
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # Friederike Fasterling-Nesselbosch, 2021

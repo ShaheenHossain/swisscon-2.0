@@ -3,7 +3,7 @@
 # 	* auth_totp
 # 
 # Translators:
-# Léonie Bouchat <lbo@swisshq.com>, 2021
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2021
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""

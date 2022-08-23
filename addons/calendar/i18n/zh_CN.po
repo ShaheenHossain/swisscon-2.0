@@ -6,7 +6,7 @@
 # Jeffery CHEN <jeffery9@gmail.com>, 2020
 # liAnGjiA <liangjia@qq.com>, 2020
 # ChinaMaker <liuct@chinamaker.net>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # wangting <39181819@qq.com>, 2020
 # boho wong <wbh924@126.com>, 2020
 # snow wang <147156565@qq.com>, 2020

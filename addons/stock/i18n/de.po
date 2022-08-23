@@ -20,9 +20,9 @@
 # Max-Milan Stoyanov, 2020
 # Wolfgang Taferner, 2020
 # Marcel Trotzek <trotzek@rtg-portale.de>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Patrick Heuel <patrick.heuel@odoo-bs.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # e2f <projects@e2f.com>, 2020
 # Martin Trigaux, 2020
 # Thorsten Vocks <thorsten.vocks@openbig.org>, 2020
@@ -30,12 +30,12 @@
 # Andi, 2020
 # Katharina Moritz <kmo@e2f.com>, 2020
 # Bülent Tiknas <btiknas@googlemail.com>, 2020
-# Johannes Croe <jcr@swisshq.com>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Johannes Croe <jcr@swissconsultings.ch>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # philku79 <philip.kuss@gmx.de>, 2020
 # Tobias Arndt, 2020
 # TomTietze <t.tietze94@web.de>, 2020
-# Gab_SwissCRM <gab@swisshq.com>, 2020
+# Gab_SwissCRM <gab@swissconsultings.ch>, 2020
 # Niki Waibel, 2021
 # Chris Egal <sodaswed@web.de>, 2021
 # Ermin Trevisan <trevi@twanda.com>, 2021

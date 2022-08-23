@@ -6,13 +6,13 @@
 # Martin Trigaux, 2020
 # Xavier Symons <xsy@swissconsultings.ch>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Nathan Grognet <ngr@swisshq.com>, 2020
-# Celia Tydgat <cty@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Nathan Grognet <ngr@swissconsultings.ch>, 2020
+# Celia Tydgat <cty@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Pierre Delacroix <pde@swisshq.com>, 2021
-# Alexandra Jubert <aju@swisshq.com>, 2021
+# Pierre Delacroix <pde@swissconsultings.ch>, 2021
+# Alexandra Jubert <aju@swissconsultings.ch>, 2021
 # 
 msgid ""
 msgstr ""
@@ -20,7 +20,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-21 10:46+0000\n"
 "PO-Revision-Date: 2020-09-07 08:10+0000\n"
-"Last-Translator: Alexandra Jubert <aju@swisshq.com>, 2021\n"
+"Last-Translator: Alexandra Jubert <aju@swissconsultings.ch>, 2021\n"
 "Language-Team: French (https://www.transifex.com/odoo/teams/41243/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

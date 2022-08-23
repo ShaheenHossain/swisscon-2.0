@@ -9,8 +9,8 @@
 # Ali zuaby <ali@zuaby.net>, 2020
 # Osoul <baruni@osoul.ly>, 2020
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2020
-# Talal Kamal <tka@swisshq.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # Mustafa Rawi <mustafa@cubexco.com>, 2020
 # Martin Trigaux, 2020
 # hoxhe Aits <hoxhe0@gmail.com>, 2020

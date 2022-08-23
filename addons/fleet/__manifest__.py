@@ -5,7 +5,7 @@
     'version' : '0.1',
     'sequence': 185,
     'category': 'Human Resources/Fleet',
-    'website' : 'https://www.swisshq.com/page/fleet',
+    'website' : 'https://www.swissconsultings.ch/page/fleet',
     'summary' : 'Manage your fleet and track car costs',
     'description' : """
 Vehicle, leasing, insurances, cost

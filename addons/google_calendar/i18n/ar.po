@@ -11,8 +11,8 @@
 # Ahmed AL-Haddad <ahmed@utech-sa.com>, 2020
 # Zuhair Hammadi <zuhair12@gmail.com>, 2020
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
-# Talal Kamal <tka@swisshq.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # Mustafa Rawi <mustafa@cubexco.com>, 2020
 # 
 msgid ""

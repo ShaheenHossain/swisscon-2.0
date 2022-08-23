@@ -14,7 +14,7 @@
 # Zdzisław Krajewski <zdzichucb@gmail.com>, 2020
 # Marcin Młynarczyk <mlynarczyk@gmail.com>, 2020
 # Maksym <ms@myodoo.pl>, 2020
-# Natalia Gros <nag@swisshq.com>, 2020
+# Natalia Gros <nag@swissconsultings.ch>, 2020
 # Wiktor Kaźmierczak <wik92tor@wp.pl>, 2020
 # Martin Trigaux, 2020
 # Dariusz Żbikowski <darek@krokus.com.pl>, 2020
@@ -6047,10 +6047,10 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_channel__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Nazwa aliasu e-mail, np. \"jobs\", jeśli chcesz przechwytywać wiadomości "
-"e-mail dla <jobs@example.swisshq.com>"
+"e-mail dla <jobs@example.swissconsultings.ch>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_user_id
@@ -6613,11 +6613,11 @@ msgstr ""
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.swisshq.com)."
+"email server (@mycompany.swissconsultings.ch)."
 msgstr ""
 "Korzystanie z własnego serwera e-mail jest wymagane do wysyłania / "
 "odbierania wiadomości e-mail w wersjach Community i Enterprise. Użytkownicy "
-"online korzystają z gotowego do użycia serwera e-mail (@mycompany.swisshq.com)."
+"online korzystają z gotowego do użycia serwera e-mail (@mycompany.swissconsultings.ch)."
 
 #. module: mail
 #. openerp-web
@@ -7154,8 +7154,8 @@ msgstr "miesięcy"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
-msgid "mycompany.swisshq.com"
-msgstr "mycompany.swisshq.com"
+msgid "mycompany.swissconsultings.ch"
+msgstr "mycompany.swissconsultings.ch"
 
 #. module: mail
 #. openerp-web

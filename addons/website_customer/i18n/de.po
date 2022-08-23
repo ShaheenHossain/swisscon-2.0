@@ -10,7 +10,7 @@
 # Thorsten Vocks <thorsten.vocks@openbig.org>, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # Andreas Väthröder <andreas.vaethroeder@alvarium-services.de>, 2021
 # 
 msgid ""

@@ -14,8 +14,8 @@
 # Ghaith Gammar <g.gammar@saharaifs.net>, 2020
 # amal ahmed <amalalhashemy88@hotmail.com>, 2020
 # Mostafa Hanafy <mostafa.s.hanafy@gmail.com>, 2020
-# Nisrine Tagri <nta@swisshq.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Nisrine Tagri <nta@swissconsultings.ch>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # Mustafa Rawi <mustafa@cubexco.com>, 2020
 # Martin Trigaux, 2020
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2020

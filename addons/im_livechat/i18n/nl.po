@@ -3,7 +3,7 @@
 # 	* im_livechat
 # 
 # Translators:
-# Antoine Gilard <ang@swisshq.com>, 2020
+# Antoine Gilard <ang@swissconsultings.ch>, 2020
 # Yip132 <yannick.renders@gmail.com>, 2020
 # Martin Trigaux, 2020
 # Cas Vissers <casvissers@brahoo.nl>, 2020

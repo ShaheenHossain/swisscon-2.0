@@ -4,9 +4,9 @@
 # 
 # Translators:
 # Martin Trigaux, 2018
-# Ranjit Pillai <rpi@swisshq.com>, 2018
+# Ranjit Pillai <rpi@swissconsultings.ch>, 2018
 # Dharmraj Jhala <dja@swissconsultings.ch>, 2018
-# Divya Pandya <dia@swisshq.com>, 2018
+# Divya Pandya <dia@swissconsultings.ch>, 2018
 # Turkesh Patel <turkesh4friends@gmail.com>, 2018
 msgid ""
 msgstr ""
@@ -4732,7 +4732,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.swisshq.com"
+msgid "www.swissconsultings.ch"
 msgstr ""
 
 #. module: website

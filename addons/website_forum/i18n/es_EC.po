@@ -3167,8 +3167,8 @@ msgstr "publicación duplicada"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.swisshq.com"
-msgstr "ej. https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "ej. https://www.swissconsultings.ch"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.faq

@@ -15,7 +15,7 @@ from swiss.exceptions import ValidationError
 
 _logger = logging.getLogger(__name__)
 
-DEFAULT_ENDPOINT = 'https://iap-services.swisshq.com'
+DEFAULT_ENDPOINT = 'https://iap-services.swissconsultings.ch'
 DEFAULT_REVEAL_BATCH_LIMIT = 25
 DEFAULT_REVEAL_MONTH_VALID = 6
 

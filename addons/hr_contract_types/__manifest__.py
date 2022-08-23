@@ -10,7 +10,7 @@
         Contract type in contracts
     """,
     'description': "",
-    'website': 'https://swisshq.com/expenses',
+    'website': 'https://swissconsultings.ch/expenses',
     'depends': ['hr', 'hr_contract'],
     'data': [
         'security/ir.model.access.csv',

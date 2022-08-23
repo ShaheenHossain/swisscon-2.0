@@ -468,7 +468,7 @@
                                 </div>
                             </group>
                             <group string="Developer API Keys" help="test">
-                                <a href="https://doc.swisshq.com/2.0/developer/webservices/swiss.html#api-keys" target="_blank">
+                                <a href="https://doc.swissconsultings.ch/2.0/developer/webservices/swiss.html#api-keys" target="_blank">
                                     <i class="fa fa-fw o_button_icon fa-arrow-right"></i>
                                     <span>Documentation</span>
                                 </a>

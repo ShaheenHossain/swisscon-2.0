@@ -4,11 +4,11 @@
 # 
 # Translators:
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Priscilla (prs) SwissCRM <prs@swisshq.com>, 2020
-# Vallen Delobel <edv@swisshq.com>, 2020
+# Priscilla (prs) SwissCRM <prs@swissconsultings.ch>, 2020
+# Vallen Delobel <edv@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Anthony Chaussin <chaussin.anthony@gmail.com>, 2021
 # 

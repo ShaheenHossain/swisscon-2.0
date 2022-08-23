@@ -10,8 +10,8 @@
 # keecome <7017511@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
 # ChinaMaker <liuct@chinamaker.net>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # bower Guo <124358678@qq.com>, 2020
 # snow wang <147156565@qq.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020

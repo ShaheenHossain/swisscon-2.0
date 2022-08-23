@@ -1,5 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Contact: SwissCRM  <info@swisshq.com>
+Upstream-Contact: SwissCRM  <info@swissconsultings.ch>
 
 Files: *
 Copyright: Copyright (C) 2004-2015 Odoo SA. (www.swissconsultings.ch)

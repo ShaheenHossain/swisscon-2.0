@@ -27,7 +27,7 @@
 # Tuomas Lyyra <tuomas.lyyra@legenda.fi>, 2021
 # Kari Lindgren <kari.lindgren@emsystems.fi>, 2021
 # Kari Lindgren <karisatu@gmail.com>, 2021
-# Vallen Delobel <edv@swisshq.com>, 2021
+# Vallen Delobel <edv@swissconsultings.ch>, 2021
 # Miika Nissi <miika.nissi@tawasta.fi>, 2021
 # Jarmo Kortetjärvi <jarmo.kortetjarvi@gmail.com>, 2021
 # Antti Oksman <antti.oksman@web-veistamo.fi>, 2021

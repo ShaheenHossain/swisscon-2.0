@@ -9,7 +9,7 @@
 # Paolo Valier, 2020
 # David Minneci <david@numeko.it>, 2020
 # Stefano Consolaro <stefano.consolaro@mymage.it>, 2020
-# Iacopo Simonelli <lsi@swisshq.com>, 2020
+# Iacopo Simonelli <lsi@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""

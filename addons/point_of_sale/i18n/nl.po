@@ -5,11 +5,11 @@
 # Translators:
 # Thijs van Oers <thijsvanoers@yahoo.com>, 2020
 # Eric Geens <ericgeens@yahoo.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # dpms <pieter.van.de.wygaert@telenet.be>, 2020
 # Cas Vissers <casvissers@brahoo.nl>, 2020
 # Gunther Clauwaert <gclauwae@hotmail.com>, 2020
-# Antoine Gilard <ang@swisshq.com>, 2020
+# Antoine Gilard <ang@swissconsultings.ch>, 2020
 # SwissCRM Experts Consultants <consultants@odooexperts.nl>, 2020
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2021
 # Martin Trigaux, 2021

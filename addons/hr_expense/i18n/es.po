@@ -7,7 +7,7 @@
 # Martin Trigaux, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""

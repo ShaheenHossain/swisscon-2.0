@@ -7,7 +7,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2020
 # Volluta <volluta@tutanota.com>, 2020
 # Cas Vissers <casvissers@brahoo.nl>, 2020
-# Wynand Tastenhoye <wta@swisshq.com>, 2020
+# Wynand Tastenhoye <wta@swissconsultings.ch>, 2020
 # Raf Ven <raf.ven@dynapps.be>, 2020
 # Erwin van der Ploeg <erwin@odooexperts.nl>, 2020
 # SwissCRM Experts Consultants <consultants@odooexperts.nl>, 2020
@@ -167,7 +167,7 @@ msgid ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Powered by <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=portalinvite\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"        Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=portalinvite\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"
@@ -250,7 +250,7 @@ msgstr ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Aangeboden door <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=portalinvite\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"        Aangeboden door <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=portalinvite\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"

@@ -4,11 +4,11 @@
 # 
 # Translators:
 # Andreas Stauder <andreas.stauder@brain-tec.ch>, 2020
-# Sebastian <shu@swisshq.com>, 2020
-# Antoine Gilard <ang@swisshq.com>, 2020
+# Sebastian <shu@swissconsultings.ch>, 2020
+# Antoine Gilard <ang@swissconsultings.ch>, 2020
 # Patrick Heuel <patrick.heuel@odoo-bs.com>, 2020
 # Oliver Roch <oliver.roch@d9t.de>, 2020
-# Nicola Peiffer <epn@swisshq.com>, 2020
+# Nicola Peiffer <epn@swissconsultings.ch>, 2020
 # Max-Milan Stoyanov, 2020
 # Jan Meyer, 2020
 # Florian Pose <fp@igh.de>, 2020
@@ -17,11 +17,11 @@
 # Martin Trigaux, 2020
 # Felix Schubert <felix.schubert@go-erp.com>, 2020
 # Anja Funk <anja.funk@afimage.de>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
-# Caroline Renson <car@swisshq.com>, 2021
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
+# Caroline Renson <car@swissconsultings.ch>, 2021
 # Jigar Vaghela <jigar.vaghela@gmail.com>, 2021
 # EugenBrodskiSAMSAIT <eugen.brodski@samsa-it.de>, 2021
 # Andreas Jonderko <a.jonderko@gastronovi.com>, 2021
@@ -6042,10 +6042,10 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_channel__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Die Bezeichnung des E-Mail-Alias, z.B. 'jobs', falls Sie E-Mails an z.B. "
-"<jobs@example.swisshq.com> erhalten möchten"
+"<jobs@example.swissconsultings.ch> erhalten möchten"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_user_id
@@ -6619,12 +6619,12 @@ msgstr ""
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.swisshq.com)."
+"email server (@mycompany.swissconsultings.ch)."
 msgstr ""
 "Bei der Community- und Enterprise-Version ist es erforderlich, zum Senden "
 "und Empfangen von E-Mails Ihren eigenen E-Mail-Server zu verwenden. Online-"
 "Benutzer können bereits von einem einsatzbereiten E-Mail-Server "
-"(@mycompany.swisshq.com) profitieren."
+"(@mycompany.swissconsultings.ch) profitieren."
 
 #. module: mail
 #. openerp-web
@@ -7151,8 +7151,8 @@ msgstr "Monate"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
-msgid "mycompany.swisshq.com"
-msgstr "mycompany.swisshq.com"
+msgid "mycompany.swissconsultings.ch"
+msgstr "mycompany.swissconsultings.ch"
 
 #. module: mail
 #. openerp-web

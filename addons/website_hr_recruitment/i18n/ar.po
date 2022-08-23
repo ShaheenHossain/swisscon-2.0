@@ -9,7 +9,7 @@
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2020
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
 # Amer Hazaa <eng.amer.it@gmail.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # Amr Abd Alkrim <amr@firebits.net>, 2021
 # 
 msgid ""

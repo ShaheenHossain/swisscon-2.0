@@ -5,24 +5,24 @@
 # Translators:
 # Xavier Symons <xsy@swissconsultings.ch>, 2020
 # MaxyMoos <maxence.groine@gmail.com>, 2020
-# Gilles Dupont <gid@swisshq.com>, 2020
-# Pauline Thiry <pth@swisshq.com>, 2020
-# Julien Goergen <jgo@swisshq.com>, 2020
-# Florian <fll@swisshq.com>, 2020
-# Fred Gilson <fgi@swisshq.com>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
+# Gilles Dupont <gid@swissconsultings.ch>, 2020
+# Pauline Thiry <pth@swissconsultings.ch>, 2020
+# Julien Goergen <jgo@swissconsultings.ch>, 2020
+# Florian <fll@swissconsultings.ch>, 2020
+# Fred Gilson <fgi@swissconsultings.ch>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
 # Nicolas JEUDY <njeudy@panda-chi.io>, 2020
-# Alex T <alt@swisshq.com>, 2020
+# Alex T <alt@swissconsultings.ch>, 2020
 # Maxime Chambreuil <mchambreuil@ursainfosystems.com>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
 # William Olhasque <william.olhasque@scopea.fr>, 2020
-# Nathan Grognet <ngr@swisshq.com>, 2020
+# Nathan Grognet <ngr@swissconsultings.ch>, 2020
 # Olivier ANDRE <frsw194@gmail.com>, 2020
-# Celia Tydgat <cty@swisshq.com>, 2020
-# omaodoo <oma@swisshq.com>, 2020
-# Nicolas Roussey <nro@swisshq.com>, 2020
-# Laura Piraux <lap@swisshq.com>, 2020
-# lcaodoo <lca@swisshq.com>, 2020
+# Celia Tydgat <cty@swissconsultings.ch>, 2020
+# omaodoo <oma@swissconsultings.ch>, 2020
+# Nicolas Roussey <nro@swissconsultings.ch>, 2020
+# Laura Piraux <lap@swissconsultings.ch>, 2020
+# lcaodoo <lca@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # Quentin THEURET <odoo@kerpeo.com>, 2020
 # Julien Martin <204336@supinfo.com>, 2020
@@ -32,19 +32,19 @@
 # Fabien Bourgeois <fabien@yaltik.com>, 2020
 # nle_odoo, 2020
 # Xavier Belmere <Info@cartmeleon.com>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Jonathan Castillo <jcs@swisshq.com>, 2020
-# Jonathan Quique <jqu@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Jonathan Castillo <jcs@swissconsultings.ch>, 2020
+# Jonathan Quique <jqu@swissconsultings.ch>, 2020
 # Arnaud Willem <contact@arnaud-willem.eu>, 2020
 # Moka Tourisme <hello@mokatourisme.fr>, 2020
 # khalid chamakh <elbissat@gmail.com>, 2021
-# Caroline Renson <car@swisshq.com>, 2021
+# Caroline Renson <car@swissconsultings.ch>, 2021
 # Luc N, 2021
 # Gwladys Jouble <g.jouble@vieconnect.io>, 2021
-# Alexandra Jubert <aju@swisshq.com>, 2021
-# Vallen Delobel <edv@swisshq.com>, 2021
+# Alexandra Jubert <aju@swissconsultings.ch>, 2021
+# Vallen Delobel <edv@swissconsultings.ch>, 2021
 # Rémi CAZENAVE, 2021
-# Cécile Collart <cco@swisshq.com>, 2021
+# Cécile Collart <cco@swissconsultings.ch>, 2021
 # 
 msgid ""
 msgstr ""
@@ -52,7 +52,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 11:23+0000\n"
 "PO-Revision-Date: 2020-09-07 08:14+0000\n"
-"Last-Translator: Cécile Collart <cco@swisshq.com>, 2021\n"
+"Last-Translator: Cécile Collart <cco@swissconsultings.ch>, 2021\n"
 "Language-Team: French (https://www.transifex.com/odoo/teams/41243/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -6093,10 +6093,10 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_channel__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Le nom de l'alias de messagerie, par exemple 'carrieres' pour relever les "
-"e-mails de <carrieres@example.swisshq.com>"
+"e-mails de <carrieres@example.swissconsultings.ch>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_user_id
@@ -6670,12 +6670,12 @@ msgstr "Utilisateurs de cette chaîne : %(members)s%(dots)s et vous."
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.swisshq.com)."
+"email server (@mycompany.swissconsultings.ch)."
 msgstr ""
 "Vous devez utiliser votre propre serveur d'e-mails pour envoyer ou recevoir "
 "des e-mails dans les versions Community et Enterprise. Les utilisateurs en "
 "ligne bénéficient déjà d'un serveur d'e-mails préalablement compatible "
-"(@mycompany.swisshq.com)."
+"(@mycompany.swissconsultings.ch)."
 
 #. module: mail
 #. openerp-web
@@ -7218,8 +7218,8 @@ msgstr "mois"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
-msgid "mycompany.swisshq.com"
-msgstr "masociete.swisshq.com"
+msgid "mycompany.swissconsultings.ch"
+msgstr "masociete.swissconsultings.ch"
 
 #. module: mail
 #. openerp-web

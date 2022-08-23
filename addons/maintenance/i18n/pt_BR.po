@@ -11,8 +11,8 @@
 # André Augusto Firmino Cordeiro <a.cordeito@gmail.com>, 2020
 # Diego Bittencourt <diegomb86@gmail.com>, 2020
 # Lauro de Lima <lauro@ciclix.com>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Luiz Fernando <lfpsgs@outlook.com>, 2020
 # Lucas Rabelo <lucas.rabelo@nextsolucoes.net.br>, 2020
 # Mateus Lopes <mateus1@gmail.com>, 2020
@@ -1374,7 +1374,7 @@ msgstr ""
 #: model:ir.model.fields,help:maintenance.field_maintenance_equipment_category__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "O nome do alias de e-mail, por exemplo, 'empregos' se você quer pegar "
 "e-mails para <empregos@suaempresa.com.br>"

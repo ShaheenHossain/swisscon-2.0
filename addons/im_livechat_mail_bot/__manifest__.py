@@ -7,7 +7,7 @@
     'category': 'Productivity/Discuss',
     'summary': 'Add livechat support for SwissCRMBot',
     'description': "",
-    'website': 'https://www.swisshq.com/page/discuss',
+    'website': 'https://www.swissconsultings.ch/page/discuss',
     'depends': ['mail_bot', 'im_livechat'],
     'installable': True,
     'application': False,

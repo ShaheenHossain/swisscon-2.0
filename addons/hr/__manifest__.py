@@ -8,7 +8,7 @@
     'sequence': 95,
     'summary': 'Centralize employee information',
     'description': "",
-    'website': 'https://www.swisshq.com/page/employees',
+    'website': 'https://www.swissconsultings.ch/page/employees',
     'images': [
         'images/hr_department.jpeg',
         'images/hr_employee.jpeg',

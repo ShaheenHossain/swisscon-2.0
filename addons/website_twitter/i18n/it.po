@@ -6,8 +6,8 @@
 # Martin Trigaux, 2020
 # Simone Bernini <simone@aperturelabs.it>, 2020
 # Paolo Valier, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
-# Petra <bop@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
+# Petra <bop@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""

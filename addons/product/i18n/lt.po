@@ -17,7 +17,7 @@
 # Anatolij, 2021
 # Silvija Butko <silvija.butko@gmail.com>, 2021
 # Linas Versada <linaskrisiukenas@gmail.com>, 2021
-# Jonas Zinkevicius <jozi@swisshq.com>, 2021
+# Jonas Zinkevicius <jozi@swissconsultings.ch>, 2021
 # Donatas <donatasvaliulis16@gmail.com>, 2021
 # 
 msgid ""

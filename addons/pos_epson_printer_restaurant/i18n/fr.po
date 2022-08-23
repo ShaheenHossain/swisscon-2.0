@@ -3,10 +3,10 @@
 # 	* pos_epson_printer_restaurant
 # 
 # Translators:
-# Nicolas Roussey <nro@swisshq.com>, 2020
+# Nicolas Roussey <nro@swissconsultings.ch>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# thomas quertinmont <tqu@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# thomas quertinmont <tqu@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # 
 msgid ""

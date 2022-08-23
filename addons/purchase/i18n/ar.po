@@ -3,7 +3,7 @@
 # 	* purchase
 # 
 # Translators:
-# Dooreen AlMehdar <doa@swisshq.com>, 2020
+# Dooreen AlMehdar <doa@swissconsultings.ch>, 2020
 # Sherif Abd Ekmoniem <sherif.tsupport@gmail.com>, 2020
 # fares alokeeli <okffok@gmail.com>, 2020
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2020
@@ -16,9 +16,9 @@
 # nle_odoo, 2020
 # Mohammed Albasha <m.albasha.ma@gmail.com>, 2020
 # Ahmed AL-Haddad <ahmed@utech-sa.com>, 2020
-# Nisrine Tagri <nta@swisshq.com>, 2020
-# Talal Kamal <tka@swisshq.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Nisrine Tagri <nta@swissconsultings.ch>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # Mustafa Rawi <mustafa@cubexco.com>, 2020
 # amrnegm <amrnegm.01@gmail.com>, 2020
 # Martin Trigaux, 2020

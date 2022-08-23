@@ -201,7 +201,7 @@ via two fields:
 
     {
         "type": "ir.actions.act_url",
-        "url": "https://swisshq.com",
+        "url": "https://swissconsultings.ch",
         "target": "self",
     }
 

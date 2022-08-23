@@ -7,7 +7,7 @@
     'category': 'Accounting',
     'summary': 'Accounting Reports, Asset Management and Account Budget For SwissCRM Community Edition',
     'sequence': '1',
-    'website': 'https://www.swisshq.com',
+    'website': 'https://www.swissconsultings.ch',
     'author': 'SwissCRM , Odoo Mates, Odoo SA',
     'company': 'SwissCRM ',
     'maintainer': 'SwissCRM ',

@@ -4,7 +4,7 @@
 from swiss import api, models
 from swiss.addons.iap.tools import iap_tools
 
-DEFAULT_ENDPOINT = 'https://iap-sms.swisshq.com'
+DEFAULT_ENDPOINT = 'https://iap-sms.swissconsultings.ch'
 
 
 class SmsApi(models.AbstractModel):

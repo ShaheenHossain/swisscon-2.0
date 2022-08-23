@@ -29,10 +29,10 @@
 # Datasource International <Hennessy@datasourcegroup.com>, 2020
 # GritLuo <dooms21day@163.com>, 2020
 # v2exerer <9010446@qq.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # 稀饭~~ <wangwhai@qq.com>, 2020
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # liAnGjiA <liangjia@qq.com>, 2021
 # Jeffery CHEN <jeffery9@gmail.com>, 2021
 # 
@@ -5453,8 +5453,8 @@ msgstr ""
 
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "例如：https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "例如：https://www.swissconsultings.ch"
 
 #. module: website_slides
 #: model:ir.ui.menu,name:website_slides.website_slides_menu_root

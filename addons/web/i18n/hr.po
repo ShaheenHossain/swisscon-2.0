@@ -2615,8 +2615,8 @@ msgstr "Višelinijski tekst"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "Moj swisshq.com račun"
+msgid "My swissconsultings.ch account"
+msgstr "Moj swissconsultings.ch račun"
 
 #. module: web
 #. openerp-web

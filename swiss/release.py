@@ -29,9 +29,9 @@ License :: OSI Approved :: GNU Lesser General Public License v3
 
 Programming Language :: Python
 """
-url = 'https://www.swisshq.com'
+url = 'https://www.swissconsultings.ch'
 author = 'SwissCRM '
-author_email = 'info@swisshq.com'
+author_email = 'info@swissconsultings.ch'
 license = 'LGPL-3'
 
 nt_service_name = "swiss-server-" + series.replace('~','-')

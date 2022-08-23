@@ -3,14 +3,14 @@
 # 	* hr_recruitment
 # 
 # Translators:
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2020
 # Jorge Luis Alfonso <jlalfonso21@gmail.com>, 2020
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""
@@ -2516,11 +2516,11 @@ msgstr "¡El nombre del grado de reclutamiento debe ser único!"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "El nombre de este seudónimo de correo electrónico. Por ejemplo, "
 "\"trabajos\",  si lo que quieres es obtener los correos para "
-"<trabajos@example.swisshq.com>."
+"<trabajos@example.swissconsultings.ch>."
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_user_id

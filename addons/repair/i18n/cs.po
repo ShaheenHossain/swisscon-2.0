@@ -6,7 +6,7 @@
 # Jakub Lohnisky <jakub@lepremier.cz>, 2020
 # Jan Horzinka <jan.horzinka@centrum.cz>, 2020
 # milda dvorak <milda.dvorak@optimal4.cz>, 2020
-# Pauline Thiry <pth@swisshq.com>, 2020
+# Pauline Thiry <pth@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Michal Veselý <michal@veselyberanek.net>, 2020
 # karolína schusterová <karolina.schusterova@vdp.sk>, 2020

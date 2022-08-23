@@ -6,7 +6,7 @@
 # Andreas Stauder <andreas.stauder@brain-tec.ch>, 2020
 # e2f <projects@e2f.com>, 2020
 # DE T1 <e2f8846@yahoo.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Malin Kienke <malin.kienke@initos.com>, 2020
 # Wolfgang Taferner, 2020
 # Marco Broscheit <marco.broscheit@posteo.de>, 2020

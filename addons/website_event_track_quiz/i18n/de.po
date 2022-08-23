@@ -4,9 +4,9 @@
 # 
 # Translators:
 # Ermin Trevisan <trevi@twanda.com>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # Oliver Roch <oliver.roch@d9t.de>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Andreas Stauder <andreas.stauder@brain-tec.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2020

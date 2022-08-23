@@ -7,10 +7,10 @@
 # Maxime Chambreuil <mchambreuil@ursainfosystems.com>, 2020
 # Denis Leemann <denis.leemann@camptocamp.com>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Fred Gilson <fgi@swisshq.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Fred Gilson <fgi@swissconsultings.ch>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Pauline Thiry <pth@swisshq.com>, 2020
+# Pauline Thiry <pth@swissconsultings.ch>, 2020
 # Sébastien BÜHL <buhlsebastien@gmail.com>, 2021
 # 
 msgid ""

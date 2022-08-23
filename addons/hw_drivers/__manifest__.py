@@ -6,7 +6,7 @@
     'category': 'Hidden',
     'sequence': 6,
     'summary': 'Connect the Web Client to Hardware Peripherals',
-    'website': 'https://www.swisshq.com/page/iot',
+    'website': 'https://www.swissconsultings.ch/page/iot',
     'description': """
 Hardware Poxy
 =============

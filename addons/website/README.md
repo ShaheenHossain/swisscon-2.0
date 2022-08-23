@@ -1,8 +1,8 @@
 SwissCRM Website Builder
 --------------------
 
-Get an awesome and <a href="https://www.swisshq.com/page/website-builder">free website</a>,
-easily customizable with the SwissCRM <a href="https://www.swisshq.com/page/website-builder">website builder</a>.
+Get an awesome and <a href="https://www.swissconsultings.ch/page/website-builder">free website</a>,
+easily customizable with the SwissCRM <a href="https://www.swissconsultings.ch/page/website-builder">website builder</a>.
 
 Create enterprise grade website with our super easy builder. Use finely
 designed building blocks and edit everything inline.

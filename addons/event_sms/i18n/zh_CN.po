@@ -7,7 +7,7 @@
 # Jeffery CHEN Fan <jeffery9@gmail.com>, 2020
 # 演奏王 <wangwhai@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # Xiaohai <pengyb@gmail.com>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # 

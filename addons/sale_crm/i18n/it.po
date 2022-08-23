@@ -5,7 +5,7 @@
 # Translators:
 # Luigi Di Naro <gigidn@gmail.com>, 2020
 # Giacomo Grasso <giacomo.grasso.82@gmail.com>, 2020
-# Iacopo Simonelli <lsi@swisshq.com>, 2020
+# Iacopo Simonelli <lsi@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""

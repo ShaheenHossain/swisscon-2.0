@@ -5,10 +5,10 @@
 # Translators:
 # Martin Trigaux, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Marie Willemyns <mwi@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Marie Willemyns <mwi@swissconsultings.ch>, 2020
 # a270031086f2a0d3514bc0cb507b48f6, 2020
-# omaodoo <oma@swisshq.com>, 2020
+# omaodoo <oma@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # 
 msgid ""

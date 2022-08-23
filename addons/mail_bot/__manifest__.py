@@ -7,7 +7,7 @@
     'category': 'Productivity/Discuss',
     'summary': 'Add SwissCRMBot in discussions',
     'description': "",
-    'website': 'https://www.swisshq.com/page/discuss',
+    'website': 'https://www.swissconsultings.ch/page/discuss',
     'depends': ['mail'],
     'auto_install': True,
     'installable': True,

@@ -6,34 +6,34 @@
 # Adriana Ierfino <adriana.ierfino@savoirfairelinux.com>, 2020
 # Loic <loic.richard2@gmail.com>, 2020
 # Nathan Noël <nathan070@me.com>, 2020
-# Thomas Dobbelsteyn <tdo@swisshq.com>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Thomas Dobbelsteyn <tdo@swissconsultings.ch>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # Frédéric GILSON <frederic.gilson@logicasoft.eu>, 2020
 # bb76cd9ac0cb7e20167a14728edb858b, 2020
 # Moka Tourisme <hello@mokatourisme.fr>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Laura Piraux <lap@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Laura Piraux <lap@swissconsultings.ch>, 2020
 # Bertrand LATOUR <divoir@gmail.com>, 2020
-# gdp SwissCRM <gdp@swisshq.com>, 2020
-# Celia Tydgat <cty@swisshq.com>, 2020
-# thomas quertinmont <tqu@swisshq.com>, 2020
+# gdp SwissCRM <gdp@swissconsultings.ch>, 2020
+# Celia Tydgat <cty@swissconsultings.ch>, 2020
+# thomas quertinmont <tqu@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
-# edc <edc@swisshq.com>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
+# edc <edc@swissconsultings.ch>, 2020
 # Vladilsav Kakakovko <vladislav.k@ventor.tech>, 2020
-# Jonathan Quique <jqu@swisshq.com>, 2020
-# Pauline Thiry <pth@swisshq.com>, 2020
-# Richard Mathot <rim@swisshq.com>, 2020
+# Jonathan Quique <jqu@swissconsultings.ch>, 2020
+# Pauline Thiry <pth@swissconsultings.ch>, 2020
+# Richard Mathot <rim@swissconsultings.ch>, 2020
 # Florian Hatat, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# omaodoo <oma@swisshq.com>, 2020
-# Priscilla (prs) SwissCRM <prs@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# omaodoo <oma@swissconsultings.ch>, 2020
+# Priscilla (prs) SwissCRM <prs@swissconsultings.ch>, 2020
 # Arnaud Willem <contact@arnaud-willem.eu>, 2020
 # Martin Trigaux, 2020
 # Idir Talem <idir.talem@gmail.com>, 2020
-# Alexandra Jubert <aju@swisshq.com>, 2021
-# Vallen Delobel <edv@swisshq.com>, 2021
+# Alexandra Jubert <aju@swissconsultings.ch>, 2021
+# Vallen Delobel <edv@swissconsultings.ch>, 2021
 # Rémi CAZENAVE, 2021
 # 
 msgid ""

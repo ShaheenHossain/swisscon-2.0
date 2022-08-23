@@ -4,8 +4,8 @@
 # 
 # Translators:
 # Andy Cheng <andy.cheng@richsoda.com>, 2020
-# Mandy Choy <mnc@swisshq.com>, 2021
-# Manga Tsang <mts@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
+# Manga Tsang <mts@swissconsultings.ch>, 2021
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2021
 # 
 msgid ""

@@ -12,8 +12,8 @@
 # liAnGjiA <liangjia@qq.com>, 2020
 # keecome <7017511@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
-# Summer Xia <sxi@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
+# Summer Xia <sxi@swissconsultings.ch>, 2020
 # Jeanphy <hzh0292@qq.com>, 2020
 # John An <johnxan@163.com>, 2020
 # Jeffery CHEN Fan <jeffery9@gmail.com>, 2020

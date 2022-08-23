@@ -6,13 +6,13 @@
 # Martin Trigaux, 2020
 # Florian Hatat, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Laura Piraux <lap@swisshq.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Alexandra Jubert <aju@swisshq.com>, 2020
-# Jonathan Castillo <jcs@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Laura Piraux <lap@swissconsultings.ch>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Alexandra Jubert <aju@swissconsultings.ch>, 2020
+# Jonathan Castillo <jcs@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
 # Rémi CAZENAVE, 2021
 # 
 msgid ""

@@ -1,7 +1,7 @@
 SwissCRM Blogs
 ----------
 
-Write, Design, Promote and Engage with <a href="https://www.swisshq.com/page/blog-engine">SwissCRM Blogs</a>.
+Write, Design, Promote and Engage with <a href="https://www.swissconsultings.ch/page/blog-engine">SwissCRM Blogs</a>.
 
 Express yourself with the SwissCRM enterprise grade blogging platform. Write
 beautiful blog posts, engage with visitors, translate content and moderate

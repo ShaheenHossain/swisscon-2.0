@@ -7,7 +7,7 @@
     'category': 'Marketing/Events',
     'sequence': 140,
     'summary': 'Publish events, sell tickets',
-    'website': 'https://www.swisshq.com/page/events',
+    'website': 'https://www.swissconsultings.ch/page/events',
     'description': "",
     'depends': [
         'event',

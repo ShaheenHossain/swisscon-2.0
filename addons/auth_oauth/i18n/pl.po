@@ -155,7 +155,7 @@ msgstr "Zaloguj poprzez Google"
 
 #. module: auth_oauth
 #: model:auth.oauth.provider,body:auth_oauth.provider_openerp
-msgid "Log in with swisshq.com"
+msgid "Log in with swissconsultings.ch"
 msgstr ""
 
 #. module: auth_oauth

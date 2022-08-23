@@ -3,10 +3,10 @@
 # 	* website_event_track_live
 # 
 # Translators:
-# Melanie Bernard <mbe@swisshq.com>, 2020
+# Melanie Bernard <mbe@swissconsultings.ch>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Alexandra Jubert <aju@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Alexandra Jubert <aju@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # 
 msgid ""

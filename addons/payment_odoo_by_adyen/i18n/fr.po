@@ -5,7 +5,7 @@
 # Translators:
 # Martin Trigaux, 2021
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2021
-# Cécile Collart <cco@swisshq.com>, 2021
+# Cécile Collart <cco@swissconsultings.ch>, 2021
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2021
 # Frédéric GILSON <frederic.gilson@logicasoft.eu>, 2021
 # Anthony Chaussin <chaussin.anthony@gmail.com>, 2021

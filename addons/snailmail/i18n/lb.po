@@ -21,7 +21,7 @@ msgstr ""
 #, python-format
 msgid ""
 "<p>An unknown error occured. Please contact our <a "
-"href=\"https://www.swisshq.com/help\" target=\"new\">support</a> for further "
+"href=\"https://www.swissconsultings.ch/help\" target=\"new\">support</a> for further "
 "assistance.</p>"
 msgstr ""
 
@@ -633,7 +633,7 @@ msgstr ""
 #, python-format
 msgid ""
 "You don't have an IAP account registered for this service.<br>Please go to "
-"<a href=%s target=\"new\">iap.swisshq.com</a> to claim your free credits."
+"<a href=%s target=\"new\">iap.swissconsultings.ch</a> to claim your free credits."
 msgstr ""
 
 #. module: snailmail

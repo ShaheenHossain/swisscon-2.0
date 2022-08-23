@@ -75,7 +75,7 @@ class TestCreateEvents(TestCommon):
         # arrange
         outlook_event = self.simple_event_from_outlook_attendee
         outlook_event = dict(self.simple_event_from_outlook_attendee, organizer={
-            'emailAddress': {'address': "john.doe@swisshq.com", 'name': "John Doe"},
+            'emailAddress': {'address': "john.doe@swissconsultings.ch", 'name': "John Doe"},
         })
         expected_event = dict(self.expected_swiss_event_from_outlook, user_id=False)
 

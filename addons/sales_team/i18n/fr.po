@@ -7,20 +7,20 @@
 # bb76cd9ac0cb7e20167a14728edb858b, 2020
 # Maxime Chambreuil <mchambreuil@ursainfosystems.com>, 2020
 # Fabien Pinckaers <fp@swissconsultings.ch>, 2020
-# Richard Mathot <rim@swisshq.com>, 2020
+# Richard Mathot <rim@swissconsultings.ch>, 2020
 # Fabien Bourgeois <fabien@yaltik.com>, 2020
 # Florian Hatat, 2020
 # Henri Cornuau <hcornuau@gmail.com>, 2020
-# Lucas Deliege <lud@swisshq.com>, 2020
-# Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Laura Piraux <lap@swisshq.com>, 2020
 # Lucas Deliege <lud@swissconsultings.ch>, 2020
-# Inès Gérardy <ige@swisshq.com>, 2020
+# Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Laura Piraux <lap@swissconsultings.ch>, 2020
+# Lucas Deliege <lud@swissconsultings.ch>, 2020
+# Inès Gérardy <ige@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Priscilla (prs) SwissCRM <prs@swisshq.com>, 2020
+# Priscilla (prs) SwissCRM <prs@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Luc N, 2021
 # Gwladys Jouble <g.jouble@vieconnect.io>, 2021
 # 

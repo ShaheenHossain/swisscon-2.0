@@ -5,7 +5,7 @@
 # Translators:
 # sejun huang <sejun.huang@gmail.com>, 2020
 # zhengwei wu <wzw15199@gmail.com>, 2020
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # Benson <Benson.Dr@Gmail.com>, 2021
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2021
 # 

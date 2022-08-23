@@ -17,7 +17,7 @@ This module adds several features to the Point of Sale that are specific to rest
 
 """,
     'depends': ['point_of_sale'],
-    'website': 'https://www.swisshq.com/page/point-of-sale-restaurant',
+    'website': 'https://www.swissconsultings.ch/page/point-of-sale-restaurant',
     'data': [
         'security/ir.model.access.csv',
         'views/pos_order_views.xml',

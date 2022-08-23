@@ -5,7 +5,7 @@
     'name': 'Website Event CRM Questions',
     'version': '1.0',
     'category': 'Marketing/Events',
-    'website': 'https://www.swisshq.com/page/events',
+    'website': 'https://www.swissconsultings.ch/page/events',
     'description': """
         Add information when we build the description of a lead to include
         the questions and answers linked to the registrations.

@@ -4,85 +4,85 @@
 # 
 # Translators:
 # 6534c450c77b2549e41c52e2051f5839, 2020
-# Marie Willemyns <mwi@swisshq.com>, 2020
-# Florian <fll@swisshq.com>, 2020
+# Marie Willemyns <mwi@swissconsultings.ch>, 2020
+# Florian <fll@swissconsultings.ch>, 2020
 # Frédéric LIETART <stuff@tifred.fr>, 2020
 # pafnow <pafnow@hotmail.com>, 2020
 # a270031086f2a0d3514bc0cb507b48f6, 2020
 # Khalyomede <khalyomede@gmail.com>, 2020
 # Phil Anth <thep3r3x@gmail.com>, 2020
 # 177f393d62d65d466be50e2d9e91e08d, 2020
-# Caroline Renson <car@swisshq.com>, 2020
+# Caroline Renson <car@swissconsultings.ch>, 2020
 # Moka Tourisme <hello@mokatourisme.fr>, 2020
-# Florence Lambrechts <fla@swisshq.com>, 2020
-# Pauline Thiry <pth@swisshq.com>, 2020
-# Clo <clo@swisshq.com>, 2020
+# Florence Lambrechts <fla@swissconsultings.ch>, 2020
+# Pauline Thiry <pth@swissconsultings.ch>, 2020
+# Clo <clo@swissconsultings.ch>, 2020
 # bb76cd9ac0cb7e20167a14728edb858b, 2020
 # Olivier Lenoir <olivier.lenoir@free.fr>, 2020
 # Daniel Deyris <daniel.deyris@phidias.fr>, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Valaeys Stéphane <svalaeys@fiefmanage.ch>, 2020
-# Nathan Grognet <ngr@swisshq.com>, 2020
+# Nathan Grognet <ngr@swissconsultings.ch>, 2020
 # Sébastien BÜHL <buhlsebastien@gmail.com>, 2020
 # romrik_, 2020
 # Frédéric GILSON <frederic.gilson@logicasoft.eu>, 2020
 # Sylvain Dubuisson <sylvain@orderly.fr>, 2020
-# Richard Mathot <rim@swisshq.com>, 2020
-# Damien Bouvy <dbo@swisshq.com>, 2020
+# Richard Mathot <rim@swissconsultings.ch>, 2020
+# Damien Bouvy <dbo@swissconsultings.ch>, 2020
 # Brice Reul <brice@bluerice.be>, 2020
 # Florian Hatat, 2020
 # Nicolas JEUDY <njeudy@panda-chi.io>, 2020
-# Melanie Bernard <mbe@swisshq.com>, 2020
-# Fred Gilson <fgi@swisshq.com>, 2020
+# Melanie Bernard <mbe@swissconsultings.ch>, 2020
+# Fred Gilson <fgi@swissconsultings.ch>, 2020
 # f5f0a0dac17dde787a1d812a6989680e, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Vallen Delobel <edv@swisshq.com>, 2020
+# Vallen Delobel <edv@swissconsultings.ch>, 2020
 # Christophe CHAUVET <christophe.chauvet@gmail.com>, 2020
 # e2f <projects@e2f.com>, 2020
 # Antoine Lorence <antoine.lorence@gmail.com>, 2020
 # Daniel & Delphine <dd2013@leschoupinous.net>, 2020
-# qma.odoo <qma@swisshq.com>, 2020
-# Laura Piraux <lap@swisshq.com>, 2020
-# Celia Tydgat <cty@swisshq.com>, 2020
+# qma.odoo <qma@swissconsultings.ch>, 2020
+# Laura Piraux <lap@swissconsultings.ch>, 2020
+# Celia Tydgat <cty@swissconsultings.ch>, 2020
 # Vincent Luba <vincent@biz-4-africa.com>, 2020
 # Herve GUERIN <herve.guerin@auguria.fr>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
-# Priscilla (prs) SwissCRM <prs@swisshq.com>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
+# Priscilla (prs) SwissCRM <prs@swissconsultings.ch>, 2020
 # Fabien FML, 2020
-# Julien Goergen <jgo@swisshq.com>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
+# Julien Goergen <jgo@swissconsultings.ch>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
 # Alain van de Werve <avw@swissconsultings.ch>, 2020
 # Olivier ANDRE <frsw194@gmail.com>, 2020
-# omaodoo <oma@swisshq.com>, 2020
-# lcaodoo <lca@swisshq.com>, 2020
-# Jonathan Quique <jqu@swisshq.com>, 2020
-# Christelle Pinchart <cpi@swisshq.com>, 2020
-# Feyens Victor <vfe@swisshq.com>, 2020
+# omaodoo <oma@swissconsultings.ch>, 2020
+# lcaodoo <lca@swissconsultings.ch>, 2020
+# Jonathan Quique <jqu@swissconsultings.ch>, 2020
+# Christelle Pinchart <cpi@swissconsultings.ch>, 2020
+# Feyens Victor <vfe@swissconsultings.ch>, 2020
 # Maxime Chambreuil <mchambreuil@ursainfosystems.com>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
 # Frédéric Clementi <frederic.clementi@camptocamp.com>, 2020
 # Arnaud Willem <contact@arnaud-willem.eu>, 2020
 # Idir Talem <idir.talem@gmail.com>, 2020
-# Alice Van Goethem <vga@swisshq.com>, 2021
+# Alice Van Goethem <vga@swissconsultings.ch>, 2021
 # qdelcourte <delcourte.quentin@hotmail.com>, 2021
-# Jérôme JEK <jek@swisshq.com>, 2021
+# Jérôme JEK <jek@swissconsultings.ch>, 2021
 # Yann Papouin <ypa@decgroupe.com>, 2021
 # Anthony Chaussin <chaussin.anthony@gmail.com>, 2021
 # Christophe Ricevuto <cri@nalios.be>, 2021
 # Martin Trigaux, 2021
-# Pierre Delacroix <pde@swisshq.com>, 2021
-# Benjamin Stienon <tsb@swisshq.com>, 2021
+# Pierre Delacroix <pde@swissconsultings.ch>, 2021
+# Benjamin Stienon <tsb@swissconsultings.ch>, 2021
 # c6006fcfb8a88157145e24bd47011b95_e8661c8, 2021
-# Jonathan Castillo <jcs@swisshq.com>, 2021
+# Jonathan Castillo <jcs@swissconsultings.ch>, 2021
 # Fabien Pinckaers <fp@swissconsultings.ch>, 2021
-# Alexandra Jubert <aju@swisshq.com>, 2021
+# Alexandra Jubert <aju@swissconsultings.ch>, 2021
 # Saad Thaifa <saad.thaifa@gmail.com>, 2021
 # Amaury oci <asalmon@oci.fr>, 2021
-# sbr <sbr@swisshq.com>, 2021
+# sbr <sbr@swissconsultings.ch>, 2021
 # Rémi CAZENAVE, 2021
-# Thomas Deleval <thd@swisshq.com>, 2021
-# Cécile Collart <cco@swisshq.com>, 2021
-# Camille Dantinne <cmd@swisshq.com>, 2021
+# Thomas Deleval <thd@swissconsultings.ch>, 2021
+# Cécile Collart <cco@swissconsultings.ch>, 2021
+# Camille Dantinne <cmd@swissconsultings.ch>, 2021
 # 
 msgid ""
 msgstr ""
@@ -90,7 +90,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-25 10:15+0000\n"
 "PO-Revision-Date: 2020-09-07 08:09+0000\n"
-"Last-Translator: Camille Dantinne <cmd@swisshq.com>, 2021\n"
+"Last-Translator: Camille Dantinne <cmd@swissconsultings.ch>, 2021\n"
 "Language-Team: French (https://www.transifex.com/odoo/teams/41243/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

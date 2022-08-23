@@ -7,7 +7,7 @@
 # Tomasz Leppich <t.leppich@gmail.com>, 2020
 # Piotr Szlązak <szlazakpiotr@gmail.com>, 2020
 # Marcin Młynarczyk <mlynarczyk@gmail.com>, 2020
-# Natalia Gros <nag@swisshq.com>, 2020
+# Natalia Gros <nag@swissconsultings.ch>, 2020
 # Martin Trigaux, 2021
 # 
 msgid ""

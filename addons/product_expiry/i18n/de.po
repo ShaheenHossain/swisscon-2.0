@@ -5,8 +5,8 @@
 # Translators:
 # Andreas Stauder <andreas.stauder@brain-tec.ch>, 2020
 # Martin Trigaux, 2020
-# Johannes Croe <jcr@swisshq.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Johannes Croe <jcr@swissconsultings.ch>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2021
 # Friederike Fasterling-Nesselbosch, 2021
 # 

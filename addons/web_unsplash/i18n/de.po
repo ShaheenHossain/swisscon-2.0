@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2020
-# Johannes Croe <jcr@swisshq.com>, 2020
+# Johannes Croe <jcr@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
 # 
 msgid ""

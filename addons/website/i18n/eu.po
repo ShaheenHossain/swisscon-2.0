@@ -8982,7 +8982,7 @@ msgstr "webgunea"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.swisshq.com"
+msgid "www.swissconsultings.ch"
 msgstr ""
 
 #. module: website

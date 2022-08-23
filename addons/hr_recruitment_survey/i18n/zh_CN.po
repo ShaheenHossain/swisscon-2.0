@@ -8,7 +8,7 @@
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # Martin Trigaux, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
 # 
 msgid ""

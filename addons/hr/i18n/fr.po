@@ -5,32 +5,32 @@
 # Translators:
 # f477e7ae9c75a2428d6113663a8354fe_bcd021c <0ff4ce060a36f446722508a48e99c22a_347081>, 2020
 # Aurore Lesage, 2020
-# Celia Tydgat <cty@swisshq.com>, 2020
-# Pauline Thiry <pth@swisshq.com>, 2020
-# Florian <fll@swisshq.com>, 2020
+# Celia Tydgat <cty@swissconsultings.ch>, 2020
+# Pauline Thiry <pth@swissconsultings.ch>, 2020
+# Florian <fll@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
-# Richard Mathot <rim@swisshq.com>, 2020
-# Nicolas Roussey <nro@swisshq.com>, 2020
+# Richard Mathot <rim@swissconsultings.ch>, 2020
+# Nicolas Roussey <nro@swissconsultings.ch>, 2020
 # Alexis de Lattre <alexis@via.ecp.fr>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
 # f5f0a0dac17dde787a1d812a6989680e, 2020
-# Laura Piraux <lap@swisshq.com>, 2020
-# thomas quertinmont <tqu@swisshq.com>, 2020
+# Laura Piraux <lap@swissconsultings.ch>, 2020
+# thomas quertinmont <tqu@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Priscilla (prs) SwissCRM <prs@swisshq.com>, 2020
+# Priscilla (prs) SwissCRM <prs@swissconsultings.ch>, 2020
 # Maxime Van de Reyd <maxvandereyd@gmail.com>, 2020
 # e2f <projects@e2f.com>, 2020
 # Maxime Chambreuil <mchambreuil@ursainfosystems.com>, 2020
 # Frédéric LIETART <stuff@tifred.fr>, 2020
 # Olivier Lenoir <olivier.lenoir@free.fr>, 2020
 # Xavier Symons <xsy@swissconsultings.ch>, 2020
-# Lucas Deliege <lud@swisshq.com>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Lucas Deliege <lud@swissconsultings.ch>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Arnaud Willem <contact@arnaud-willem.eu>, 2020
-# Alexandra Jubert <aju@swisshq.com>, 2021
-# Tivisse <yti@swisshq.com>, 2021
-# Geoffrey_GMF <gmf@swisshq.com>, 2021
+# Alexandra Jubert <aju@swissconsultings.ch>, 2021
+# Tivisse <yti@swissconsultings.ch>, 2021
+# Geoffrey_GMF <gmf@swissconsultings.ch>, 2021
 # SADEBP <sarah.dereix@beproject.fr>, 2021
 # 
 msgid ""

@@ -17,7 +17,7 @@
 # Zdzisław Krajewski <zdzichucb@gmail.com>, 2020
 # Piotr Szlązak <szlazakpiotr@gmail.com>, 2020
 # Paweł Wodyński <pw@myodoo.pl>, 2020
-# Natalia Gros <nag@swisshq.com>, 2020
+# Natalia Gros <nag@swissconsultings.ch>, 2020
 # Daniel Demedziuk <daniel.demedziuk@gmail.com>, 2021
 # Wojciech Warczakowski <w.warczakowski@gmail.com>, 2021
 # 

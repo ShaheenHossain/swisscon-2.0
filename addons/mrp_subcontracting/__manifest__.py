@@ -6,7 +6,7 @@
     'version': '0.1',
     'summary': "Subcontract Productions",
     'description': "",
-    'website': 'https://www.swisshq.com/page/manufacturing',
+    'website': 'https://www.swissconsultings.ch/page/manufacturing',
     'category': 'Manufacturing/Manufacturing',
     'depends': ['mrp'],
     'data': [

@@ -17,7 +17,7 @@
 # Arunas Vaitekunas <vaitekunas@gmail.com>, 2021
 # grupoda2 <dmitrijus.ivanovas@gmail.com>, 2021
 # Linas Versada <linaskrisiukenas@gmail.com>, 2021
-# Jonas Zinkevicius <jozi@swisshq.com>, 2021
+# Jonas Zinkevicius <jozi@swissconsultings.ch>, 2021
 # Arunas V. <arunas@devoro.com>, 2021
 # 
 msgid ""
@@ -3548,10 +3548,10 @@ msgstr ""
 #: model:ir.model.fields,help:project.field_project_project__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "El. pašto pseudonimo pavadinimas, pvz. \"darbai\", jei norite gauti "
-"<darbai@pavyzdys.swisshq.com>"
+"<darbai@pavyzdys.swissconsultings.ch>"
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__alias_user_id

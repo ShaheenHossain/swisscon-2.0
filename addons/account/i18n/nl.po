@@ -3,20 +3,20 @@
 # 	* account
 # 
 # Translators:
-# Laura Koedam <lko@swisshq.com>, 2020
-# Maxim Vandenbroucke <mxv@swisshq.com>, 2020
+# Laura Koedam <lko@swissconsultings.ch>, 2020
+# Maxim Vandenbroucke <mxv@swissconsultings.ch>, 2020
 # Cas Vissers <casvissers@brahoo.nl>, 2020
 # Julia van Orsouw <Julia@vanorsouw-consultancy.nl>, 2020
 # Jordy Blankestijn <jblankestijn@erpopen.nl>, 2020
 # woutvanrooij <wout.vanrooij@dynapps.be>, 2020
-# Antoine Gilard <ang@swisshq.com>, 2020
+# Antoine Gilard <ang@swissconsultings.ch>, 2020
 # ca2da8678cdb9cbd573eaf985f02c476, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Cas Vissers <c.vissers@brahoo.nl>, 2020
 # dpms <pieter.van.de.wygaert@telenet.be>, 2020
 # Erik-Jan Bulthuis <ejbulthuis@erpopen.nl>, 2020
 # Yip132 <yannick.renders@gmail.com>, 2020
-# Wynand Tastenhoye <wta@swisshq.com>, 2020
+# Wynand Tastenhoye <wta@swissconsultings.ch>, 2020
 # SwissCRM Experts Consultants <consultants@odooexperts.nl>, 2020
 # Eric Geens <ericgeens@yahoo.com>, 2020
 # Gunther Clauwaert <gclauwae@hotmail.com>, 2020

@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2020
-# Nicola Peiffer <epn@swisshq.com>, 2020
+# Nicola Peiffer <epn@swissconsultings.ch>, 2020
 # Daniel Kieneswenger <daniel.kieneswenger@gmail.com>, 2021
 # 
 msgid ""

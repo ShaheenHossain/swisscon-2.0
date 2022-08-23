@@ -307,7 +307,7 @@ class BaseCase(TreeCase, MetaCase('DummyCase', (object,), {})):
     initialized by subclasses.
     """
 
-    longMessage = True      # more verbose error message by default: https://www.swisshq.com/r/Vmh
+    longMessage = True      # more verbose error message by default: https://www.swissconsultings.ch/r/Vmh
     warm = True             # False during warm-up phase (see :func:`warmup`)
 
     def cursor(self):

@@ -341,7 +341,7 @@ msgstr ""
 
 #. module: website_twitter
 #: model_terms:ir.ui.view,arch_db:website_twitter.view_website_config_settings
-msgid "https://www.swisshq.com"
+msgid "https://www.swissconsultings.ch"
 msgstr ""
 
 #. module: website_twitter

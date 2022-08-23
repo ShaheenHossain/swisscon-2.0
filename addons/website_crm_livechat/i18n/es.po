@@ -5,7 +5,7 @@
 # Translators:
 # Martin Trigaux, 2020
 # Pedro M. Baeza <pedro.baeza@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # 
 msgid ""

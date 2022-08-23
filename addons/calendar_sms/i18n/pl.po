@@ -7,7 +7,7 @@
 # Tadeusz Karpiński <tadeuszkarpinski@gmail.com>, 2020
 # Tomasz Leppich <t.leppich@gmail.com>, 2020
 # Marcin Młynarczyk <mlynarczyk@gmail.com>, 2020
-# Natalia Gros <nag@swisshq.com>, 2020
+# Natalia Gros <nag@swissconsultings.ch>, 2020
 # Piotr Strębski <strebski@gmail.com>, 2021
 # 
 msgid ""

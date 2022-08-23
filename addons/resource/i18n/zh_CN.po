@@ -7,8 +7,8 @@
 # Maie <m@maie.name>, 2020
 # keecome <7017511@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
-# Shane Tsoi <sso@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
+# Shane Tsoi <sso@swissconsultings.ch>, 2020
 # snow wang <147156565@qq.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
 # Jerry Pan <panjianyu@inspur.com>, 2020

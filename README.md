@@ -10,7 +10,7 @@ Project Management,Billing &amp; Accounting,Point of Sale,Human Resources,Market
 Purchase Management and many more.
 
 SwissCRM Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
-a full-featured <a href="https://www.swisshq.com">Open Source ERP</a> when
+a full-featured <a href="https://www.swissconsultings.ch">Open Source ERP</a> when
 you install several Apps.
 
 Additional Apps for SwissCRM are available here : https://gitlab.com/swiss-hq/extra-addons

@@ -12,7 +12,7 @@
 # Osoul <baruni@osoul.ly>, 2020
 # Zuhair Hammadi <zuhair12@gmail.com>, 2020
 # Yihya Hugirat <hugirat@gmail.com>, 2020
-# Talal Kamal <tka@swisshq.com>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
 # Fahad Alqahtani <fahad@cloudland.sa>, 2020
 # Mohammed Ibrahim <m.ibrahim@mussder.com>, 2020
 # Ghaith Gammar <g.gammar@saharaifs.net>, 2020
@@ -9085,8 +9085,8 @@ msgstr "موقع ويب"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.swisshq.com"
-msgstr "www.swisshq.com"
+msgid "www.swissconsultings.ch"
+msgstr "www.swissconsultings.ch"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.qweb_500

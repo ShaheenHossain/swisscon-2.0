@@ -9,7 +9,7 @@
 # Ghaith Gammar <g.gammar@saharaifs.net>, 2020
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2020
 # Mohamed Alansari <Mohammad.alansari@outlook.com>, 2020
-# Talal Kamal <tka@swisshq.com>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
 # Mustafa Rawi <mustafa@cubexco.com>, 2020
 # amrnegm <amrnegm.01@gmail.com>, 2020
 # Martin Trigaux, 2020

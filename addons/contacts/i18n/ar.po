@@ -8,7 +8,7 @@
 # Martin Trigaux, 2020
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2020
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
-# Talal Kamal <tka@swisshq.com>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
 # MOHAMMAD IBRAHIM <m.moamir@outlook.com>, 2020
 # 
 msgid ""

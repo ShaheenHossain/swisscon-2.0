@@ -3,7 +3,7 @@
     'name': "mail_bot_hr",
     'summary': """Bridge module between hr and mailbot.""",
     'description': """This module adds the SwissCRMBot state and notifications in the user form modified by hr.""",
-    'website': "https://www.swisshq.com/page/discuss",
+    'website': "https://www.swissconsultings.ch/page/discuss",
     'category': 'Productivity/Discuss',
     'version': '1.0',
     'depends': ['mail_bot', 'hr'],

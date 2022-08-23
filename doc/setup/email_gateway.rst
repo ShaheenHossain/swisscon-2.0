@@ -46,4 +46,4 @@ For Exim
 
 .. tip::
    If you don't have access/manage your email server, use `inbound messages
-   <https://www.swisshq.com/documentation/user/14.0/discuss/advanced/email_servers.html#how-to-manage-outbound-messages>`_.
+   <https://www.swissconsultings.ch/documentation/user/14.0/discuss/advanced/email_servers.html#how-to-manage-outbound-messages>`_.

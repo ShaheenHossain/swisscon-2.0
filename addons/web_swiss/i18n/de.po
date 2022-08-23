@@ -417,7 +417,7 @@ msgstr "Montserrat"
 
 #. module: web_swiss
 #: model_terms:ir.ui.view,arch_db:web_swiss.home_page
-msgid "My swisshq.com account"
+msgid "My swissconsultings.ch account"
 msgstr "Mein fllectrahq.com-Konto"
 
 #. module: web_swiss

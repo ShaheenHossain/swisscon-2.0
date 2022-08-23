@@ -4,7 +4,7 @@
 # 
 # Translators:
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # Martin Trigaux, 2020
 # bf2549c5415a9287249cba2b8a5823c7, 2020

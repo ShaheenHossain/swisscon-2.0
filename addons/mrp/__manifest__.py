@@ -5,7 +5,7 @@
 {
     'name': 'Manufacturing',
     'version': '2.0',
-    'website': 'https://www.swisshq.com/page/manufacturing',
+    'website': 'https://www.swissconsultings.ch/page/manufacturing',
     'category': 'Manufacturing/Manufacturing',
     'sequence': 55,
     'summary': 'Manufacturing Orders & BOMs',

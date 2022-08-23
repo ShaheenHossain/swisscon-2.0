@@ -16,7 +16,7 @@
 # Mahmood Al Halwachi <mahmood.alhalwachi@gmail.com>, 2020
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
 # Yihya Hugirat <hugirat@gmail.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # MOHAMMAD IBRAHIM <m.moamir@outlook.com>, 2020
 # Mohamed Abuelmagd <mabuelmagd12@gmail.com>, 2021
 # 

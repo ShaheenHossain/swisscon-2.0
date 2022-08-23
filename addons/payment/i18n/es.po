@@ -5,12 +5,12 @@
 # Translators:
 # 2ce5c0f90a7530708d68bb8c6ad9a772_9dbda0e <234f5478d2e8ef72de316673811c6a08_768192>, 2020
 # gabriumaa <gabriel.umana@delfixcr.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
-# Caroline Renson <car@swisshq.com>, 2021
-# Patricia Gutiérrez Capetillo <pagc@swisshq.com>, 2021
-# Daniela Cervantes <dace@swisshq.com>, 2021
+# Caroline Renson <car@swissconsultings.ch>, 2021
+# Patricia Gutiérrez Capetillo <pagc@swissconsultings.ch>, 2021
+# Daniela Cervantes <dace@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""

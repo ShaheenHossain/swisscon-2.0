@@ -4,12 +4,12 @@
 # 
 # Translators:
 # 老窦 北京 <2662059195@qq.com>, 2020
-# Mandy Choy <mnc@swisshq.com>, 2020
+# Mandy Choy <mnc@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # r <263737@qq.com>, 2020
 # guohuadeng <guohuadeng@hotmail.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # snow wang <147156565@qq.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
 # Jeanphy <hzh0292@qq.com>, 2020
@@ -2284,8 +2284,8 @@ msgstr "应聘者学历的名称必须唯一"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
-msgstr "邮件别名的名称，例如，如果你要收取 <jobs@example.swisshq.com> 的EMail,别名就要设为：\"jobs\""
+"<jobs@example.swissconsultings.ch>"
+msgstr "邮件别名的名称，例如，如果你要收取 <jobs@example.swissconsultings.ch> 的EMail,别名就要设为：\"jobs\""
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_user_id

@@ -6,8 +6,8 @@
 # Thorsten Vocks <thorsten.vocks@openbig.org>, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
 # brokemeister <work@maltejansen.de>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
-# Nicola Peiffer <epn@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
+# Nicola Peiffer <epn@swissconsultings.ch>, 2020
 # Ralf Hilgenstock <rh@dialoge.info>, 2020
 # jonas <jonas.hillebrecht@bklynsoap.com>, 2020
 # Martin Trigaux, 2020

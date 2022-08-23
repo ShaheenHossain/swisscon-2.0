@@ -7,8 +7,8 @@
 # Emanuel Martins <emanuel.breno@gmail.com>, 2020
 # Peter Leaf <pablleaf@gmail.com>, 2020
 # Hélio Dias de Brito Teixeira <helio.dbt@gmail.com>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
-# Keli Brugalli <kbr@swisshq.com>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
+# Keli Brugalli <kbr@swissconsultings.ch>, 2020
 # Rodrigo de Almeida Sottomaior Macedo <rmsolucoeseminformatica@protonmail.com>, 2020
 # nle_odoo, 2020
 # mariana rodrigues <mariana12v@gmail.com>, 2020
@@ -22,9 +22,9 @@
 # Silmar <pinheirosilmar@gmail.com>, 2020
 # Ramiro Pereira de Magalhães <ramiro.p.magalhaes@gmail.com>, 2020
 # Danilo Rodrigues, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Mateus Pinheiro <smateusbp@gmail.com>, 2020
-# Caroline Renson <car@swisshq.com>, 2020
+# Caroline Renson <car@swissconsultings.ch>, 2020
 # Luiz Carareto Alonso <Luiz.cararetoalonso@gmail.com>, 2020
 # Lauro de Lima <lauro@ciclix.com>, 2020
 # Fernando Colus <fcolus1@gmail.com>, 2020
@@ -190,7 +190,7 @@ msgid ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Powered by <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=website\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"        Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=website\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"
@@ -285,7 +285,7 @@ msgstr ""
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
 "    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" style=\"min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;\">\n"
 "      <tr><td style=\"text-align: center; font-size: 13px;\">\n"
-"        Distribuido por <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=website\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"        Distribuido por <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=website\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "      </td></tr>\n"
 "    </table>\n"
 "</td></tr>\n"

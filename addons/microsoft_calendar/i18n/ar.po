@@ -11,8 +11,8 @@
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2020
 # Ahmed AL-Haddad <ahmed@utech-sa.com>, 2020
 # Zuhair Hammadi <zuhair12@gmail.com>, 2020
-# Talal Kamal <tka@swisshq.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # 
 msgid ""
 msgstr ""
@@ -20,7 +20,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 11:24+0000\n"
 "PO-Revision-Date: 2020-09-07 08:14+0000\n"
-"Last-Translator: Tasneem Sarhan <tsa@swisshq.com>, 2020\n"
+"Last-Translator: Tasneem Sarhan <tsa@swissconsultings.ch>, 2020\n"
 "Language-Team: Arabic (https://www.transifex.com/odoo/teams/41243/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

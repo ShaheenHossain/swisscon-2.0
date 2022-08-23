@@ -9,7 +9,7 @@
 # f91684c3ff9ec3e650d5c8461e534581_686eae3 <449b96d9f63071f94d89e129677b83de_366193>, 2020
 # ba566f9f7abd166f8f1f032649ec3e69, 2020
 # Matt <matt.fasola@braintec-group.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Oliver Roch <oliver.roch@d9t.de>, 2020
 # Florian Pose <fp@igh.de>, 2020
 # philku79 <philip.kuss@gmx.de>, 2020

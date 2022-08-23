@@ -6,8 +6,8 @@
 # Andreas Stauder <andreas.stauder@brain-tec.ch>, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
 # Bettina Pfeifer <betzilla@web.de>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # Tobias R <tobias.reinwarth@manatec.de>, 2020
 # Max-Milan Stoyanov, 2020
 # Florian Pose <fp@igh.de>, 2020
@@ -2330,10 +2330,10 @@ msgstr "Der Name der Einstellung muss eindeutig sein"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Die Bezeichnung des E-Mail-Alias, z.B. 'jobs', falls Sie E-Mails an z.B. "
-"<jobs@example.swisshq.com> erhalten möchten"
+"<jobs@example.swissconsultings.ch> erhalten möchten"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_user_id

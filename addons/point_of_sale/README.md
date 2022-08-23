@@ -1,7 +1,7 @@
 SwissCRM Point of Sale
 -----------------------------
 
-SwissCRM's <a href="https://www.swisshq.com/page/point-of-sale">Point of Sale</a>
+SwissCRM's <a href="https://www.swissconsultings.ch/page/point-of-sale">Point of Sale</a>
 introduces a super clean interface with no installation required that runs
 online and offline on modern hardwares.
 

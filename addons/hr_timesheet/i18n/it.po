@@ -9,7 +9,7 @@
 # Simone Bernini <simone@aperturelabs.it>, 2020
 # Paolo Valier, 2020
 # David Minneci <david@numeko.it>, 2020
-# Federico Zanuttini <fza@swisshq.com>, 2020
+# Federico Zanuttini <fza@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""

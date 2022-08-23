@@ -6,7 +6,7 @@
     'version': '2.0',
     'category': 'Human Resources/Contracts',
     'description': "",
-    'website': 'https://swisshq.com/expenses',
+    'website': 'https://swissconsultings.ch/expenses',
     'summary': 'Manage your employee payroll records',
 
     'depends': [

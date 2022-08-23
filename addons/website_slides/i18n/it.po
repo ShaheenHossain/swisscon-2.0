@@ -3,16 +3,16 @@
 # 	* website_slides
 # 
 # Translators:
-# Petra <bop@swisshq.com>, 2020
+# Petra <bop@swissconsultings.ch>, 2020
 # Alberto Vincenzi <alberto.vincenzi@gmail.com>, 2020
-# Luigia Cimmino Caserta <lcc@swisshq.com>, 2020
+# Luigia Cimmino Caserta <lcc@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Francesco Garganese <francesco.garganese@aeromnia.aero>, 2020
 # SebastianoPistore <SebastianoPistore.info@protonmail.ch>, 2020
 # Paolo Valier, 2020
 # Pietro Della Notte <pdellanotte@gmail.com>, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
-# Iacopo Simonelli <lsi@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
+# Iacopo Simonelli <lsi@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # Friederike Fasterling-Nesselbosch, 2021
 # 
@@ -5654,8 +5654,8 @@ msgstr "es. Introduzione"
 
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "es. https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "es. https://www.swissconsultings.ch"
 
 #. module: website_slides
 #: model:ir.ui.menu,name:website_slides.website_slides_menu_root

@@ -6,7 +6,7 @@
 # Martin Trigaux, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
 # Katharina Moritz <kmo@e2f.com>, 2020
-# JEK SwissCRM <jek@swisshq.com>, 2020
+# JEK SwissCRM <jek@swissconsultings.ch>, 2020
 # Andreas Schmidt <schmigo@gmail.com>, 2021
 # 
 msgid ""

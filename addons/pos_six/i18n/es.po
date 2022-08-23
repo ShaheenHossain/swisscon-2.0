@@ -3,7 +3,7 @@
 # 	* pos_six
 # 
 # Translators:
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # 

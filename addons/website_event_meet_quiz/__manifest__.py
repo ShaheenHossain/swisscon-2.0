@@ -8,7 +8,7 @@
     'sequence': 1007,
     'version': '1.0',
     'summary': 'Quiz and Meet on community route',
-    'website': 'https://www.swisshq.com/page/events',
+    'website': 'https://www.swissconsultings.ch/page/events',
     'description': "",
     'depends': [
         'website_event_meet',

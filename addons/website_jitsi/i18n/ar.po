@@ -10,7 +10,7 @@
 # Osoul <baruni@osoul.ly>, 2020
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2020
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
-# Tasneem Sarhan <tsa@swisshq.com>, 2020
+# Tasneem Sarhan <tsa@swissconsultings.ch>, 2020
 # Mohamed Abuelmagd <mabuelmagd12@gmail.com>, 2021
 # 
 msgid ""

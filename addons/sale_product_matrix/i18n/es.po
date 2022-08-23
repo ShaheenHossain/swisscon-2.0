@@ -6,7 +6,7 @@
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2020
 # Martin Trigaux, 2020
 # Miguel Orueta <mo@landoo.es>, 2020
-# John Guardado <jgu@swisshq.com>, 2020
+# John Guardado <jgu@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # 
 msgid ""

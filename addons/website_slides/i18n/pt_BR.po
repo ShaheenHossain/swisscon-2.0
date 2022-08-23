@@ -7,13 +7,13 @@
 # Raphael Rodrigues <raphael0608@gmail.com>, 2020
 # Clemilton Clementino <clemylton@hotmail.com>, 2020
 # Marcelo Costa <marcelo@comdesk.com.br>, 2020
-# Keli Brugalli <kbr@swisshq.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Keli Brugalli <kbr@swissconsultings.ch>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Peter Leaf <pablleaf@gmail.com>, 2020
 # Caio Leonardo Mendes de Sousa <caleozao@gmail.com>, 2020
 # falexandresilva <falexandresilva@gmail.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
 # André Carvalho <and2carvalho@gmail.com>, 2020
 # PopSolutions Cooperativa Digital <popsolutions.co@gmail.com>, 2020
 # Rafael H L Moretti <rafael.moretti@gmail.com>, 2020
@@ -5684,7 +5684,7 @@ msgstr ""
 
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_form
-msgid "e.g. https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
 msgstr "por exemplo, https://www.seusite.com"
 
 #. module: website_slides

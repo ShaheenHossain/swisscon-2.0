@@ -20,7 +20,7 @@ from swiss.tools.misc import file_open
 from ..models.ir_attachment import SUPPORTED_IMAGE_MIMETYPES
 
 logger = logging.getLogger(__name__)
-DEFAULT_LIBRARY_ENDPOINT = 'https://media-api.swisshq.com'
+DEFAULT_LIBRARY_ENDPOINT = 'https://media-api.swissconsultings.ch'
 
 class Web_Editor(http.Controller):
     #------------------------------------------------------

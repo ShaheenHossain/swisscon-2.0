@@ -10,7 +10,7 @@
 # Nhomar Hernández [Vauxoo] <nhomar@vauxoo.com>, 2020
 # José Vicente <txusev@gmail.com>, 2020
 # Jose Alejandro Echeverri Valencia <josealejandroeche@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Osiris Anael Roman Eras <osiris.roman@yachaytech.edu.ec>, 2020
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021
 # Sergio Pinilla Ávila <serjudo@gmail.com>, 2021

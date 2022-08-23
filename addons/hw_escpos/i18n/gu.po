@@ -3,7 +3,7 @@
 # * hw_escpos
 #
 # Translators:
-# Ranjit Pillai <rpi@swisshq.com>, 2015
+# Ranjit Pillai <rpi@swissconsultings.ch>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: SwissCRM 9.0\n"

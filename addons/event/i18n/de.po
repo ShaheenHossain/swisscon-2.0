@@ -6,7 +6,7 @@
 # Andreas Stauder <andreas.stauder@brain-tec.ch>, 2020
 # Christian Oechsner <carinachristian@gmail.com>, 2020
 # Bettina Pfeifer <betzilla@web.de>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Florian Pose <fp@igh.de>, 2020
 # philku79 <philip.kuss@gmx.de>, 2020
 # Max-Milan Stoyanov, 2020
@@ -3350,8 +3350,8 @@ msgstr "z.B. Konferenz für Architekten"
 
 #. module: event
 #: model_terms:event.event,description:event.event_2
-msgid "events@swisshq.com"
-msgstr "events@swisshq.com"
+msgid "events@swissconsultings.ch"
+msgstr "events@swissconsultings.ch"
 
 #. module: event
 #: model_terms:event.event,description:event.event_7

@@ -1,11 +1,11 @@
 Source: swiss
 Section: net
 Priority: optional
-Maintainer: SwissCRM  <info@swisshq.com>
+Maintainer: SwissCRM  <info@swissconsultings.ch>
 Uploaders: Aaron Bohy <aab@swissconsultings.ch>, Simon Lejeune <sle@swissconsultings.ch>
 Build-Depends: debhelper-compat (= 12), dh-python, python3, rsync, python3-setuptools
 Standards-Version: 4.5.0
-Homepage: http://www.swisshq.com/
+Homepage: http://www.swissconsultings.ch/
 Vcs-Git: https://gitlab.com/swisshq/swiss
 Vcs-Browser: https://gitlab.com/swisshq/swiss
 

@@ -8,7 +8,7 @@
     'sequence': 35,
     'summary': 'Purchase orders, tenders and agreements',
     'description': "",
-    'website': 'https://www.swisshq.com/page/purchase',
+    'website': 'https://www.swissconsultings.ch/page/purchase',
     'depends': ['account'],
     'data': [
         'security/purchase_security.xml',

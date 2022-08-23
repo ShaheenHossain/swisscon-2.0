@@ -7,7 +7,7 @@
     'category': 'Human Resources/Time Off',
     'sequence': 85,
     'summary': 'Allocate time off and follow time off requests',
-    'website': 'https://www.swisshq.com/page/leaves',
+    'website': 'https://www.swissconsultings.ch/page/leaves',
     'description': """
 Manage time off requests and allocations
 =====================================

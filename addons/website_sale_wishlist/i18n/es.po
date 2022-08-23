@@ -8,8 +8,8 @@
 # Pedro M. Baeza <pedro.baeza@gmail.com>, 2020
 # Eric Antones <eantones@users.noreply.github.com>, 2020
 # 966ff43e6966712895a590e7320ca288, 2020
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # 

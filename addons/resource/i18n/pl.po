@@ -14,7 +14,7 @@
 # Marcin Młynarczyk <mlynarczyk@gmail.com>, 2020
 # Andrzej Donczew <a.donczew@hadron.eu.com>, 2020
 # Paweł Wodyński <pw@myodoo.pl>, 2020
-# Natalia Gros <nag@swisshq.com>, 2020
+# Natalia Gros <nag@swissconsultings.ch>, 2020
 # Karol Rybak <karolrybak85@gmail.com>, 2021
 # Wojciech Warczakowski <w.warczakowski@gmail.com>, 2021
 # 

@@ -12,9 +12,9 @@
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2020
 # Luis M. Ontalba <luis.martinez@tecnativa.com>, 2020
 # gabriumaa <gabriel.umana@delfixcr.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
-# Efrem Jimenez <efj@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
+# Efrem Jimenez <efj@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Osiris Anael Roman Eras <osiris.roman@yachaytech.edu.ec>, 2020
 # 

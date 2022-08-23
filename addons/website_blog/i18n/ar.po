@@ -15,7 +15,7 @@
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
 # Yihya Hugirat <hugirat@gmail.com>, 2020
 # Mostafa Hanafy <mostafa.s.hanafy@gmail.com>, 2020
-# Nisrine Tagri <nta@swisshq.com>, 2020
+# Nisrine Tagri <nta@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Saleh Albannay <saleh@cm.codes>, 2020
 # Mustafa Rawi <mustafa@cubexco.com>, 2020

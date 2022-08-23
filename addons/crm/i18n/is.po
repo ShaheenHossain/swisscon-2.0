@@ -2637,8 +2637,8 @@ msgstr "e.g. Product Pricing"
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_case_form_view_leads
 #: model_terms:ir.ui.view,arch_db:crm.crm_case_form_view_oppor
-msgid "e.g. www.swisshq.com"
-msgstr "e.g. www.swisshq.com"
+msgid "e.g. www.swissconsultings.ch"
+msgstr "e.g. www.swissconsultings.ch"
 
 #. module: crm
 #: code:addons/crm/models/crm_lead.py:946

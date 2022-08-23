@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2020
-# Johannes Kreuzen <jkr@swisshq.com>, 2021
+# Johannes Kreuzen <jkr@swissconsultings.ch>, 2021
 # Felix Schubert <felix.schubert@go-erp.com>, 2021
 # 
 msgid ""

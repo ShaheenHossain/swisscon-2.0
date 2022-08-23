@@ -3,7 +3,7 @@
 # 	* snailmail_account
 # 
 # Translators:
-# John Guardado <jgu@swisshq.com>, 2020
+# John Guardado <jgu@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # 
 msgid ""

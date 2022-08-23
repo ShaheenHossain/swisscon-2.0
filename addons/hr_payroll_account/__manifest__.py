@@ -9,7 +9,7 @@
           Generic Payroll system Integrated with Accounting,Expense Encoding,Payment Encoding,Company Contribution Management
     """,
     'description': "",
-    'website': 'https://swisshq.com/expenses',
+    'website': 'https://swissconsultings.ch/expenses',
     'depends': ['hr_payroll', 'account'],
     'data': ['views/hr_payroll_account_views.xml'],
     'test': ['../account/test/account_minimal_test.xml'],

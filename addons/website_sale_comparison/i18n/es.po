@@ -4,10 +4,10 @@
 # 
 # Translators:
 # Pedro M. Baeza <pedro.baeza@gmail.com>, 2020
-# Nicole Kist <nki@swisshq.com>, 2020
+# Nicole Kist <nki@swissconsultings.ch>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # ES T2 <e2f48ds4f2ds1@outlook.com>, 2020
 # Martin Trigaux, 2020

@@ -7,7 +7,7 @@
 # Martin Trigaux, 2020
 # Wolfgang Taferner, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Felix Schubert <felix.schubert@go-erp.com>, 2021
 # Robert Förster <hello@suppliot.eu>, 2021
 # Chris Egal <sodaswed@web.de>, 2021

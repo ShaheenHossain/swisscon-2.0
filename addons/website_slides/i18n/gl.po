@@ -407,7 +407,7 @@ msgstr ""
 msgid ""
 "Create a beautiful and professional eCommerce on your website with SwissCRM. \n"
 "\n"
-"Find out more at https://www.swisshq.com/page/e-commerce"
+"Find out more at https://www.swissconsultings.ch/page/e-commerce"
 msgstr ""
 
 #. module: website_slides
@@ -466,7 +466,7 @@ msgid ""
 "Discover the all-in-one business management software solution that fits any "
 "business size and use case.\n"
 "\n"
-"Learn more at https://swisshq.com"
+"Learn more at https://swissconsultings.ch"
 msgstr ""
 
 #. module: website_slides
@@ -879,7 +879,7 @@ msgstr ""
 msgid ""
 "SwissCRM's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at www."
-"swisshq.com"
+"swissconsultings.ch"
 msgstr ""
 
 #. module: website_slides
@@ -888,7 +888,7 @@ msgstr ""
 msgid ""
 "SwissCRM's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at www."
-"swisshq.com\n"
+"swissconsultings.ch\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
@@ -1029,7 +1029,7 @@ msgid ""
 "Run your business with a comprehensive suite of business apps. Do it easily "
 "with SwissCRM! \n"
 "\n"
-"http://swisshq.com/start"
+"http://swissconsultings.ch/start"
 msgstr ""
 
 #. module: website_slides
@@ -1144,7 +1144,7 @@ msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with "
 "SwissCRM Sign!\n"
 "\n"
-"Discover more at https://www.swisshq.com/page/sign"
+"Discover more at https://www.swissconsultings.ch/page/sign"
 msgstr ""
 
 #. module: website_slides

@@ -8,7 +8,7 @@ from swiss.addons.iap.tools import iap_tools
 
 _logger = logging.getLogger(__name__)
 
-DEFAULT_ENDPOINT = 'https://iap-services.swisshq.com'
+DEFAULT_ENDPOINT = 'https://iap-services.swissconsultings.ch'
 
 MAX_LEAD = 200
 

@@ -4,13 +4,13 @@
 # 
 # Translators:
 # Frédéric LIETART <stuff@tifred.fr>, 2020
-# Richard Mathot <rim@swisshq.com>, 2020
+# Richard Mathot <rim@swissconsultings.ch>, 2020
 # Jean-Marc Dupont <jmd@6it.fr>, 2020
 # Fabri Yohann <psn@fabri.pw>, 2020
 # Kévin R., 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # 
 msgid ""

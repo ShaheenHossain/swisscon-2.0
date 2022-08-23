@@ -14,17 +14,17 @@
 # Marco Calcagni <mcalcagni@dinamicheaziendali.it>, 2020
 # Lorenzo Battistini <lb@takobi.online>, 2020
 # Paolo Caruccio <paolo.caruccio66@gmail.com>, 2020
-# Luigia Cimmino Caserta <lcc@swisshq.com>, 2020
+# Luigia Cimmino Caserta <lcc@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Giacomo Grasso <giacomo.grasso.82@gmail.com>, 2020
 # Paolo Valier, 2020
 # David Minneci <david@numeko.it>, 2020
-# efraimbiffi <eab@swisshq.com>, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# efraimbiffi <eab@swissconsultings.ch>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Stefano Consolaro <stefano.consolaro@mymage.it>, 2020
 # Luana Andronico <andronicoluana@gmail.com>, 2020
 # AndreaNichil <Andrea.nichil@gmail.com>, 2021
-# Cécile Collart <cco@swisshq.com>, 2021
+# Cécile Collart <cco@swissconsultings.ch>, 2021
 # Vortex Storm <vortexstorm@protonmail.com>, 2021
 # BigBlu <paolo.moroni@air-srl.com>, 2021
 # Friederike Fasterling-Nesselbosch, 2021

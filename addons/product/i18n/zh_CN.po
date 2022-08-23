@@ -13,7 +13,7 @@
 # diaojiaolou <124412206@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
 # ChinaMaker <liuct@chinamaker.net>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # Jeanphy <hzh0292@qq.com>, 2020
 # Felix Yang <felixyangsh@aliyun.com>, 2020
 # as co02 <asco02@163.com>, 2020
@@ -29,7 +29,7 @@
 # 稀饭~~ <wangwhai@qq.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
 # liAnGjiA <liangjia@qq.com>, 2021
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # Jeffery CHEN <jeffery9@gmail.com>, 2021
 # 
 msgid ""

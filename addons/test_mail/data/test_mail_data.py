@@ -234,7 +234,7 @@ Received: by mail.example.com (Postfix, from userid 10002)
     id E8166BFACB; Fri, 23 Aug 2013 13:18:02 +0200 (CEST)
 From: "Bruce Wayne" <bruce@wayneenterprises.com>
 Subject: test
-Message-ID: <c0c20fdd-a38e-b296-865b-d9232bf30ce5@swisshq.com>
+Message-ID: <c0c20fdd-a38e-b296-865b-d9232bf30ce5@swissconsultings.ch>
 Date: Mon, 26 Aug 2019 16:55:09 +0200
 MIME-Version: 1.0
 Content-Type: multipart/mixed;
@@ -373,13 +373,13 @@ AAAAACwAAAAAAgACAAAEA3DJFQA7
 MAIL_EML_ATTACHMENT = """Subject: Re: test attac
 From: {email_from}
 To: {to}
-References: <f3b9f8f8-28fa-2543-cab2-7aa68f679ebb@swisshq.com>
-Message-ID: <cb7eaf62-58dc-2017-148c-305d0c78892f@swisshq.com>
+References: <f3b9f8f8-28fa-2543-cab2-7aa68f679ebb@swissconsultings.ch>
+Message-ID: <cb7eaf62-58dc-2017-148c-305d0c78892f@swissconsultings.ch>
 Date: Wed, 14 Mar 2018 14:26:58 +0100
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101
  Thunderbird/52.6.0
 MIME-Version: 1.0
-In-Reply-To: <f3b9f8f8-28fa-2543-cab2-7aa68f679ebb@swisshq.com>
+In-Reply-To: <f3b9f8f8-28fa-2543-cab2-7aa68f679ebb@swissconsultings.ch>
 Content-Type: multipart/mixed;
  boundary="------------A6B5FD5F68F4D73ECD739009"
 Content-Language: en-US
@@ -428,33 +428,33 @@ ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc
          7wXuo/gpYe6E2cPuS2opei8AzjEhYTNzlYXTPvaoxCCTTjfGTaPv22TeRDehuIXngSEl
          Nmmw==
 ARC-Authentication-Results: i=1; mx.google.com;
-       dkim=pass header.i=@swisshq.com header.s=mail header.b=MCzhjB9b;
-       spf=pass (google.com: domain of soup@swisshq.com designates 149.202.180.44 as permitted sender) smtp.mailfrom=soup@swisshq.com;
-       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=swisshq.com
-Return-Path: <soup@swisshq.com>
-Received: from mail2.swisshq.com (mail2.swisshq.com. [149.202.180.44])
+       dkim=pass header.i=@swissconsultings.ch header.s=mail header.b=MCzhjB9b;
+       spf=pass (google.com: domain of soup@swissconsultings.ch designates 149.202.180.44 as permitted sender) smtp.mailfrom=soup@swissconsultings.ch;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=swissconsultings.ch
+Return-Path: <soup@swissconsultings.ch>
+Received: from mail2.swissconsultings.ch (mail2.swissconsultings.ch. [149.202.180.44])
         by mx.google.com with ESMTPS id y4si4279200wmy.148.2018.03.05.01.19.22
         (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
         Mon, 05 Mar 2018 01:19:23 -0800 (PST)
-Received-SPF: pass (google.com: domain of soup@swisshq.com designates 149.202.180.44 as permitted sender) client-ip=149.202.180.44;
+Received-SPF: pass (google.com: domain of soup@swissconsultings.ch designates 149.202.180.44 as permitted sender) client-ip=149.202.180.44;
 Authentication-Results: mx.google.com;
-       dkim=pass header.i=@swisshq.com header.s=mail header.b=MCzhjB9b;
-       spf=pass (google.com: domain of soup@swisshq.com designates 149.202.180.44 as permitted sender) smtp.mailfrom=soup@swisshq.com;
-       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=swisshq.com
+       dkim=pass header.i=@swissconsultings.ch header.s=mail header.b=MCzhjB9b;
+       spf=pass (google.com: domain of soup@swissconsultings.ch designates 149.202.180.44 as permitted sender) smtp.mailfrom=soup@swissconsultings.ch;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=swissconsultings.ch
 Received: from [10.10.31.24] (unknown [91.183.114.50])
 	(Authenticated sender: soup)
-	by mail2.swisshq.com (Postfix) with ESMTPSA id 7B571A4085
-	for <what@swisshq.com>; Mon,  5 Mar 2018 10:19:21 +0100 (CET)
-DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=swisshq.com; s=mail;
+	by mail2.swissconsultings.ch (Postfix) with ESMTPSA id 7B571A4085
+	for <what@swissconsultings.ch>; Mon,  5 Mar 2018 10:19:21 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=swissconsultings.ch; s=mail;
 	t=1520241562; bh=L2r7Sp/vjogIdM1k8H9zDGDjnhKolsTTLLjndnFC4Jc=;
 	h=To:From:Subject:Date:From;
 	b=MCzhjB9bnsrJ3uKjq+GjujFxmtrq3fc7Vv7Vg2C72EPKnkxgqy6yPjWKtXbBlaiT3
 	 YjKI24aiSQlOeOPQiqFgiDzeqqemNDp+CRuhoYz1Vbz+ESRaHtkWRLb7ZjvohS2k7e
 	 RTq7tUxY2nUL2YrNHV7DFYtJVBwiTuyLP6eAiJdE=
-To: what@swisshq.com
-From: Soup <soup@swisshq.com>
+To: what@swissconsultings.ch
+From: Soup <soup@swissconsultings.ch>
 Subject: =?UTF-8?Q?Soupe_du_jour_:_Pois_cass=c3=a9s?=
-Message-ID: <a05d8334-7b7c-df68-c96a-4a88ed19f31b@swisshq.com>
+Message-ID: <a05d8334-7b7c-df68-c96a-4a88ed19f31b@swissconsultings.ch>
 Date: Mon, 5 Mar 2018 10:19:21 +0100
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101
  Thunderbird/52.6.0
@@ -465,7 +465,7 @@ Content-Language: en-US
 X-Spam-Status: No, score=-1.2 required=5.0 tests=ALL_TRUSTED,BAYES_00,
 	HTML_IMAGE_ONLY_08,HTML_MESSAGE,T_REMOTE_IMAGE autolearn=no
 	autolearn_force=no version=3.4.0
-X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on mail2.swisshq.com
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on mail2.swissconsultings.ch
 
 This is a multi-part message in MIME format.
 --------------1F2D18B1129FC2F0B9EECF50
@@ -480,7 +480,7 @@ Soup
 SwissCRM , Inc., Odoo S.A.
 Chaussée de Namur, 40
 B-1367 Grand Rosière
-Web: http://www.swisshq.com
+Web: http://www.swissconsultings.ch
 
 
 --------------1F2D18B1129FC2F0B9EECF50
@@ -503,7 +503,7 @@ Soup
 SwissCRM , Inc., Odoo S.A.
 Chaussée de Namur, 40
 B-1367 Grand Rosière
-Web: <a class="moz-txt-link-freetext" href="http://www.swisshq.com">http://www.swisshq.com</a> </pre>
+Web: <a class="moz-txt-link-freetext" href="http://www.swissconsultings.ch">http://www.swissconsultings.ch</a> </pre>
   </body>
 </html>
 
@@ -796,7 +796,7 @@ aa.com" style=3D"text-decoration:none; color: white;">info@aust-mfg.com</a>=
                       </tr>
                       <tr>
                         <td align=3D"center">
-                            Powered by <a href=3D"https://www.swisshq.com">Odo=
+                            Powered by <a href=3D"https://www.swissconsultings.ch">Odo=
 o</a>.
                         </td>
                       </tr>

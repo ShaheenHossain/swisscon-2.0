@@ -6,7 +6,7 @@
 # Martin Trigaux, 2020
 # Paolo Valier, 2020
 # Francesco Arillotta <frarillotta@gmail.com>, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Federico Castellano <castellano.federico@outlook.com>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 

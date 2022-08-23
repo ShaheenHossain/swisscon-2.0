@@ -4,7 +4,7 @@
     'name': 'Events Sales',
     'version': '1.2',
     'category': 'Marketing/Events',
-    'website': 'https://www.swisshq.com/page/events',
+    'website': 'https://www.swissconsultings.ch/page/events',
     'description': """
 Creating registration with sales orders.
 ========================================

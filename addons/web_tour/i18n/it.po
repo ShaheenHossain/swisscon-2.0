@@ -6,7 +6,7 @@
 # Martin Trigaux, 2020
 # Marius Marolla <mariusmarolla@entersys.it>, 2020
 # Paolo Valier, 2020
-# Luigia Cimmino Caserta <lcc@swisshq.com>, 2020
+# Luigia Cimmino Caserta <lcc@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2020
 # 
 msgid ""

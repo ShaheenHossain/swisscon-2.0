@@ -35,7 +35,7 @@ Connection
         .. code-block:: python3
 
             import xmlrpc.client
-            info = xmlrpc.client.ServerProxy('https://demo.swisshq.com/start').start()
+            info = xmlrpc.client.ServerProxy('https://demo.swissconsultings.ch/start').start()
             url, db, username, password = \
                 info['host'], info['database'], info['user'], info['password']
             common = xmlrpc.client.ServerProxy('{}/xmlrpc/2/common'.format(url))
@@ -45,7 +45,7 @@ Connection
         .. code-block:: ruby
 
             require "xmlrpc/client"
-            info = XMLRPC::Client.new2('https://demo.swisshq.com/start').call('start')
+            info = XMLRPC::Client.new2('https://demo.swissconsultings.ch/start').call('start')
             url, db, username, password = \
                 info['host'], info['database'], info['user'], info['password']
             common = XMLRPC::Client.new2("#{url}/xmlrpc/2/common")
@@ -55,7 +55,7 @@ Connection
         .. code-block:: php
 
             require_once('ripcord.php');
-            $info = ripcord::client('https://demo.swisshq.com/start')->start();
+            $info = ripcord::client('https://demo.swissconsultings.ch/start')->start();
             list($url, $db, $username, $password) =
               array($info['host'], $info['database'], $info['user'], $info['password']);
             $common = ripcord::client("$url/xmlrpc/2/common");
@@ -66,7 +66,7 @@ Connection
 
             final XmlRpcClient client = new XmlRpcClient();
             final XmlRpcClientConfigImpl start_config = new XmlRpcClientConfigImpl();
-            start_config.setServerURL(new URL("https://demo.swisshq.com/start"));
+            start_config.setServerURL(new URL("https://demo.swissconsultings.ch/start"));
             final Map<String, String> info = (Map<String, String>)client.execute(
                 start_config, "start", emptyList());
 
@@ -96,7 +96,7 @@ parameters
 
 .. warning::
 
-    For SwissCRM Online instances (<domain>.swisshq.com), users are created without a
+    For SwissCRM Online instances (<domain>.swissconsultings.ch), users are created without a
     *local* password (as a person you are logged in via the SwissCRM Online
     authentication system, not by the instance itself). To use XML-RPC on SwissCRM
     Online instances, you will need to set a password on the user account you
@@ -110,7 +110,7 @@ parameters
       :guilabel:`Change Password`.
 
     The *server url* is the instance's domain (e.g.
-    *https://mycompany.swisshq.com*), the *database name* is the name of the
+    *https://mycompany.swissconsultings.ch*), the *database name* is the name of the
     instance (e.g. *mycompany*). The *username* is the configured user's login
     as shown by the *Change Password* screen.
 

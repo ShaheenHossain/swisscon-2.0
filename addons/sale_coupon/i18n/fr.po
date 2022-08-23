@@ -5,11 +5,11 @@
 # Translators:
 # Martin Trigaux, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
-# Alexandra Jubert <aju@swisshq.com>, 2021
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
+# Alexandra Jubert <aju@swissconsultings.ch>, 2021
 # Rémi CAZENAVE, 2021
 # 
 msgid ""

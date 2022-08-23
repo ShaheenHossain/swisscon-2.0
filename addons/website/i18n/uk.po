@@ -9390,8 +9390,8 @@ msgstr "веб-сайт"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.swisshq.com"
-msgstr "www.swisshq.com"
+msgid "www.swissconsultings.ch"
+msgstr "www.swissconsultings.ch"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.qweb_500

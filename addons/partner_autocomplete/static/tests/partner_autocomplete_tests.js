@@ -38,9 +38,9 @@ swiss.define('partner_autocomplete.tests', function (require) {
 
     var suggestions = [{
         name: "SwissCRM",
-        website: "swisshq.com",
-        domain: "swisshq.com",
-        logo: "swisshq.com/logo.png",
+        website: "swissconsultings.ch",
+        domain: "swissconsultings.ch",
+        logo: "swissconsultings.ch/logo.png",
         vat: "BE0477472701"
     }];
 
@@ -54,7 +54,7 @@ swiss.define('partner_autocomplete.tests', function (require) {
             _.each(fieldsToPatch, function (fieldToPatch) {
                 testUtils.mock.patch(fieldToPatch, {
                     _getBase64Image: function (url) {
-                        return Promise.resolve(url === "swisshq.com/logo.png" ? "swissbase64" : "");
+                        return Promise.resolve(url === "swissconsultings.ch/logo.png" ? "swissbase64" : "");
                     },
                     _isOnline: function () {
                         return true;
@@ -101,7 +101,7 @@ swiss.define('partner_autocomplete.tests', function (require) {
                 country_id: 20,
                 state_id: false,
                 partner_gid: 1,
-                website: "swisshq.com",
+                website: "swissconsultings.ch",
                 comment: "Comment on SwissCRM",
                 street: "40 Chaussée de Namur",
                 city: "Ramillies",
@@ -208,7 +208,7 @@ swiss.define('partner_autocomplete.tests', function (require) {
                 '</form>',
             mockRPC: function (route) {
                 if (route === "/web/static/src/img/placeholder.png"
-                    || route === "swisshq.com/logo.png"
+                    || route === "swissconsultings.ch/logo.png"
                     || route === "data:image/png;base64,swissbase64") { // land here as it is not valid base64 content
                     return Promise.resolve();
                 }
@@ -233,7 +233,7 @@ swiss.define('partner_autocomplete.tests', function (require) {
             await testUtils.dom.click($dropdown.find("a").first());
             $input = form.$(".o_field_partner_autocomplete > input");
             assert.strictEqual($input.val(), "SwissCRM", "Input value should have been updated to \"SwissCRM\"");
-            assert.strictEqual(form.$("input.o_field_widget").val(), "swisshq.com", "website value should have been updated to \"swisshq.com\"");
+            assert.strictEqual(form.$("input.o_field_widget").val(), "swissconsultings.ch", "website value should have been updated to \"swissconsultings.ch\"");
 
             _compareResultFields(assert, form, fields, createData);
 
@@ -281,7 +281,7 @@ swiss.define('partner_autocomplete.tests', function (require) {
                 '</form>',
             mockRPC: function (route) {
                 if (route === "/web/static/src/img/placeholder.png"
-                    || route === "swisshq.com/logo.png"
+                    || route === "swissconsultings.ch/logo.png"
                     || route === "data:image/png;base64,swissbase64") { // land here as it is not valid base64 content
                     return Promise.resolve();
                 }

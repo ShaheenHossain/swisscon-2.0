@@ -6,7 +6,7 @@
 # David Minneci <david@numeko.it>, 2020
 # Giovanni Perteghella <giovanni@perteghella.org>, 2020
 # Luca Tralli, 2020
-# Luigia Cimmino Caserta <lcc@swisshq.com>, 2020
+# Luigia Cimmino Caserta <lcc@swissconsultings.ch>, 2020
 # Francesco Garganese <francesco.garganese@aeromnia.aero>, 2020
 # Martin Trigaux, 2020
 # Luigi Di Naro <gigidn@gmail.com>, 2020
@@ -15,7 +15,7 @@
 # Massimo Bianchi <bianchi.massimo@gmail.com>, 2020
 # Paolo Valier, 2020
 # Manuela Feliciani <mfeliciani@alice.it>, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2021
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2021
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # Friederike Fasterling-Nesselbosch, 2021
 # 
@@ -2623,8 +2623,8 @@ msgstr "Testo multiriga"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "Account swisshq.com"
+msgid "My swissconsultings.ch account"
+msgstr "Account swissconsultings.ch"
 
 #. module: web
 #. openerp-web

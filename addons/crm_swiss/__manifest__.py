@@ -6,7 +6,7 @@
     'name': 'SwissCRM Enhancement for CRM',
     'version': '2.0.1.0',
     "category": "Hidden",
-    "website": "https://swisshq.com/",
+    "website": "https://swissconsultings.ch/",
     "author": "SwissCRM ",
     "license": "LGPL-3",
     'summary': 'SwissCRM Enhancement for CRM',

@@ -18,7 +18,7 @@
 # Susanna Pujol, 2020
 # Carles Antoli <carlesantoli@hotmail.com>, 2021
 # Quim - eccit <quim@eccit.com>, 2021
-# Camille Dantinne <cmd@swisshq.com>, 2021
+# Camille Dantinne <cmd@swissconsultings.ch>, 2021
 # jabelchi, 2021
 # 
 msgid ""

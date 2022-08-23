@@ -12,9 +12,9 @@
 # RGB Consulting <odoo@rgbconsulting.com>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
 # Rodrigo Aragon <conectacoatepec@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
-# Carolina Gonzalez <cgo@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
+# Carolina Gonzalez <cgo@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # 
 msgid ""

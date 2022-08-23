@@ -15,7 +15,7 @@ This is the latest UK SwissCRM localisation necessary to run SwissCRM accounting
     - InfoLogic UK counties listing
     - a few other adaptations""",
     'author': 'SmartMode LTD',
-    'website': 'https://www.swisshq.com/page/accounting',
+    'website': 'https://www.swissconsultings.ch/page/accounting',
     'depends': [
         'account',
         'base_iban',

@@ -6,7 +6,7 @@
     'version': '1.1',
     'summary': 'Manage your stock and logistics activities',
     'description': "",
-    'website': 'https://www.swisshq.com/page/warehouse',
+    'website': 'https://www.swissconsultings.ch/page/warehouse',
     'depends': ['product', 'barcodes', 'digest'],
     'category': 'Inventory/Inventory',
     'sequence': 25,

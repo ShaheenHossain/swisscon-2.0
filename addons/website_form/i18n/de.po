@@ -8,7 +8,7 @@
 # Martin Trigaux, 2020
 # Rudolf Schnapka <rs@techno-flex.de>, 2020
 # Katharina Moritz <kmo@e2f.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # aNj <anj2j@yahoo.de>, 2020
 # Wolfgang Taferner, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020

@@ -9,7 +9,7 @@
 # Cas Vissers <casvissers@brahoo.nl>, 2020
 # Gunther Clauwaert <gclauwae@hotmail.com>, 2020
 # Cas Vissers <c.vissers@brahoo.nl>, 2020
-# Wynand Tastenhoye <wta@swisshq.com>, 2020
+# Wynand Tastenhoye <wta@swissconsultings.ch>, 2020
 # Yip132 <yannick.renders@gmail.com>, 2020
 # SwissCRM Experts Consultants <consultants@odooexperts.nl>, 2020
 # Erwin van der Ploeg <erwin@odooexperts.nl>, 2020

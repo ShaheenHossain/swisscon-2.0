@@ -7,7 +7,7 @@
 # Jeffery CHEN Fan <jeffery9@gmail.com>, 2020
 # fausthuang, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # John An <johnxan@163.com>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # diaojiaolou <124412206@qq.com>, 2020

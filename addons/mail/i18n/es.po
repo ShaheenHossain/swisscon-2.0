@@ -7,10 +7,10 @@
 # Martin Trigaux, 2020
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2020
 # Antonio Trueba, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2020
-# Lucia Pacheco <lpo@swisshq.com>, 2021
-# Cécile Collart <cco@swisshq.com>, 2021
+# Lucia Pacheco <lpo@swissconsultings.ch>, 2021
+# Cécile Collart <cco@swissconsultings.ch>, 2021
 # Rick Hunter <rick.hunter.ec@gmail.com>, 2021
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021
 # jabelchi, 2021
@@ -6082,11 +6082,11 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_channel__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "El nombre de este seudónimo de correo electrónico. Por ejemplo, "
 "\"trabajos\",  si lo que quiere es obtener los correos para "
-"<trabajos@example.swisshq.com>."
+"<trabajos@example.swissconsultings.ch>."
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_user_id
@@ -6663,12 +6663,12 @@ msgstr "Usuarios en este canal: %(members)s %(dots)s y tú."
 msgid ""
 "Using your own email server is required to send/receive emails in Community "
 "and Enterprise versions. Online users already benefit from a ready-to-use "
-"email server (@mycompany.swisshq.com)."
+"email server (@mycompany.swissconsultings.ch)."
 msgstr ""
 "El uso de un servidor propio de correo electrónico es necesario para "
 "enviar/recibir correos en las versiones Community y Enterprise. Los usuarios"
 " de la versión Online si tienen disponible un servidor de correo listo para "
-"usar (@mycompany.swisshq.com)."
+"usar (@mycompany.swissconsultings.ch)."
 
 #. module: mail
 #. openerp-web
@@ -7208,8 +7208,8 @@ msgstr "meses"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
-msgid "mycompany.swisshq.com"
-msgstr "mycompany.swisshq.com"
+msgid "mycompany.swissconsultings.ch"
+msgstr "mycompany.swissconsultings.ch"
 
 #. module: mail
 #. openerp-web

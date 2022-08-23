@@ -5,7 +5,7 @@
 # Translators:
 # Alessandro de Lima Folk <sandrofolk@hotmail.com>, 2020
 # falexandresilva <falexandresilva@gmail.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Emanuel Martins <emanuel.breno@gmail.com>, 2020
 # Marcos Abreu <marcoos.abreu@gmail.com>, 2020
 # Luiz Fernando <lfpsgs@outlook.com>, 2020
@@ -17,7 +17,7 @@
 # Silmar <pinheirosilmar@gmail.com>, 2020
 # Yannick Belot <yannickbh@gmail.com>, 2020
 # André Augusto Firmino Cordeiro <a.cordeito@gmail.com>, 2020
-# Keli Brugalli <kbr@swisshq.com>, 2020
+# Keli Brugalli <kbr@swissconsultings.ch>, 2020
 # André Carvalho <and2carvalho@gmail.com>, 2020
 # Rodrigo de Almeida Sottomaior Macedo <rmsolucoeseminformatica@protonmail.com>, 2020
 # Rafael H L Moretti <rafael.moretti@gmail.com>, 2020
@@ -9417,8 +9417,8 @@ msgstr "site"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.swisshq.com"
-msgstr "www.swisshq.com"
+msgid "www.swissconsultings.ch"
+msgstr "www.swissconsultings.ch"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.qweb_500

@@ -15,7 +15,7 @@
 # Jeff Yu - Elico Corp <jeff.yu@elico-corp.com>, 2020
 # diaojiaolou <124412206@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # roye w <159820@qq.com>, 2020
 # snow wang <147156565@qq.com>, 2020
 # Jeanphy <hzh0292@qq.com>, 2020

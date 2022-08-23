@@ -7,11 +7,11 @@
 # Wolfgang Taferner, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
 # Katharina Moritz <kmo@e2f.com>, 2020
-# Johannes Croe <jcr@swisshq.com>, 2020
+# Johannes Croe <jcr@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # philku79 <philip.kuss@gmx.de>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # spilymp <visessa+github@gmail.com>, 2020
 # Felix Schubert <felix.schubert@go-erp.com>, 2020
 # Andreas Schmidt <schmigo@gmail.com>, 2021

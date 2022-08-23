@@ -16,7 +16,7 @@
 # Mahmood Al Halwachi <mahmood.alhalwachi@gmail.com>, 2020
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
 # Keen See <liquid40@live.com>, 2020
-# Yazeed Dandashi <lay@swisshq.com>, 2020
+# Yazeed Dandashi <lay@swissconsultings.ch>, 2020
 # Mohamed Alansari <Mohammad.alansari@outlook.com>, 2020
 # 
 msgid ""

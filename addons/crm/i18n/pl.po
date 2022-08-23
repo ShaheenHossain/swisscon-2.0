@@ -23,7 +23,7 @@
 # Paweł Wodyński <pw@myodoo.pl>, 2020
 # Maja Stawicka <mjstwck@wp.pl>, 2020
 # Maksym <ms@myodoo.pl>, 2020
-# Natalia Gros <nag@swisshq.com>, 2020
+# Natalia Gros <nag@swissconsultings.ch>, 2020
 # Piotr Strębski <strebski@gmail.com>, 2021
 # Wojciech Warczakowski <w.warczakowski@gmail.com>, 2021
 # Rafał Kozak <rafal.kozak@openglobe.pl>, 2021
@@ -290,7 +290,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -2897,10 +2897,10 @@ msgstr ""
 #: model:ir.model.fields,help:crm.field_crm_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "Nazwa aliasu e-mail, np. \"jobs\", jeśli chcesz przechwytywać wiadomości "
-"e-mail dla <jobs@example.swisshq.com>"
+"e-mail dla <jobs@example.swissconsultings.ch>"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__partner_name
@@ -3366,8 +3366,8 @@ msgstr "np. Wycena produktu"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "np. https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "np. https://www.swissconsultings.ch"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_stage__team_count

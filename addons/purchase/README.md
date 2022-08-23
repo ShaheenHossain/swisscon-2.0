@@ -2,7 +2,7 @@ SwissCRM Supply Chain
 -----------------
 
 Automate requisition-to-pay, control invoicing with the SwissCRM
-<a href="https://www.swisshq.com/page/purchase">Open Source Supply Chain</a>.
+<a href="https://www.swissconsultings.ch/page/purchase">Open Source Supply Chain</a>.
 
 Automate procurement propositions, launch request for quotations, track
 purchase orders, manage vendors' information, control products reception and

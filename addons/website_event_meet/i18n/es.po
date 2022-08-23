@@ -8,10 +8,10 @@
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2020
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2020
 # gabriumaa <gabriel.umana@delfixcr.com>, 2020
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Juan Pablo Mora <jpm@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Juan Pablo Mora <jpm@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Osiris Anael Roman Eras <osiris.roman@yachaytech.edu.ec>, 2020
 # Susanna Pujol, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2020

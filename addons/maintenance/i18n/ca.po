@@ -1364,10 +1364,10 @@ msgstr ""
 #: model:ir.model.fields,help:maintenance.field_maintenance_equipment_category__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "El nom d'aquest pseudònim de correu electrònic. Per exemple, \"jobs\", si el"
-" que vol és obtenir els correus per <jobs@example.swisshq.com>"
+" que vol és obtenir els correus per <jobs@example.swissconsultings.ch>"
 
 #. module: maintenance
 #: model:ir.model.fields,help:maintenance.field_maintenance_equipment_category__alias_user_id

@@ -14,7 +14,7 @@ This module consists of:
  - Taxes and tax report
  - Fiscal position for Palestina
  """,
-    'website': 'http://www.swisshq.com/accounting',
+    'website': 'http://www.swissconsultings.ch/accounting',
     'depends': ['account'],
     'data': [
         'data/account_chart_template_data.xml',

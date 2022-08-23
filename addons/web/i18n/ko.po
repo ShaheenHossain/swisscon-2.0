@@ -2576,8 +2576,8 @@ msgstr "여러 줄 문자"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "내 swisshq.com 계정"
+msgid "My swissconsultings.ch account"
+msgstr "내 swissconsultings.ch 계정"
 
 #. module: web
 #. openerp-web

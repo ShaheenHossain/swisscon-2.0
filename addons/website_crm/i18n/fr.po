@@ -6,13 +6,13 @@
 # e2f <projects@e2f.com>, 2020
 # bb76cd9ac0cb7e20167a14728edb858b, 2020
 # Martin Trigaux, 2020
-# Clo <clo@swisshq.com>, 2020
+# Clo <clo@swissconsultings.ch>, 2020
 # Stephane DAGUET <stephane@darbtech.net>, 2020
-# Lucas Deliege <lud@swisshq.com>, 2020
+# Lucas Deliege <lud@swissconsultings.ch>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# gdp SwissCRM <gdp@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# gdp SwissCRM <gdp@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # Gwladys Jouble <g.jouble@vieconnect.io>, 2021
 # 

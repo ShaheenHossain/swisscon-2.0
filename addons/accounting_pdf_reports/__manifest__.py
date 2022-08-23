@@ -11,7 +11,7 @@
     'license': 'LGPL-3',
     'company': 'SwissCRM ',
     'maintainer': 'SwissCRM ',
-    'website': 'https://www.swisshq.com',
+    'website': 'https://www.swissconsultings.ch',
     'depends': ['account'],
     'demo': [],
     'data': [

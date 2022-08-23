@@ -13,14 +13,14 @@
 # gabriumaa <gabriel.umana@delfixcr.com>, 2020
 # Inigo Zuluaga <inigo_zuluaga@yahoo.es>, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Juan Pablo Mora <jpm@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Juan Pablo Mora <jpm@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Nelson Ramírez Sánchez <info@konos.cl>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # Paulina Rodriguez <pauli.rodriguez.c@gmail.com>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021
 # 

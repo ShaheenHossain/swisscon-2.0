@@ -3,7 +3,7 @@
 # 	* calendar_sms
 # 
 # Translators:
-# efraimbiffi <eab@swisshq.com>, 2020
+# efraimbiffi <eab@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2020
 # 
 msgid ""

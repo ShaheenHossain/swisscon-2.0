@@ -20,8 +20,8 @@
 # e2f_cn c5 <jarvisn@ecinnovations.com>, 2020
 # guohuadeng <guohuadeng@hotmail.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # snow wang <147156565@qq.com>, 2020
 # Youfu Sheng <wdmsyf@sina.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
@@ -31,7 +31,7 @@
 # 张昆 <zhangkun@jinanzai.com>, 2020
 # 稀饭~~ <wangwhai@qq.com>, 2020
 # Daniel Yang <daniel.yang.zhenyu@gmail.com>, 2021
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # Jeffery CHEN <jeffery9@gmail.com>, 2021
 # 
 msgid ""

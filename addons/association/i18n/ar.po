@@ -3,7 +3,7 @@
 # 	* association
 # 
 # Translators:
-# Talal Kamal <tka@swisshq.com>, 2020
+# Talal Kamal <tka@swissconsultings.ch>, 2020
 # 
 msgid ""
 msgstr ""
@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-16 08:45+0000\n"
 "PO-Revision-Date: 2020-09-07 08:10+0000\n"
-"Last-Translator: Talal Kamal <tka@swisshq.com>, 2020\n"
+"Last-Translator: Talal Kamal <tka@swissconsultings.ch>, 2020\n"
 "Language-Team: Arabic (https://www.transifex.com/odoo/teams/41243/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

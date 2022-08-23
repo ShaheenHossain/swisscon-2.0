@@ -4,11 +4,11 @@
 # 
 # Translators:
 # Dirk van Donkelaar <dirk@vdde.nl>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Yip132 <yannick.renders@gmail.com>, 2020
-# Alice Van Goethem <vga@swisshq.com>, 2020
+# Alice Van Goethem <vga@swissconsultings.ch>, 2020
 # Cas Vissers <c.vissers@brahoo.nl>, 2020
-# Camille Demolder <cad@swisshq.com>, 2020
+# Camille Demolder <cad@swissconsultings.ch>, 2020
 # Gunther Clauwaert <gclauwae@hotmail.com>, 2020
 # Martin Trigaux, 2020
 # SwissCRM Experts Consultants <consultants@odooexperts.nl>, 2020

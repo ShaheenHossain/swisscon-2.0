@@ -3,10 +3,10 @@
 # 	* crm_iap_lead
 # 
 # Translators:
-# Mariana Santos Romo <msn@swisshq.com>, 2020
+# Mariana Santos Romo <msn@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
-# Patricia Gutiérrez Capetillo <pagc@swisshq.com>, 2021
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
+# Patricia Gutiérrez Capetillo <pagc@swissconsultings.ch>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # 
 msgid ""

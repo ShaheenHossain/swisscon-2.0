@@ -10,9 +10,9 @@
 # Katharina Moritz <kmo@e2f.com>, 2020
 # David Vidal <david.vidal@trespinos.es>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
 # philku79 <philip.kuss@gmx.de>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Max-Milan Stoyanov, 2020
 # Andreas Schmidt <schmigo@gmail.com>, 2021
 # alexander.heyber <alexander.heyber@manatec.de>, 2021

@@ -16,12 +16,12 @@
 # bf2549c5415a9287249cba2b8a5823c7, 2020
 # keecome <7017511@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # snow wang <147156565@qq.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
 # Jeanphy <hzh0292@qq.com>, 2020
-# Manga Tsang <mts@swisshq.com>, 2020
+# Manga Tsang <mts@swissconsultings.ch>, 2020
 # as co02 <asco02@163.com>, 2020
 # liAnGjiA <liangjia@qq.com>, 2020
 # diaojiaolou <124412206@qq.com>, 2020
@@ -2418,14 +2418,14 @@ msgstr ""
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
-msgid "https://www.swisshq.com/logo.png"
-msgstr "https://www.swisshq.com/logo.png"
+msgid "https://www.swissconsultings.ch/logo.png"
+msgstr "https://www.swissconsultings.ch/logo.png"
 
 #. module: web_editor
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
-msgid "https://www.swisshq.com/mydocument"
+msgid "https://www.swissconsultings.ch/mydocument"
 msgstr ""
 
 #. module: web_editor

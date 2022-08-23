@@ -6,7 +6,7 @@
 # Maie <m@maie.name>, 2020
 # Jeffery CHEN Fan <jeffery9@gmail.com>, 2020
 # guohuadeng <guohuadeng@hotmail.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # Martin Trigaux, 2020
 # 

@@ -7,7 +7,7 @@
 # Jakub Lohnisky <jakub@lepremier.cz>, 2020
 # Jan Horzinka <jan.horzinka@centrum.cz>, 2020
 # Jakub Snášel <jakub@potisk-tricek.cz>, 2020
-# Pauline Thiry <pth@swisshq.com>, 2020
+# Pauline Thiry <pth@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Jaroslav Helemik Nemec <nemec@helemik.cz>, 2020
 # Ladislav Tomm <tomm@helemik.cz>, 2020

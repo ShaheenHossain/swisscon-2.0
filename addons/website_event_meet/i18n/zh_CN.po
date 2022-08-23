@@ -13,7 +13,7 @@
 # keecome <7017511@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
 # Fisher <fisher@kdomi.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # Youfu Sheng <wdmsyf@sina.com>, 2020
 # Jeanphy <hzh0292@qq.com>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020

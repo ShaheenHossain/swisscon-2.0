@@ -20,7 +20,7 @@
 # Paweł Michoń <michon.pawel@wp.pl>, 2020
 # Karol Rybak <karolrybak85@gmail.com>, 2020
 # Andrzej Donczew <a.donczew@hadron.eu.com>, 2020
-# Natalia Gros <nag@swisshq.com>, 2020
+# Natalia Gros <nag@swissconsultings.ch>, 2020
 # Grzegorz Michrowski <grzegorz.michrowski@openglobe.pl>, 2020
 # taksun <taksun@o2.pl>, 2020
 # Dariusz Żbikowski <darek@krokus.com.pl>, 2020

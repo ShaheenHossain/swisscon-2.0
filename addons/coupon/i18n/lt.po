@@ -10,7 +10,7 @@
 # Linas Versada <linaskrisiukenas@gmail.com>, 2021
 # Denis Knotko <denis_knotko@yahoo.com>, 2021
 # grupoda2 <dmitrijus.ivanovas@gmail.com>, 2021
-# Jonas Zinkevicius <jozi@swisshq.com>, 2021
+# Jonas Zinkevicius <jozi@swissconsultings.ch>, 2021
 # Arunas V. <arunas@devoro.com>, 2021
 # 
 msgid ""

@@ -120,6 +120,6 @@
         'static/src/xml/ChromeWidgets/ClientScreenButton.xml',
         'static/src/xml/Misc/MobileOrderWidget.xml',
     ],
-    'website': 'https://www.swisshq.com/page/point-of-sale-shop',
+    'website': 'https://www.swissconsultings.ch/page/point-of-sale-shop',
     'license': 'LGPL-3',
 }

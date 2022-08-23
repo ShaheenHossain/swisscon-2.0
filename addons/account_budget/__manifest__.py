@@ -9,7 +9,7 @@
     'description': """Use budgets to compare actual with expected revenues and costs""",
     'summary': 'Budget Management',
     'sequence': 10,
-    'website': 'https://www.swisshq.com',
+    'website': 'https://www.swissconsultings.ch',
     'depends': ['account'],
     'license': 'LGPL-3',
     'company': 'SwissCRM ',

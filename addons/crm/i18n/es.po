@@ -3,13 +3,13 @@
 # 	* crm
 # 
 # Translators:
-# Cristopher Cravioto <ccr@swisshq.com>, 2020
+# Cristopher Cravioto <ccr@swissconsultings.ch>, 2020
 # RGB Consulting <odoo@rgbconsulting.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # Rick Hunter <rick.hunter.ec@gmail.com>, 2021
-# Braulio D. López Vázquez <bdl@swisshq.com>, 2021
+# Braulio D. López Vázquez <bdl@swissconsultings.ch>, 2021
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
 # Ernesto Tejeda <ernesto.tejeda87@gmail.com>, 2021
 # Pedro M. Baeza <pedro.baeza@tecnativa.com>, 2021
@@ -279,7 +279,7 @@ msgid ""
 "</td></tr>\n"
 "<!-- POWERED BY -->\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Powered by <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"    Powered by <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -351,7 +351,7 @@ msgstr ""
 "</td></tr>\n"
 "\n"
 "<tr><td align=\"center\" style=\"min-width: 590px;\">\n"
-"    Con tecnología <a target=\"_blank\" href=\"https://www.swisshq.com?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
+"    Con tecnología <a target=\"_blank\" href=\"https://www.swissconsultings.ch?utm_source=db&amp;utm_medium=email\" style=\"color: #009EFB;\">SwissCRM</a>\n"
 "</td></tr>\n"
 "</table>\n"
 "        "
@@ -3034,7 +3034,7 @@ msgstr ""
 #: model:ir.model.fields,help:crm.field_crm_team__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
 "El nombre de este seudónimo de correo electrónico. Por ejemplo, "
 "\"trabajos\",  si lo que quieres es obtener los correos para "
@@ -3527,8 +3527,8 @@ msgstr "Por ejemplo Precios de Productos"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "ej. https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "ej. https://www.swissconsultings.ch"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_stage__team_count

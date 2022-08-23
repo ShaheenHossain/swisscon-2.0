@@ -2608,8 +2608,8 @@ msgstr "Viacriadkový text"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "Môj swisshq.com účet"
+msgid "My swissconsultings.ch account"
+msgstr "Môj swissconsultings.ch účet"
 
 #. module: web
 #. openerp-web

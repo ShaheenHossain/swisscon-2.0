@@ -4,9 +4,9 @@
 # 
 # Translators:
 # Pablo Rojas <rojaspablo88@gmail.com>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# John Guardado <jgu@swisshq.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# John Guardado <jgu@swissconsultings.ch>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # Martin Trigaux, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021

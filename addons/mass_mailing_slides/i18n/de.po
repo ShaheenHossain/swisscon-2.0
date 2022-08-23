@@ -6,7 +6,7 @@
 # Martin Trigaux, 2020
 # e2f <projects@e2f.com>, 2020
 # Ermin Trevisan <trevi@twanda.com>, 2020
-# JEK SwissCRM <jek@swisshq.com>, 2020
+# JEK SwissCRM <jek@swissconsultings.ch>, 2020
 # Oliver Roch <oliver.roch@d9t.de>, 2020
 # 
 msgid ""

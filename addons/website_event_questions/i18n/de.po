@@ -10,9 +10,9 @@
 # Martin Trigaux, 2020
 # Andreas Stauder <andreas.stauder@brain-tec.ch>, 2020
 # Anja Funk <anja.funk@afimage.de>, 2020
-# Caroline Renson <car@swisshq.com>, 2020
+# Caroline Renson <car@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2021
-# Kevin Harrings <kha@swisshq.com>, 2021
+# Kevin Harrings <kha@swissconsultings.ch>, 2021
 # Friederike Fasterling-Nesselbosch, 2021
 # 
 msgid ""

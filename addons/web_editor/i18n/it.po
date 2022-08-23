@@ -10,7 +10,7 @@
 # Martin Trigaux, 2020
 # Luigi Di Naro <gigidn@gmail.com>, 2020
 # Paolo Valier, 2020
-# Léonie Bouchat <lbo@swisshq.com>, 2020
+# Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # 
 msgid ""
@@ -2429,15 +2429,15 @@ msgstr ""
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
-msgid "https://www.swisshq.com/logo.png"
-msgstr "https://www.swisshq.com/logo.png"
+msgid "https://www.swissconsultings.ch/logo.png"
+msgstr "https://www.swissconsultings.ch/logo.png"
 
 #. module: web_editor
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
-msgid "https://www.swisshq.com/mydocument"
-msgstr "https://www.swisshq.com/mydocument"
+msgid "https://www.swissconsultings.ch/mydocument"
+msgstr "https://www.swissconsultings.ch/mydocument"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options_image_optimization_widgets

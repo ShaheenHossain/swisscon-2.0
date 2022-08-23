@@ -7,7 +7,7 @@
 # Bülent Tiknas <btiknas@googlemail.com>, 2020
 # Thorsten Vocks <thorsten.vocks@openbig.org>, 2020
 # Thomas Neu <t.neu@runbox.com>, 2020
-# Johannes Croe <jcr@swisshq.com>, 2020
+# Johannes Croe <jcr@swissconsultings.ch>, 2020
 # Marco Tarsia <marco.y.tarsia@gmail.com>, 2020
 # Andi, 2020
 # Luc Muller <lmuller@ityou.de>, 2020
@@ -23,10 +23,10 @@
 # Wolfgang Taferner, 2020
 # Rudolf Schnapka <rs@techno-flex.de>, 2020
 # Katharina Moritz <kmo@e2f.com>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Henry Mineehen <info@mineehen.de>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
 # Martin Trigaux, 2021
 # Andreas Schmidt <schmigo@gmail.com>, 2021
@@ -9466,8 +9466,8 @@ msgstr "Website"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.swisshq.com"
-msgstr "www.swisshq.com"
+msgid "www.swissconsultings.ch"
+msgstr "www.swissconsultings.ch"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.qweb_500

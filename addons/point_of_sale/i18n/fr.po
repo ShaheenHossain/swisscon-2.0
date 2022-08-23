@@ -7,17 +7,17 @@
 # Natys <support@natys.fr>, 2020
 # Xavier Symons <xsy@swissconsultings.ch>, 2020
 # Rémi CAZENAVE, 2020
-# Alexandra Jubert <aju@swisshq.com>, 2020
-# Thomas Dobbelsteyn <tdo@swisshq.com>, 2020
+# Alexandra Jubert <aju@swissconsultings.ch>, 2020
+# Thomas Dobbelsteyn <tdo@swissconsultings.ch>, 2020
 # Olivier ANDRE <frsw194@gmail.com>, 2020
-# Florian <fll@swisshq.com>, 2020
+# Florian <fll@swissconsultings.ch>, 2020
 # matthieu gaillet <matthieu.gaillet@lebrass.be>, 2020
-# Fred Gilson <fgi@swisshq.com>, 2020
+# Fred Gilson <fgi@swissconsultings.ch>, 2020
 # Alain van de Werve <avw@swissconsultings.ch>, 2020
-# Nathan Grognet <ngr@swisshq.com>, 2020
-# Celia Tydgat <cty@swisshq.com>, 2020
-# Clo <clo@swisshq.com>, 2020
-# Melanie Bernard <mbe@swisshq.com>, 2020
+# Nathan Grognet <ngr@swissconsultings.ch>, 2020
+# Celia Tydgat <cty@swissconsultings.ch>, 2020
+# Clo <clo@swissconsultings.ch>, 2020
+# Melanie Bernard <mbe@swissconsultings.ch>, 2020
 # Jérôme Tanché <jerome.tanche@ouest-dsi.fr>, 2020
 # Xavier Belmere <Info@cartmeleon.com>, 2020
 # f5f0a0dac17dde787a1d812a6989680e, 2020
@@ -27,28 +27,28 @@
 # Ayoub Zahid <azahid@agilorg.com>, 2020
 # Florian Hatat, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Eloïse Stilmant <est@swisshq.com>, 2020
-# gdp SwissCRM <gdp@swisshq.com>, 2020
-# thomas quertinmont <tqu@swisshq.com>, 2020
-# lcaodoo <lca@swisshq.com>, 2020
+# Eloïse Stilmant <est@swissconsultings.ch>, 2020
+# gdp SwissCRM <gdp@swissconsultings.ch>, 2020
+# thomas quertinmont <tqu@swissconsultings.ch>, 2020
+# lcaodoo <lca@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
-# Fernanda Marques <fem@swisshq.com>, 2020
-# edc <edc@swisshq.com>, 2020
+# Fernanda Marques <fem@swissconsultings.ch>, 2020
+# edc <edc@swissconsultings.ch>, 2020
 # Olivier Lenoir <olivier.lenoir@free.fr>, 2020
-# Laura Piraux <lap@swisshq.com>, 2020
+# Laura Piraux <lap@swissconsultings.ch>, 2020
 # Nathan Noël <nathan070@me.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Anh Thao PHAM <pta@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Anh Thao PHAM <pta@swissconsultings.ch>, 2020
 # guillaume bauer <guillaume.bauer@syentys.fr>, 2020
 # Arnaud Willem <contact@arnaud-willem.eu>, 2020
 # Moka Tourisme <hello@mokatourisme.fr>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2021
+# Jérôme JEK <jek@swissconsultings.ch>, 2021
 # 6534c450c77b2549e41c52e2051f5839, 2021
-# Pauline Thiry <pth@swisshq.com>, 2021
+# Pauline Thiry <pth@swissconsultings.ch>, 2021
 # Yann Papouin <ypa@decgroupe.com>, 2021
 # Martin Trigaux, 2021
 # qdelcourte <delcourte.quentin@hotmail.com>, 2021
-# Jonathan Quique <jqu@swisshq.com>, 2021
+# Jonathan Quique <jqu@swissconsultings.ch>, 2021
 # Corentin POUHET-BRUNERIE <corentin.pb@gmail.com>, 2021
 # Grégory Schreiner, 2021
 # 

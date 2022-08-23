@@ -5,9 +5,9 @@
 # Translators:
 # Martin Trigaux, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Olivier ANDRE <frsw194@gmail.com>, 2020
-# gdp SwissCRM <gdp@swisshq.com>, 2020
+# gdp SwissCRM <gdp@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # guillaume bauer <guillaume.bauer@syentys.fr>, 2020
 # 

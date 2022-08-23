@@ -503,7 +503,7 @@ class TestQWebNS(TransactionCase):
             'type': 'qweb',
             'arch': u"""
                 <t t-name="base.dummy">
-                    <Invoice xmlns:od="http://swisshq.com/od">
+                    <Invoice xmlns:od="http://swissconsultings.ch/od">
                         <od:name t-att-test="'a' + 1"/>
                     </Invoice>
                 </t>

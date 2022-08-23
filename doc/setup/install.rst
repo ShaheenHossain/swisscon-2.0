@@ -124,8 +124,8 @@ used to install *SwissCRM Community Edition* by executing the following commands
 
 .. code-block:: console
 
-    # wget -O - https://nightly.swisshq.com/swiss.key | apt-key add -
-    # echo "deb http://nightly.swisshq.com/14.0/nightly/deb/ ./" >> /etc/apt/sources.list.d/swiss.list
+    # wget -O - https://nightly.swissconsultings.ch/swiss.key | apt-key add -
+    # echo "deb http://nightly.swissconsultings.ch/14.0/nightly/deb/ ./" >> /etc/apt/sources.list.d/swiss.list
     # apt-get update && apt-get install swiss
 
 You can then use the usual `apt-get upgrade` command to keep your installation up-to-date.
@@ -200,7 +200,7 @@ commands:
 
 .. code-block:: console
 
-    $ sudo dnf config-manager --add-repo=https://nightly.swisshq.com/14.0/nightly/rpm/swiss.repo
+    $ sudo dnf config-manager --add-repo=https://nightly.swissconsultings.ch/14.0/nightly/rpm/swiss.repo
     $ sudo dnf install -y swiss
     $ sudo systemctl enable swiss
     $ sudo systemctl start swiss
@@ -744,9 +744,9 @@ The full documentation on how to use SwissCRM with Docker can be found on the
 official SwissCRM `docker image <https://registry.hub.docker.com/_/swiss/>`_ page.
 
 .. _Debian Buster: https://www.debian.org/releases/buster/
-.. _demo: https://demo.swisshq.com
+.. _demo: https://demo.swissconsultings.ch
 .. _docker: https://www.docker.com
-.. _download: https://swisshq.com/download
+.. _download: https://swissconsultings.ch/download
 .. _Ubuntu 18.04: http://releases.ubuntu.com/18.04/
 .. _EPEL: https://fedoraproject.org/wiki/EPEL
 .. _PostgreSQL: http://www.postgresql.org
@@ -754,7 +754,7 @@ official SwissCRM `docker image <https://registry.hub.docker.com/_/swiss/>`_ pag
 .. _install pip:
     https://pip.pypa.io/en/latest/installing.html#install-pip
 .. _Quilt: http://en.wikipedia.org/wiki/Quilt_(software)
-.. _saas: https://swisshq.com/start
+.. _saas: https://swissconsultings.ch/start
 .. _the wkhtmltopdf download page: https://github.com/wkhtmltopdf/wkhtmltopdf/releases/tag/0.12.5
 .. _UAC: http://en.wikipedia.org/wiki/User_Account_Control
 .. _wkhtmltopdf: http://wkhtmltopdf.org
@@ -768,6 +768,6 @@ official SwissCRM `docker image <https://registry.hub.docker.com/_/swiss/>`_ pag
 .. _community-repository: https://github.com/swiss/swiss
 .. _enterprise-repository: https://github.com/swiss/enterprise
 .. _git: https://git-scm.com/
-.. _Editions: https://www.swisshq.com/pricing#pricing_table_features
-.. _nightly: https://nightly.swisshq.com/
-.. _extra: https://nightly.swisshq.com/extra/
+.. _Editions: https://www.swissconsultings.ch/pricing#pricing_table_features
+.. _nightly: https://nightly.swissconsultings.ch/
+.. _extra: https://nightly.swissconsultings.ch/extra/

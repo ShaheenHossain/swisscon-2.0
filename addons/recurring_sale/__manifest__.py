@@ -10,7 +10,7 @@
     any particular sale order
     """,
     'author': 'SwissCRM ',
-    'website': 'https://www.swisshq.com/',
+    'website': 'https://www.swissconsultings.ch/',
     'depends': ['sale_management', 'recurring'],
     'data': [
         'views/sale_views.xml',

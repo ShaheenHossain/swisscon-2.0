@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2020
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2021
 # 
 msgid ""
@@ -3227,8 +3227,8 @@ msgstr "例如建築師會議"
 
 #. module: event
 #: model_terms:event.event,description:event.event_2
-msgid "events@swisshq.com"
-msgstr "events@swisshq.com"
+msgid "events@swissconsultings.ch"
+msgstr "events@swissconsultings.ch"
 
 #. module: event
 #: model_terms:event.event,description:event.event_7

@@ -5,17 +5,17 @@
 # Translators:
 # Martin Trigaux, 2020
 # Fabien Pinckaers <fp@swissconsultings.ch>, 2020
-# Nicolas Roussey <nro@swisshq.com>, 2020
-# Lucas Deliege <lud@swisshq.com>, 2020
+# Nicolas Roussey <nro@swissconsultings.ch>, 2020
+# Lucas Deliege <lud@swissconsultings.ch>, 2020
 # Xavier Belmere <Info@cartmeleon.com>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Nathan Grognet <ngr@swisshq.com>, 2020
-# gdp SwissCRM <gdp@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Nathan Grognet <ngr@swissconsultings.ch>, 2020
+# gdp SwissCRM <gdp@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # Luc N, 2021
-# Clément Watthez <cwa@swisshq.com>, 2021
-# Alexandra Jubert <aju@swisshq.com>, 2021
+# Clément Watthez <cwa@swissconsultings.ch>, 2021
+# Alexandra Jubert <aju@swissconsultings.ch>, 2021
 # Gwladys Jouble <g.jouble@vieconnect.io>, 2021
 # 
 msgid ""

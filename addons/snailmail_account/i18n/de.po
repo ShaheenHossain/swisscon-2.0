@@ -5,7 +5,7 @@
 # Translators:
 # Martin Trigaux, 2020
 # Philipp Hug <philipp@hug.cx>, 2020
-# Johannes Croe <jcr@swisshq.com>, 2020
+# Johannes Croe <jcr@swissconsultings.ch>, 2020
 # Friederike Fasterling-Nesselbosch, 2021
 # 
 msgid ""

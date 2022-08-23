@@ -2614,8 +2614,8 @@ msgstr "Багаторядковий текст"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "Мій обліковий запис swisshq.com"
+msgid "My swissconsultings.ch account"
+msgstr "Мій обліковий запис swissconsultings.ch"
 
 #. module: web
 #. openerp-web

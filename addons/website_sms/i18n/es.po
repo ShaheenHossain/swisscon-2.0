@@ -5,8 +5,8 @@
 # Translators:
 # Martin Trigaux, 2020
 # Sarai Osorio <sarai.osorio@jarsa.com.mx>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
-# Juan Pablo Mora <jpm@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
+# Juan Pablo Mora <jpm@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # 

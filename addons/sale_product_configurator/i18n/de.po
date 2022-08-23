@@ -8,7 +8,7 @@
 # Ermin Trevisan <trevi@twanda.com>, 2020
 # Katharina Moritz <kmo@e2f.com>, 2020
 # Michael Schütt <michael.schuett.lwl@gmail.com>, 2020
-# Leon Grill <leg@swisshq.com>, 2020
+# Leon Grill <leg@swissconsultings.ch>, 2020
 # Chris Egal <sodaswed@web.de>, 2020
 # Felix Schubert <felix.schubert@go-erp.com>, 2020
 # Andreas Schmidt <schmigo@gmail.com>, 2021

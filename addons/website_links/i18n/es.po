@@ -13,9 +13,9 @@
 # Antonio Trueba, 2020
 # Gustavo Valverde, 2020
 # Nicolás Broggi <rnbroggi@gmail.com>, 2020
-# Jesse Garza <jga@swisshq.com>, 2020
+# Jesse Garza <jga@swissconsultings.ch>, 2020
 # Osiris Román <osiris.roman@yachaytech.edu.ec>, 2020
-# Jon Perez <jop@swisshq.com>, 2020
+# Jon Perez <jop@swissconsultings.ch>, 2020
 # José Cabrera Lozano <jose.cabrera@edukative.es>, 2021
 # 
 msgid ""
@@ -367,8 +367,8 @@ msgstr "ejemplo. Motor de búsqueda, Página web, ..."
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
-msgid "e.g. https://www.swisshq.com/contactus"
-msgstr "por ejemplo https://www.swisshq.com/contactus"
+msgid "e.g. https://www.swissconsultings.ch/contactus"
+msgstr "por ejemplo https://www.swissconsultings.ch/contactus"
 
 #. module: website_links
 #. openerp-web

@@ -4,7 +4,7 @@
 {
     'name': 'Project',
     'version': '1.1',
-    'website': 'https://www.swisshq.com/page/project-management',
+    'website': 'https://www.swissconsultings.ch/page/project-management',
     'category': 'Services/Project',
     'sequence': 45,
     'summary': 'Organize and plan your projects',

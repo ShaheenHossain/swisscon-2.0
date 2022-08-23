@@ -9,9 +9,9 @@
 # Volluta <volluta@tutanota.com>, 2020
 # Cas Vissers <casvissers@brahoo.nl>, 2020
 # Melroy van den Berg <webmaster1989@gmail.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# Maxim Vandenbroucke <mxv@swisshq.com>, 2020
-# Antoine Gilard <ang@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# Maxim Vandenbroucke <mxv@swissconsultings.ch>, 2020
+# Antoine Gilard <ang@swissconsultings.ch>, 2020
 # Yip132 <yannick.renders@gmail.com>, 2020
 # Martin Trigaux, 2021
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2021
@@ -2621,8 +2621,8 @@ msgstr "Meerdere regels tekst"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "Mijn swisshq.com account"
+msgid "My swissconsultings.ch account"
+msgstr "Mijn swissconsultings.ch account"
 
 #. module: web
 #. openerp-web

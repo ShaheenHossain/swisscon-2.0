@@ -9,7 +9,7 @@
 # zpq001 <zpq001@live.com>, 2020
 # Ma XiaoXiao <junmaing@gmail.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # 稀饭~~ <wangwhai@qq.com>, 2020
 # 

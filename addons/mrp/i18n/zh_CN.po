@@ -6,7 +6,7 @@
 # v2exerer <9010446@qq.com>, 2020
 # roye w <159820@qq.com>, 2020
 # John An <johnxan@163.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # Youfu Sheng <wdmsyf@sina.com>, 2020
 # fausthuang, 2020
 # 黎伟杰 <674416404@qq.com>, 2020
@@ -14,8 +14,8 @@
 # 老窦 北京 <2662059195@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
 # ChinaMaker <liuct@chinamaker.net>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
-# Shane Tsoi <sso@swisshq.com>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
+# Shane Tsoi <sso@swissconsultings.ch>, 2020
 # bower Guo <124358678@qq.com>, 2020
 # xu xiaohu <xu.xiaohu@gmail.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020

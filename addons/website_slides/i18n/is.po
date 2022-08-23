@@ -545,14 +545,14 @@ msgstr ""
 msgid ""
 "Discover how you can integrate MRP, PLM, Quality and Maintenance in a single application to maximize the efficiency of your manufacturing operations.\n"
 "\n"
-"Read more about the features at: https://www.swisshq.com/page/manufacturing-features\n"
+"Read more about the features at: https://www.swissconsultings.ch/page/manufacturing-features\n"
 "\n"
-"Discover SwissCRM MRP: https://www.swisshq.com/page/manufacturing"
+"Discover SwissCRM MRP: https://www.swissconsultings.ch/page/manufacturing"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_1
-msgid "Discover the CRM sales people love https://www.swisshq.com/page/crm"
+msgid "Discover the CRM sales people love https://www.swissconsultings.ch/page/crm"
 msgstr ""
 
 #. module: website_slides
@@ -560,7 +560,7 @@ msgstr ""
 msgid ""
 "Discover the all-in-one business management software solution that fits any business size and use case.\n"
 "\n"
-"Learn more at https://swisshq.com"
+"Learn more at https://swissconsultings.ch"
 msgstr ""
 
 #. module: website_slides
@@ -871,7 +871,7 @@ msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_8
-msgid "Learn more at https://www.swisshq.com/page/sales"
+msgid "Learn more at https://www.swissconsultings.ch/page/sales"
 msgstr ""
 
 #. module: website_slides
@@ -1393,7 +1393,7 @@ msgstr ""
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with SwissCRM Sign!\n"
 "\n"
-"Discover more at https://www.swisshq.com/page/sign"
+"Discover more at https://www.swissconsultings.ch/page/sign"
 msgstr ""
 
 #. module: website_slides
@@ -1611,7 +1611,7 @@ msgstr ""
 msgid ""
 "Warehouse management software for the 21st century.\n"
 "\n"
-"Discover SwissCRM Inventory: https://www.swisshq.com/page/warehouse"
+"Discover SwissCRM Inventory: https://www.swissconsultings.ch/page/warehouse"
 msgstr ""
 
 #. module: website_slides

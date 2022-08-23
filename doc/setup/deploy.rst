@@ -460,7 +460,7 @@ security-related topics:
 
 - Keep installations updated by regularly installing the latest builds,
   either via GitHub or by downloading the latest version from
-  https://swisshq.com/download or http://nightly.swisshq.com
+  https://swissconsultings.ch/download or http://nightly.swissconsultings.ch
 
 - Configure your server in multi-process mode with proper limits matching your typical
   usage (memory/CPU/timeouts). See also :ref:`builtin_server`.
@@ -659,4 +659,4 @@ Here are the supported browsers:
 .. _use an SSH tunnel:
     https://www.postgresql.org/docs/9.6/static/ssh-tunnels.html
 .. _WSGI: https://wsgi.readthedocs.org/
-.. _POSBox: https://swisshq.com/point-of-sale-hardware#part_2
+.. _POSBox: https://swissconsultings.ch/point-of-sale-hardware#part_2

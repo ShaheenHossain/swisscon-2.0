@@ -7,7 +7,7 @@
 # Massimo Bianchi <bianchi.massimo@gmail.com>, 2020
 # Paolo Valier, 2020
 # Niccolò Lubello <nlubello@gmail.com>, 2020
-# Iacopo Simonelli <lsi@swisshq.com>, 2020
+# Iacopo Simonelli <lsi@swissconsultings.ch>, 2020
 # Stefano Consolaro <stefano.consolaro@mymage.it>, 2020
 # Sergio Zanchetta <primes2h@gmail.com>, 2021
 # Martin Trigaux, 2021

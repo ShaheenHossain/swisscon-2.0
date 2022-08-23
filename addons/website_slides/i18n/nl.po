@@ -3,14 +3,14 @@
 # 	* website_slides
 # 
 # Translators:
-# Antoine Gilard <ang@swisshq.com>, 2020
+# Antoine Gilard <ang@swissconsultings.ch>, 2020
 # Cas Vissers <casvissers@brahoo.nl>, 2020
 # Gunther Clauwaert <gclauwae@hotmail.com>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Yip132 <yannick.renders@gmail.com>, 2020
 # Martin Trigaux, 2020
 # Eric Geens <ericgeens@yahoo.com>, 2020
-# Charles Vervaecke <cvk@swisshq.com>, 2020
+# Charles Vervaecke <cvk@swissconsultings.ch>, 2020
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2020
 # SwissCRM Experts Consultants <consultants@odooexperts.nl>, 2020
 # Erwin van der Ploeg <erwin@odooexperts.nl>, 2021
@@ -5638,8 +5638,8 @@ msgstr "Bijv. Introductie"
 
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_form
-msgid "e.g. https://www.swisshq.com"
-msgstr "Bijv. https://www.swisshq.com"
+msgid "e.g. https://www.swissconsultings.ch"
+msgstr "Bijv. https://www.swissconsultings.ch"
 
 #. module: website_slides
 #: model:ir.ui.menu,name:website_slides.website_slides_menu_root

@@ -6,8 +6,8 @@
 # Martin Trigaux, 2020
 # Wolfgang Taferner, 2020
 # Matt <matt.fasola@braintec-group.com>, 2020
-# Jérôme JEK <jek@swisshq.com>, 2020
-# Kevin Harrings <kha@swisshq.com>, 2020
+# Jérôme JEK <jek@swissconsultings.ch>, 2020
+# Kevin Harrings <kha@swissconsultings.ch>, 2020
 # Friederike Fasterling-Nesselbosch, 2021
 # 
 msgid ""

@@ -2593,8 +2593,8 @@ msgstr "ข้อความหลายบรรทัด"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:0
 #, python-format
-msgid "My swisshq.com account"
-msgstr "บัญชี swisshq.com ของฉัน"
+msgid "My swissconsultings.ch account"
+msgstr "บัญชี swissconsultings.ch ของฉัน"
 
 #. module: web
 #. openerp-web

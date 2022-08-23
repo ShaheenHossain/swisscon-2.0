@@ -3,7 +3,7 @@
 # 	* purchase
 # 
 # Translators:
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # 226408 台北 <226408@so8d.com>, 2021
 # Benson <Benson.Dr@Gmail.com>, 2021
 # Jack N <j.a.ckqueli.neb.a.net.mp@gmail.com>, 2021

@@ -13,7 +13,7 @@
 # Ali Alrehawi <alrehawi@hotmail.com>, 2020
 # Zuhair Hammadi <zuhair12@gmail.com>, 2020
 # Shaima Safar <shaima.safar@open-inside.com>, 2020
-# Nisrine Tagri <nta@swisshq.com>, 2020
+# Nisrine Tagri <nta@swissconsultings.ch>, 2020
 # Mohamed Alansari <Mohammad.alansari@outlook.com>, 2020
 # Mustafa Rawi <mustafa@cubexco.com>, 2020
 # Yihya Hugirat <hugirat@gmail.com>, 2020

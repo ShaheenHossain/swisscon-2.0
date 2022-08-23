@@ -7,7 +7,7 @@
 helpdesk team''',
     'category': 'Human Resources',
     'author': 'SwissCRM ',
-    'website': 'https://swisshq.com',
+    'website': 'https://swissconsultings.ch',
     'depends': ['helpdesk_basic', 'website_forum'],
     'data': [
         'views/helpdesk_team_view.xml',

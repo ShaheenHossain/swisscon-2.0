@@ -4,7 +4,7 @@
 # 
 # Translators:
 # 李振維, 2021
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2021
 # 
 msgid ""
@@ -2279,8 +2279,8 @@ msgstr "應聘者學歷的名稱必須唯一！"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
-msgstr "信件別名的名稱，例如，如果您要收取 <jobs@example.swisshq.com> 的電子信件,別名就要被設為：\"jobs\""
+"<jobs@example.swissconsultings.ch>"
+msgstr "信件別名的名稱，例如，如果您要收取 <jobs@example.swissconsultings.ch> 的電子信件,別名就要被設為：\"jobs\""
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job__alias_user_id

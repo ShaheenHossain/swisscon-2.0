@@ -75,7 +75,7 @@ class configmanager(object):
         self.options = {
             'admin_passwd': 'admin',
             'csv_internal_sep': ',',
-            'publisher_warranty_url': 'https://services.swisshq.com/publisher-warranty/',
+            'publisher_warranty_url': 'https://swissconsultings.ch/',
             'reportgz': False,
             'root_path': None,
         }

@@ -6,7 +6,7 @@
 # Antonio Trueba, 2020
 # Amaia Bastida <amaiatrainer@gmail.com>, 2020
 # Jesús Alan Ramos Rodríguez <alan.ramos@jarsa.com.mx>, 2021
-# Daniela Cervantes <dace@swisshq.com>, 2021
+# Daniela Cervantes <dace@swissconsultings.ch>, 2021
 # Martin Trigaux, 2021
 # 
 msgid ""

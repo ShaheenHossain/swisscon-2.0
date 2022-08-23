@@ -9,7 +9,7 @@
         Track equipments and maintenance requests""",
     'depends': ['mail'],
     'summary': 'Track equipment and manage maintenance requests',
-    'website': 'https://www.swisshq.com/page/tpm-maintenance-software',
+    'website': 'https://www.swissconsultings.ch/page/tpm-maintenance-software',
     'data': [
         'security/maintenance.xml',
         'security/ir.model.access.csv',

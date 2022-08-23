@@ -6,7 +6,7 @@
 # liulixia <liu.lixia@elico-corp.com>, 2020
 # 老窦 北京 <2662059195@qq.com>, 2020
 # Fisher <fisher@kdomi.com>, 2020
-# Lisa Zhang <lzh@swisshq.com>, 2020
+# Lisa Zhang <lzh@swissconsultings.ch>, 2020
 # Felix Yang - Elico Corp <felixyangsh@aliyun.com>, 2020
 # e2f <projects@e2f.com>, 2020
 # 苏州远鼎 <tiexinliu@126.com>, 2020
@@ -16,7 +16,7 @@
 # guohuadeng <guohuadeng@hotmail.com>, 2020
 # keecome <7017511@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # Youfu Sheng <wdmsyf@sina.com>, 2020
 # Jeanphy <hzh0292@qq.com>, 2020
 # as co02 <asco02@163.com>, 2020
@@ -28,7 +28,7 @@
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
 # 稀饭~~ <wangwhai@qq.com>, 2020
 # Melvin Liu <betien@msn.cn>, 2020
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # liAnGjiA <liangjia@qq.com>, 2021
 # 
 msgid ""
@@ -204,7 +204,7 @@ msgstr "<strong>定期会谈</strong>。使用幻灯片的，在60分钟内的�
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_sponsor_view_form
-msgid ">e.g. : https://www.swisshq.com"
+msgid ">e.g. : https://www.swissconsultings.ch"
 msgstr ""
 
 #. module: website_event_track

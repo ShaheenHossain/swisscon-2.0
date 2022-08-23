@@ -5,7 +5,7 @@
     'version': '2.0',
     'category': 'Project',
     'author': 'SwissCRM ',
-    'website': 'https://swisshq.com',
+    'website': 'https://swissconsultings.ch',
     'sequence': 40,
     'summary': 'A module for Scrum implementation',
     'depends': [

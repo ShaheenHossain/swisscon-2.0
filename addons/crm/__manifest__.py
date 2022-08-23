@@ -8,7 +8,7 @@
     'sequence': 15,
     'summary': 'Track leads and close opportunities',
     'description': "",
-    'website': 'https://www.swisshq.com/page/crm',
+    'website': 'https://www.swissconsultings.ch/page/crm',
     'depends': [
         'base_setup',
         'sales_team',

@@ -750,10 +750,10 @@ msgstr ""
 #, python-format
 msgid ""
 "You don't have an IAP account registered for this service.<br>Please go to "
-"<a href=%s target=\"new\">iap.swisshq.com</a> to claim your free credits."
+"<a href=%s target=\"new\">iap.swissconsultings.ch</a> to claim your free credits."
 msgstr ""
 "Nu aveți un cont IAP înregistrat pentru acest serviciu.<br>Vă rugăm să "
-"accesați <a href=%s target=\"new\">iap.swisshq.com</a> pentru a solicita "
+"accesați <a href=%s target=\"new\">iap.swissconsultings.ch</a> pentru a solicita "
 "creditele dvs. gratuite."
 
 #. module: snailmail

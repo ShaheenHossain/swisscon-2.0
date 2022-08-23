@@ -10,7 +10,7 @@
 # guohuadeng <guohuadeng@hotmail.com>, 2020
 # keecome <7017511@qq.com>, 2020
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2020
-# Felix Yuen <fyu@swisshq.com>, 2020
+# Felix Yuen <fyu@swissconsultings.ch>, 2020
 # roye w <159820@qq.com>, 2020
 # inspur qiuguodong <qiuguodong@inspur.com>, 2020
 # John An <johnxan@163.com>, 2020

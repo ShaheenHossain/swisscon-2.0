@@ -6,8 +6,8 @@
 # Moka Tourisme <hello@mokatourisme.fr>, 2020
 # Martin Trigaux, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
-# thomas quertinmont <tqu@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
+# thomas quertinmont <tqu@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # R HT, 2021
 # 

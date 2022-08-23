@@ -3696,8 +3696,8 @@ msgstr "例如 建筑师会议"
 
 #. module: event
 #: model_terms:event.event,description:event.event_2
-msgid "events@swisshq.com"
-msgstr "events@swisshq.com"
+msgid "events@swissconsultings.ch"
+msgstr "events@swissconsultings.ch"
 
 #. module: event
 #: model_terms:event.event,description:event.event_7

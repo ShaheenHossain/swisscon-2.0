@@ -6,7 +6,7 @@
     'summary': '''Website Helpdesk''',
     'category': 'Human Resources',
     'author': 'SwissCRM ',
-    'website': 'https://swisshq.com',
+    'website': 'https://swissconsultings.ch',
     'depends': ['helpdesk_basic', 'website', 'portal', 'rating'],
     'data': [
         'security/ir.model.access.csv',

@@ -3692,9 +3692,9 @@ msgstr ""
 #: model:ir.model.fields,help:project.field_project_project__alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.swisshq.com>"
+"<jobs@example.swissconsultings.ch>"
 msgstr ""
-"Eposta rumuzunun adı, ör. <kariyer@example.swisshq.com> adresine gelen "
+"Eposta rumuzunun adı, ör. <kariyer@example.swissconsultings.ch> adresine gelen "
 "epostaları yakalamak için 'kariyer' "
 
 #. module: project

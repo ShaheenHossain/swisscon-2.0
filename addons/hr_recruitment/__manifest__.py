@@ -8,7 +8,7 @@
     'sequence': 90,
     'summary': 'Track your recruitment pipeline',
     'description': "",
-    'website': 'https://www.swisshq.com/page/recruitment',
+    'website': 'https://www.swissconsultings.ch/page/recruitment',
     'depends': [
         'hr',
         'calendar',

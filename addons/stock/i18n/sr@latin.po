@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Djordje Marjanovic <djordje_m@yahoo.com>, 2017
-# Martin Trigaux <mat@swisshq.com>, 2017
+# Martin Trigaux <mat@swissconsultings.ch>, 2017
 # Nemanja Dragovic <nemanjadragovic94@gmail.com>, 2017
 # Ljubisa Jovev <ljubisa.jovev@gmail.com>, 2017
 msgid ""
@@ -7349,7 +7349,7 @@ msgstr ""
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.inventory_planner
-msgid "feedback@mail.swisshq.com"
+msgid "feedback@mail.swissconsultings.ch"
 msgstr ""
 
 #. module: stock

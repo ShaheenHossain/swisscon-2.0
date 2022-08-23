@@ -5,7 +5,7 @@ import json
 import requests
 
 account_token = "integration_token"  # Use your token
-domain_name = "https://iap-extract.swisshq.com"
+domain_name = "https://iap-extract.swissconsultings.ch"
 path_to_pdf = "/path/to/invoice_file"
 
 API_VERSION = 120  # Do not change

@@ -6,7 +6,7 @@
 # Michael Yeung, 2020
 # Bill Hsu <hcm86@icloud.com>, 2020
 # sejun huang <sejun.huang@gmail.com>, 2020
-# Mandy Choy <mnc@swisshq.com>, 2021
+# Mandy Choy <mnc@swissconsultings.ch>, 2021
 # 敬雲 林 <chingyun@yuanchih-consult.com>, 2021
 # 
 msgid ""

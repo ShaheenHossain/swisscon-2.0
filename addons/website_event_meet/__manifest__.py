@@ -8,7 +8,7 @@
     'sequence': 1002,
     'version': '1.0',
     'summary': 'Event: meeting and chat rooms',
-    'website': 'https://www.swisshq.com/page/events',
+    'website': 'https://www.swissconsultings.ch/page/events',
     'description': "",
     'depends': [
         'website_event',

@@ -3,7 +3,7 @@ SwissCRM e-Commerce
 
 ### Optimize sales with an awesome online store.
 
-SwissCRM is an <a href="https://www.swisshq.com/page/e-commerce">Open Source eCommerce</a>
+SwissCRM is an <a href="https://www.swissconsultings.ch/page/e-commerce">Open Source eCommerce</a>
 unlike anything you have ever seen before. Get an awesome catalog of products
 and great product description pages.
 

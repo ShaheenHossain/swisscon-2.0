@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
-# Cécile Collart <cco@swisshq.com>, 2020
+# Cécile Collart <cco@swissconsultings.ch>, 2020
 # Gilles Mangin <gilles.mangin@phidias.fr>, 2020
 # Chaplet34 <charleskolie2@gmail.com>, 2020
 # 
