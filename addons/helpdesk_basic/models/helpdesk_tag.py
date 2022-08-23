@@ -1,0 +1,11 @@
+# Part of swiss. See LICENSE file for full copyright and licensing details.
+
+from swiss import fields, models
+
+
+class HelpdeskTag(models.Model):
+    _name = 'helpdesk.tag'
+    _description = 'Helpdesk Tags'
+
+    name = fields.Char('Name', translate=True, required=True)
+    code = fields.Char('Code', required=True)

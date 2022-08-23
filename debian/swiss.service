@@ -1,0 +1,14 @@
+[Unit]
+Description=SwissCRM Open Source ERP and CRM
+After=network.target
+
+[Service]
+Type=simple
+User=swiss
+Group=swiss
+ExecStart=/usr/bin/swiss --config /etc/swiss/swiss.conf --logfile /var/log/swiss/swiss-server.log
+KillMode=mixed
+
+[Install]
+WantedBy=multi-user.target
+

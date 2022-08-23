@@ -1,0 +1,21 @@
+#!/usr/bin/make -f
+export DH_VERBOSE=1
+export PYBUILD_NAME=swiss-bin
+export PYBUILD_DISABLE=test
+
+%:
+	dh ${@} --with=python3 --buildsystem=pybuild
+
+override_dh_auto_build:
+	cp -r addons/* swiss/addons/
+	dh_auto_build
+
+override_dh_auto_install:
+	dh_auto_install
+	rm debian/swiss/usr/lib/python3*/dist-packages/swiss/addons/point_of_sale/static/src/fonts/Inconsolata.otf
+	for LINKTARGET in `awk '{ print $2 }' swiss.links`; do rm debian/swiss/${LINKTARGET} ; done
+	find debian/swiss -name LICENSE.txt -exec rm {} \;
+
+override_dh_auto_clean:
+	dh_auto_clean
+	for d in addons/* ; do rm -fr swiss/$$d ; done

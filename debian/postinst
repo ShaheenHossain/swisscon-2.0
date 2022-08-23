@@ -1,0 +1,34 @@
+#!/bin/sh
+
+set -e
+
+SWISS_CONFIGURATION_FILE=/etc/swiss/swiss.conf
+SWISS_GROUP="swiss"
+SWISS_DATA_DIR=/var/lib/swiss
+SWISS_LOG_DIR=/var/log/swiss
+SWISS_USER="swiss"
+
+case "${1}" in
+    configure)
+        if ! getent passwd | grep -q "^swiss:"; then
+            adduser --system --home $SWISS_DATA_DIR --quiet --group $SWISS_USER
+        fi
+        # Register "$SWISS_USER" as a postgres user with "Create DB" role attribute
+        su - postgres -c "createuser -d -R -S $SWISS_USER" 2> /dev/null || true
+        # Configuration file
+        chown $SWISS_USER:$SWISS_GROUP $SWISS_CONFIGURATION_FILE
+        chmod 0640 $SWISS_CONFIGURATION_FILE
+        # Log
+        mkdir -p $SWISS_LOG_DIR
+        chown $SWISS_USER:$SWISS_GROUP $SWISS_LOG_DIR
+        chmod 0750 $SWISS_LOG_DIR
+        # Data dir
+        chown $SWISS_USER:$SWISS_GROUP $SWISS_DATA_DIR
+        ;;
+    *)
+        ;;
+esac
+
+#DEBHELPER#
+
+exit 0

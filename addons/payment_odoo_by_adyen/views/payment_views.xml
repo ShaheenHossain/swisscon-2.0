@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<swiss>
+    <data>
+
+        <record id="acquirer_form_swiss_by_adyen" model="ir.ui.view">
+            <field name="name">acquirer.form.swiss.by.adyen</field>
+            <field name="model">payment.acquirer</field>
+            <field name="inherit_id" ref="payment.acquirer_form"/>
+            <field name="arch" type="xml">
+                <xpath expr='//group[@name="acquirer"]' position='inside'>
+                    <group attrs="{'invisible': [('provider', '!=', 'swiss_adyen')]}">
+                        <button name="swiss_adyen_create_account" icon="fa-arrow-right" type="object" class="btn-link" string="Create an account in 1 minute"
+                            attrs="{'invisible': [('swiss_adyen_account_id', '!=', False)]}"/>
+                        <field name="swiss_adyen_account_id" readonly="1" attrs="{'invisible': [('swiss_adyen_account_id', '=', False)]}"/>
+                        <field name="swiss_adyen_payout_id" attrs="{'invisible': [('swiss_adyen_account_id', '=', False)], 'required':[('provider', '=', 'swiss_adyen'), ('state', '!=', 'disabled')]}"/>
+                    </group>
+                </xpath>
+            </field>
+        </record>
+
+    </data>
+</swiss>

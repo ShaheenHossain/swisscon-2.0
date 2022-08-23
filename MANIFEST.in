@@ -1,0 +1,49 @@
+include requirements.txt
+include LICENSE
+include README.md
+include swiss/addons/mail/static/scripts/swiss-mailgate.py
+recursive-include swiss *.css
+recursive-include swiss *.csv
+recursive-include swiss *.doc
+recursive-include swiss *.docx
+recursive-include swiss *.eml
+recursive-include swiss *.eot
+recursive-include swiss *.gif
+recursive-include swiss *.html
+recursive-include swiss *.ico
+recursive-include swiss *.jpeg
+recursive-include swiss *.jpg
+recursive-include swiss *.js
+recursive-include swiss *.md
+recursive-include swiss *.mp3
+recursive-include swiss *.ogg
+recursive-include swiss *.ods
+recursive-include swiss *.odt
+recursive-include swiss *.otf
+recursive-include swiss *.pdf
+recursive-include swiss *.png
+recursive-include swiss *.po
+recursive-include swiss *.pot
+recursive-include swiss *.rml
+recursive-include swiss *.rng
+recursive-include swiss *.rst
+recursive-include swiss *.scss
+recursive-include swiss *.sql
+recursive-include swiss *.svg
+recursive-include swiss *.template
+recursive-include swiss *.txt
+recursive-include swiss *.ttf
+recursive-include swiss *.woff
+recursive-include swiss *.woff2
+recursive-include swiss *.wsdl
+recursive-include swiss *.xls
+recursive-include swiss *.xsd
+recursive-include swiss *.xsl
+recursive-include swiss *.xlsx
+recursive-include swiss *.xml
+recursive-include swiss *.yml
+recursive-include swiss *.zip
+recursive-include swiss/addons/l10n_mx_edi *.xslt *.key *.cer *.txt
+recursive-include swiss/addons/l10n_mx_reports *.xslt
+recursive-exclude * *.py[co]
+recursive-exclude * *.hg*

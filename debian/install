@@ -1,0 +1,2 @@
+debian/swiss.conf /etc/swiss
+README.md /usr/share/doc/swiss
