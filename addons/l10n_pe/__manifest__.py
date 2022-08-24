@@ -5,7 +5,7 @@
     'summary': "PCGE Simplified",
     'category': 'Accounting/Localizations/Account Charts',
     'author': 'Vauxoo, SwissCRM',
-    'website': 'https://doc.swissconsultings.ch/2.0/accounting/fiscal_localizations/localizations/peru.html',
+    'website': 'https://swissconsultings.ch/accounting/fiscal_localizations/localizations/peru.html',
     'license': 'LGPL-3',
     'depends': [
         'base_vat',

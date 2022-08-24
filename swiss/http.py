@@ -782,7 +782,7 @@ class HttpRequest(WebRequest):
 
 SwissCRM & ERPURLs are CSRF-protected by default (when accessed with unsafe
 HTTP methods). See
-https://doc.swissconsultings.ch/2.0/developer/reference/http.html#csrf for
+https://swissconsultings.ch/developer/reference/http.html#csrf for
 more details.
 
 * if this endpoint is accessed through SwissCRM & ERPvia py-QWeb form, embed a CSRF

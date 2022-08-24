@@ -12,7 +12,7 @@ class SwissCRMBaseChecker(checkers.BaseChecker):
         'E8502': (
             'Bad usage of _, _lt function.',
             'gettext-variable',
-            'See https://doc.swissconsultings.ch/2.0/reference/translations.html#variables'
+            'See https://swissconsultings.ch/reference/translations.html#variables'
         )
     }
 

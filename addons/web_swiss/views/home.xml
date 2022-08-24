@@ -17,10 +17,10 @@
                     </a>
                     <ul class="dropdown-menu text-right" style="left:auto; right:0; margin-top:10px;">
                         <li>
-                            <a data-menu="documentation" href="https://swissconsultings.ch/documentation/user">Documentation</a>
+                            <a data-menu="documentation" href="https://swissconsultings.ch">Documentation</a>
                         </li>
                         <li>
-                            <a data-menu="support" href="https://swissconsultings.ch/buy">Support</a>
+                            <a data-menu="support" href="https://swissconsultings.ch">Support</a>
                         </li>
                         <li>
                             <a data-menu="about" href="/page/website.aboutus">About</a>

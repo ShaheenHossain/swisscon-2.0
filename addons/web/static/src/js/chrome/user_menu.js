@@ -79,7 +79,7 @@ var UserMenu = Widget.extend({
      * @private
      */
     _onMenuDocumentation: function () {
-        window.open('https://doc.swissconsultings.ch/2.0', '_blank');
+        window.open('https://swissconsultings.ch', '_blank');
     },
     /**
      * @private
