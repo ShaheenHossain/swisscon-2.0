@@ -12,5 +12,5 @@ Erwin van der Ploeg erwin@bas-solutions.nl https://github.com/erwin-bas-solution
 
 List of contributors:
 
-Erwin van der Ploeg erwin@odooexperts.nl https://github.com/ploegvde
-Yenthe Van Ginneken yenthe@odooexperts.nl https://github.com/Yenthe666 (up to 2019-09-25)
+Erwin van der Ploeg erwin@swissexperts.nl https://github.com/ploegvde
+Yenthe Van Ginneken yenthe@swissexperts.nl https://github.com/Yenthe666 (up to 2019-09-25)

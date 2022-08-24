@@ -8,8 +8,8 @@ declaration.
 
 Signed,
 
-Andrius Laukavičius andrius@focusate.eu https://github.com/oerp-odoo
+Andrius Laukavičius andrius@focusate.eu https://github.com/oerp-swiss
 
 List of contributors:
 
-Andrius Laukavičius andrius@focusate.eu https://github.com/oerp-odoo
+Andrius Laukavičius andrius@focusate.eu https://github.com/oerp-swiss

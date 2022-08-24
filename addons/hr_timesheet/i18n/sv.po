@@ -11,7 +11,7 @@
 # 03992e16f8df6e39b9d1cc0ff635887e, 2021
 # Kim Asplund <kim.asplund@gmail.com>, 2021
 # Chrille Hedberg <hedberg.chrille@gmail.com>, 2021
-# fah_odoo <fah@swissconsultings.ch>, 2021
+# fah_swiss <fah@swissconsultings.ch>, 2021
 # Jakob Krabbe <jakob.krabbe@vertel.se>, 2021
 # Anders Wallenquist <anders.wallenquist@vertel.se>, 2021
 # Simon S, 2021
@@ -23,7 +23,7 @@ msgstr ""
 "POT-Creation-Date: 2020-09-29 13:45+0000\n"
 "PO-Revision-Date: 2020-09-07 08:13+0000\n"
 "Last-Translator: Simon S, 2021\n"
-"Language-Team: Swedish (https://www.transifex.com/odoo/teams/41243/sv/)\n"
+"Language-Team: Swedish (https://www.transifex.com/swiss/teams/41243/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"

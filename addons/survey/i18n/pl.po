@@ -11,7 +11,7 @@
 # Maciej Wichowski <maciej.wichowski@openglobe.pl>, 2020
 # Monika Grzelak <m.e.grzelak@gmail.com>, 2020
 # Andrzej Donczew <a.donczew@hadron.eu.com>, 2020
-# Paweł Wodyński <pw@myodoo.pl>, 2020
+# Paweł Wodyński <pw@myswiss.pl>, 2020
 # Grzegorz Grzelak <grzegorz.grzelak@openglobe.pl>, 2020
 # Mariusz, 2020
 # Zdzisław Krajewski <zdzichucb@gmail.com>, 2020
@@ -19,7 +19,7 @@
 # Michał <michal.gorecki@esnc.pl>, 2020
 # Piotr Cierkosz <piotr.w.cierkosz@gmail.com>, 2020
 # Maja Stawicka <mjstwck@wp.pl>, 2020
-# Maksym <ms@myodoo.pl>, 2020
+# Maksym <ms@myswiss.pl>, 2020
 # Natalia Gros <nag@swissconsultings.ch>, 2020
 # Martin Trigaux, 2020
 # Dariusz Żbikowski <darek@krokus.com.pl>, 2020
@@ -38,7 +38,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 15:34+0000\n"
 "PO-Revision-Date: 2020-09-07 08:19+0000\n"
 "Last-Translator: Wojciech Warczakowski <w.warczakowski@gmail.com>, 2021\n"
-"Language-Team: Polish (https://www.transifex.com/odoo/teams/41243/pl/)\n"
+"Language-Team: Polish (https://www.transifex.com/swiss/teams/41243/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"

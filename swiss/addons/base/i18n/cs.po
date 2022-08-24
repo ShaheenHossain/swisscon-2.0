@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Ladislav Tomm <tomm@helemik.cz>, 2020
-# nle_odoo, 2020
+# nle_swiss, 2020
 # Jan Horzinka <jan.horzinka@centrum.cz>, 2020
 # Martin Trigaux, 2020
 # Michal Veselý <michal@veselyberanek.net>, 2020
@@ -20,7 +20,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 13:50+0000\n"
 "PO-Revision-Date: 2020-09-07 08:09+0000\n"
 "Last-Translator: Rastislav Brencic <rastislav.brencic@azet.sk>, 2021\n"
-"Language-Team: Czech (https://www.transifex.com/odoo/teams/41243/cs/)\n"
+"Language-Team: Czech (https://www.transifex.com/swiss/teams/41243/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -457,7 +457,7 @@ msgid ""
 "\n"
 "* Fiscal positions '内税' and '外税' have been added to handle special requirements which might arise from POS implementation. [1]  Under normal circumstances, you might not need to use those at all.\n"
 "\n"
-"[1] See https://github.com/odoo/odoo/pull/6470 for detail.\n"
+"[1] See https://github.com/swiss/swiss/pull/6470 for detail.\n"
 "\n"
 "    "
 msgstr ""
@@ -473,7 +473,7 @@ msgstr ""
 "\n"
 "* Mapování daní „内 税“ a „外 税“ byly přidány ke zpracování zvláštních požadavků, které by mohly vyplynout z implementace POS. [1] Za normálních okolností je možná nebudete muset použít.\n"
 "\n"
-"[1] Podrobnosti viz https://github.com/odoo/odoo/pull/6470."
+"[1] Podrobnosti viz https://github.com/swiss/swiss/pull/6470."
 
 #. module: base
 #: code:addons/base/models/res_config.py:0
@@ -3944,7 +3944,7 @@ msgid ""
 "For auditing and troubleshooting purposes we also add a menu \"Consulit Invoice in AFIP\" that let us to consult invoices previously\n"
 "sent to AFIP and last number used as support for any possible issues on the sequences synchronization between SwissCRM and AFIP.\n"
 "\n"
-"    NOTE: From the Journal's form view we are able to force a sync between the odoo sequences to each of the document types in\n"
+"    NOTE: From the Journal's form view we are able to force a sync between the swiss sequences to each of the document types in\n"
 "    with the last numbers registered in AFIP.\n"
 "\n"
 "From vendor bills, we have added a functionality that can be configured in the accounting settings to be able to verify\n"
@@ -7076,7 +7076,7 @@ msgid ""
 "rejestrów podatkowych. Moduł ustawia też konta do kupna i sprzedaży towarów\n"
 "zakładając, że wszystkie towary są w obrocie hurtowym.\n"
 "\n"
-"Niniejszy moduł jest przeznaczony dla odoo 8.0.\n"
+"Niniejszy moduł jest przeznaczony dla swiss 8.0.\n"
 "Wewnętrzny numer wersji OpenGLOBE 1.02\n"
 "    "
 msgstr ""
@@ -7088,7 +7088,7 @@ msgstr ""
 "daňové evidence. Modul také nastavuje účty pro nákup a prodej zboží\n"
 "za předpokladu, že veškeré zboží je ve velkoobchodním oběhu.\n"
 "\n"
-"Tento modul je určen pro odoo 8.0.\n"
+"Tento modul je určen pro swiss 8.0.\n"
 "Číslo vnitřní verze OpenGLOBE 1.02"
 
 #. module: base
@@ -7301,14 +7301,14 @@ msgid ""
 "will add their specific templates and controllers to extend the customer\n"
 "portal.\n"
 "\n"
-"This module contains most code coming from odoo v10 website_portal. Purpose\n"
+"This module contains most code coming from swiss v10 website_portal. Purpose\n"
 "of this module is to allow the display of a customer portal without having\n"
 "a dependency towards website editing and customization capabilities."
 msgstr ""
 "\n"
 "Tento modul přidává požadovaný základní kód pro plně integrovaný zákaznický portál. Obsahuje základní třídu řadiče a základní šablony. Obchodní doplňky přidají své konkrétní šablony a řadiče k rozšíření zákaznického portálu.\n"
 "\n"
-"Tento modul obsahuje většinu kódu pocházejícího z odoo v10 website_portal. Účelem tohoto modulu je umožnit zobrazení zákaznického portálu bez závislosti na možnostech úprav a přizpůsobení webu."
+"Tento modul obsahuje většinu kódu pocházejícího z swiss v10 website_portal. Účelem tohoto modulu je umožnit zobrazení zákaznického portálu bez závislosti na možnostech úprav a přizpůsobení webu."
 
 #. module: base
 #: model:ir.module.module,description:base.module_event_barcode
@@ -10616,7 +10616,7 @@ msgid "Allow visitors to join public mail channels"
 msgstr "Umožnit návštěvníkům připojit se k veřejným poštovním kanálům"
 
 #. module: base
-#: model:ir.module.module,summary:base.module_odoo_referral
+#: model:ir.module.module,summary:base.module_swiss_referral
 msgid "Allow you to refer your friends to SwissCRM and get rewards"
 msgstr "Umožní vám odkázat své přátele na SwissCRM a získat odměny"
 
@@ -11551,13 +11551,13 @@ msgstr "Základní modul: automatické čištění interních dat"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_grid
-msgid "Basic 2D Grid view for odoo"
-msgstr "Základní zobrazení 2D mřížky pro odoo"
+msgid "Basic 2D Grid view for swiss"
+msgstr "Základní zobrazení 2D mřížky pro swiss"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_cohort
-msgid "Basic Cohort view for odoo"
-msgstr "Základní pohled na kohortu pro odoo"
+msgid "Basic Cohort view for swiss"
+msgstr "Základní pohled na kohortu pro swiss"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_quality
@@ -14049,8 +14049,8 @@ msgstr "Definované přehledy"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_map
-msgid "Defines the map view for odoo enterprise"
-msgstr "Definuje zobrazení mapy pro podnik odoo"
+msgid "Defines the map view for swiss enterprise"
+msgstr "Definuje zobrazení mapy pro podnik swiss"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_model_constraint__definition
@@ -22226,12 +22226,12 @@ msgstr ""
 "Díky společnému psaní poznámek v reálném čase je to ideální nástroj pro spolupráci na zápisech z jednání. Účastníci budou moci přispívat do zápisu, přikládat důležité dokumenty nebo diskutovat v souvisejícím vlákně.\n"
 
 #. module: base
-#: model:ir.module.module,description:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,description:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen"
 msgstr "SwissCRM platby adyenem"
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,shortdesc:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen Payment Acquirer"
 msgstr "Platby SwissCRM od nabyvatele plateb adyen"
 
@@ -22541,7 +22541,7 @@ msgstr ""
 "\n"
 "Žádný výrobek ani objednávka nezůstane pozadu, kontrola zásob vám umožní spravovat zpětné objednávky, vrácení peněz, příjem výrobků a kontrolu kvality. Vyberte si správný způsob kontroly podle svých potřeb.\n"
 "\n"
-"Kontrolujte faktury dodavatelů bez námahy. Zvolte si správnou metodu podle své potřeby: předgenerujte návrhy faktur na základě objednávek, na základě příjmu výrobků, vytvářejte faktury ručně a importujte řádky z objednávek atd. odoo Supply Chain\n"
+"Kontrolujte faktury dodavatelů bez námahy. Zvolte si správnou metodu podle své potřeby: předgenerujte návrhy faktur na základě objednávek, na základě příjmu výrobků, vytvářejte faktury ručně a importujte řádky z objednávek atd. swiss Supply Chain\n"
 "-----------------\n"
 "\n"
 "Automatizujte objednávání až po zaplacení, kontrolujte fakturaci s open source systémem SwissCRM Supply Chain.\n"
@@ -23015,7 +23015,7 @@ msgstr ""
 "Pro pokračování je prosím vylučte z výběru. Tato PDF je možné stále načítat výběrem každého z dotčených záznamů zvlášť, čímž se sloučení vyhnete."
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_odoo_referral
+#: model:ir.module.module,shortdesc:base.module_swiss_referral
 msgid "SwissCRM referral program"
 msgstr "Program doporučení SwissCRM"
 
@@ -23384,7 +23384,7 @@ msgstr ""
 "\n"
 "Přidejte ke svým událostem formulář návrhu přednášky, který návštěvníkům umožní přednášet rozhovory a řečníky. Uspořádejte proces validace každé přednášky a snadno je tak naplánujte.\n"
 "\n"
-"Unikátní integrace frontendu a backendu odoo usnadňuje organizaci a publikaci. Snadno navrhněte krásné biografie řečníků a popisy jejich přednášek.\n"
+"Unikátní integrace frontendu a backendu swiss usnadňuje organizaci a publikaci. Snadno navrhněte krásné biografie řečníků a popisy jejich přednášek.\n"
 "\n"
 "Program a seznam přednášek\n"
 "------------------------\n"
@@ -24102,7 +24102,7 @@ msgid "Payment Acquirer: Ingenico Implementation"
 msgstr "Nabyvatel plateb: implementace ingenico"
 
 #. module: base
-#: model:ir.module.module,summary:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,summary:base.module_payment_swiss_by_adyen
 msgid "Payment Acquirer: SwissCRM Payments by Adyen"
 msgstr "Nabyvatel platby: SwissCRM platby adyenem"
 

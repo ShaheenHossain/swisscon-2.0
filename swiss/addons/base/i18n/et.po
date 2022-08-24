@@ -31,7 +31,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 13:50+0000\n"
 "PO-Revision-Date: 2020-09-07 08:09+0000\n"
 "Last-Translator: Oliver Ernest, 2021\n"
-"Language-Team: Estonian (https://www.transifex.com/odoo/teams/41243/et/)\n"
+"Language-Team: Estonian (https://www.transifex.com/swiss/teams/41243/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -464,7 +464,7 @@ msgid ""
 "\n"
 "* Fiscal positions '内税' and '外税' have been added to handle special requirements which might arise from POS implementation. [1]  Under normal circumstances, you might not need to use those at all.\n"
 "\n"
-"[1] See https://github.com/odoo/odoo/pull/6470 for detail.\n"
+"[1] See https://github.com/swiss/swiss/pull/6470 for detail.\n"
 "\n"
 "    "
 msgstr ""
@@ -481,7 +481,7 @@ msgstr ""
 "\n"
 "* Fiscal positions '内税' and '外税' have been added to handle special requirements which might arise from POS implementation. [1]  Under normal circumstances, you might not need to use those at all.\n"
 "\n"
-"[1] See https://github.com/odoo/odoo/pull/6470 for detail.\n"
+"[1] See https://github.com/swiss/swiss/pull/6470 for detail.\n"
 "\n"
 "    "
 
@@ -3843,7 +3843,7 @@ msgid ""
 "For auditing and troubleshooting purposes we also add a menu \"Consulit Invoice in AFIP\" that let us to consult invoices previously\n"
 "sent to AFIP and last number used as support for any possible issues on the sequences synchronization between SwissCRM and AFIP.\n"
 "\n"
-"    NOTE: From the Journal's form view we are able to force a sync between the odoo sequences to each of the document types in\n"
+"    NOTE: From the Journal's form view we are able to force a sync between the swiss sequences to each of the document types in\n"
 "    with the last numbers registered in AFIP.\n"
 "\n"
 "From vendor bills, we have added a functionality that can be configured in the accounting settings to be able to verify\n"
@@ -6398,7 +6398,7 @@ msgid ""
 "rejestrów podatkowych. Moduł ustawia też konta do kupna i sprzedaży towarów\n"
 "zakładając, że wszystkie towary są w obrocie hurtowym.\n"
 "\n"
-"Niniejszy moduł jest przeznaczony dla odoo 8.0.\n"
+"Niniejszy moduł jest przeznaczony dla swiss 8.0.\n"
 "Wewnętrzny numer wersji OpenGLOBE 1.02\n"
 "    "
 msgstr ""
@@ -6410,7 +6410,7 @@ msgstr ""
 "rejestrów podatkowych. Moduł ustawia też konta do kupna i sprzedaży towarów\n"
 "zakładając, że wszystkie towary są w obrocie hurtowym.\n"
 "\n"
-"Niniejszy moduł jest przeznaczony dla odoo 8.0.\n"
+"Niniejszy moduł jest przeznaczony dla swiss 8.0.\n"
 "Wewnętrzny numer wersji OpenGLOBE 1.02\n"
 "    "
 
@@ -6615,7 +6615,7 @@ msgid ""
 "will add their specific templates and controllers to extend the customer\n"
 "portal.\n"
 "\n"
-"This module contains most code coming from odoo v10 website_portal. Purpose\n"
+"This module contains most code coming from swiss v10 website_portal. Purpose\n"
 "of this module is to allow the display of a customer portal without having\n"
 "a dependency towards website editing and customization capabilities."
 msgstr ""
@@ -9470,7 +9470,7 @@ msgid "Allow visitors to join public mail channels"
 msgstr "Lubage külastajatel ühineda avalike postikanalitega. "
 
 #. module: base
-#: model:ir.module.module,summary:base.module_odoo_referral
+#: model:ir.module.module,summary:base.module_swiss_referral
 msgid "Allow you to refer your friends to SwissCRM and get rewards"
 msgstr "Lubage suunata oma sõbrad SwissCRMsse ja hüvesid saada. "
 
@@ -10388,12 +10388,12 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_grid
-msgid "Basic 2D Grid view for odoo"
+msgid "Basic 2D Grid view for swiss"
 msgstr ""
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_cohort
-msgid "Basic Cohort view for odoo"
+msgid "Basic Cohort view for swiss"
 msgstr ""
 
 #. module: base
@@ -12842,7 +12842,7 @@ msgstr "Määratletud aruanded"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_map
-msgid "Defines the map view for odoo enterprise"
+msgid "Defines the map view for swiss enterprise"
 msgstr ""
 
 #. module: base
@@ -20361,12 +20361,12 @@ msgid ""
 msgstr ""
 
 #. module: base
-#: model:ir.module.module,description:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,description:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen"
 msgstr "SwissCRM maksed Adyeniga"
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,shortdesc:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen Payment Acquirer"
 msgstr "Aydeni pangalingiga SwissCRM maksed "
 
@@ -20865,7 +20865,7 @@ msgid ""
 msgstr ""
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_odoo_referral
+#: model:ir.module.module,shortdesc:base.module_swiss_referral
 msgid "SwissCRM referral program"
 msgstr "SwissCRM saateprogramm"
 
@@ -21802,7 +21802,7 @@ msgid "Payment Acquirer: Ingenico Implementation"
 msgstr "Makse saaja: Ingenico rakendamine"
 
 #. module: base
-#: model:ir.module.module,summary:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,summary:base.module_payment_swiss_by_adyen
 msgid "Payment Acquirer: SwissCRM Payments by Adyen"
 msgstr "Makse saaja: Adyeni SwissCRM maksed"
 
@@ -27630,7 +27630,7 @@ msgid ""
 "Views allows you to personalize each view of SwissCRM. You can add new fields, "
 "move fields, rename them or delete the ones that you do not need."
 msgstr ""
-"Vaated võimaldab teil igat vaadet odoos isikustada. Saate lisada uusi välju,"
+"Vaated võimaldab teil igat vaadet swisss isikustada. Saate lisada uusi välju,"
 " liigutada välju, neid ümber nimetada või kustutada välju, mida teil vaja "
 "pole. "
 

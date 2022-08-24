@@ -6,7 +6,7 @@ Index: addons/openacademy/models.py
 +++ addons/openacademy/models.py
 @@ -2,7 +2,9 @@
  
- from odoo import models, fields, api
+ from swiss import models, fields, api
  
 -# class openacademy(models.Model):
 -#     _name = 'openacademy.openacademy'

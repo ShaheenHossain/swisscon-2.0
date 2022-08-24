@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Fredrik Ahlsen <fredrik@gdx.no>, 2020
-# Andy Schønhaug <odoo@cypodgroup.com>, 2020
+# Andy Schønhaug <swiss@cypodgroup.com>, 2020
 # Jan Pedro Tumusok <jpt@eyenetworks.no>, 2020
 # Aleksander, 2020
 # Jorunn D. Newth, 2020
@@ -18,7 +18,7 @@ msgstr ""
 "POT-Creation-Date: 2020-12-04 15:13+0000\n"
 "PO-Revision-Date: 2020-09-07 08:20+0000\n"
 "Last-Translator: Marius Stedjan <marius@stedjan.com>, 2021\n"
-"Language-Team: Norwegian Bokmål (https://www.transifex.com/odoo/teams/41243/nb/)\n"
+"Language-Team: Norwegian Bokmål (https://www.transifex.com/swiss/teams/41243/nb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"

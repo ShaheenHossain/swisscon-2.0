@@ -190,12 +190,12 @@ copy_iot () {
     sed -i 's| init=/usr/lib/raspi-config/init_resize.sh||' /boot/cmdline.txt
 
     # Modify startup
-    mkdir -v odoo
-    mount -v "${PART_IOTBOX_ROOT}" odoo
-    cp -v /home/pi/upgrade.sh odoo/home/pi/
-    NBR_LIGNE=$(sed -n -e '$=' odoo/etc/rc.local)
-    sed -ie "${NBR_LIGNE}"'i\. /home/pi/upgrade.sh; clean_local' odoo/etc/rc.local
-    find /home/pi/config -maxdepth 1 -type f ! -name ".*" -exec cp {} odoo/home/pi/ \;
+    mkdir -v swiss
+    mount -v "${PART_IOTBOX_ROOT}" swiss
+    cp -v /home/pi/upgrade.sh swiss/home/pi/
+    NBR_LIGNE=$(sed -n -e '$=' swiss/etc/rc.local)
+    sed -ie "${NBR_LIGNE}"'i\. /home/pi/upgrade.sh; clean_local' swiss/etc/rc.local
+    find /home/pi/config -maxdepth 1 -type f ! -name ".*" -exec cp {} swiss/home/pi/ \;
 
     reboot
 }

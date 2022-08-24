@@ -18,7 +18,7 @@ Index: foo/openacademy/reports.xml
 --- /dev/null
 +++ foo/openacademy/reports.xml
 @@ -0,0 +1,32 @@
-+<odoo>
++<swiss>
 +
 +    <record id="report_session" model="ir.actions.report">
 +        <field name="name">Session Report</field>
@@ -49,4 +49,4 @@ Index: foo/openacademy/reports.xml
 +        </t>
 +    </template>
 +
-+</odoo>
++</swiss>

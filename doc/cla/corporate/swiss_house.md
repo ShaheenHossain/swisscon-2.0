@@ -8,8 +8,8 @@ declaration.
 
 Signed,
 
-Henning Dinsen henning@odoohouse.dk https://github.com/odoohouse
+Henning Dinsen henning@swisshouse.dk https://github.com/swisshouse
 
 List of contributors:
 
-Henning Dinsen henning@odoohouse.dk https://github.com/odoohouse
+Henning Dinsen henning@swisshouse.dk https://github.com/swisshouse

@@ -13,4 +13,4 @@ Sainu Abideen sainu@cybrosys.com https://github.com/CybroOdoo
 List of contributors:
 
 Sainu Abideen sainu@cybrosys.com https://github.com/CybroOdoo
-Cybrosys odoo@cybrosys.com https://github.com/CybroOdoo
+Cybrosys swiss@cybrosys.com https://github.com/CybroOdoo

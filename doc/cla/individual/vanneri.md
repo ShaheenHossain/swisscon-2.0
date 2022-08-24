@@ -8,4 +8,4 @@ declaration.
 
 Signed,
 
-Vishnu Vanneri vanneri.odoodev@gmail.com https://github.com/Vanneri
+Vishnu Vanneri vanneri.swissdev@gmail.com https://github.com/Vanneri

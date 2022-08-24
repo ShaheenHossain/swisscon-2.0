@@ -17,7 +17,7 @@
 # Fabien Pinckaers <fp@swissconsultings.ch>, 2020
 # Agathe Mollé <molleagathe@gmail.com>, 2020
 # Nicolas Roussey <nro@swissconsultings.ch>, 2020
-# user 2 odoo <user2odoo@gmail.com>, 2020
+# user 2 swiss <user2swiss@gmail.com>, 2020
 # Aurore Lesage, 2020
 # William Olhasque <william.olhasque@scopea.fr>, 2020
 # Nathan Grognet <ngr@swissconsultings.ch>, 2020
@@ -47,7 +47,7 @@
 # William Braeckman <williambraeckman@yahoo.fr>, 2021
 # Alexandra Jubert <aju@swissconsultings.ch>, 2021
 # Vallen Delobel <edv@swissconsultings.ch>, 2021
-# sakodoo <sak@swissconsultings.ch>, 2021
+# sakswiss <sak@swissconsultings.ch>, 2021
 # Cécile Collart <cco@swissconsultings.ch>, 2021
 # 
 msgid ""
@@ -57,7 +57,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-16 13:33+0000\n"
 "PO-Revision-Date: 2020-09-07 08:22+0000\n"
 "Last-Translator: Cécile Collart <cco@swissconsultings.ch>, 2021\n"
-"Language-Team: French (https://www.transifex.com/odoo/teams/41243/fr/)\n"
+"Language-Team: French (https://www.transifex.com/swiss/teams/41243/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"

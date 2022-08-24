@@ -9,7 +9,7 @@ diff --git a/openacademy/models.py b/openacademy/models.py
  # -*- coding: utf-8 -*-
  
 +from datetime import timedelta
- from odoo import models, fields, api, exceptions
+ from swiss import models, fields, api, exceptions
  
  class Course(models.Model):
 @@ -57,6 +58,8 @@ class Session(models.Model):

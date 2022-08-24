@@ -6,4 +6,4 @@ I declare that I am authorized and able to make this agreement and sign this dec
 
 Signed,
 
-Turkesh Patel turkesh4friends@gmail.com https://github.com/tpa-odoo
+Turkesh Patel turkesh4friends@gmail.com https://github.com/tpa-swiss

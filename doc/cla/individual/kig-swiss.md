@@ -8,4 +8,4 @@ declaration.
 
 Signed,
 
-Kishan Gajjar kishanegajjar@gmail.com https://github.com/kig-odoo
+Kishan Gajjar kishanegajjar@gmail.com https://github.com/kig-swiss

@@ -5,7 +5,7 @@
 # Translators:
 # Thijs van Oers <thijsvanoers@yahoo.com>, 2020
 # Eric Geens <eric.geens@vitabiz.be>, 2020
-# Julia van Orsouw <julia@odooexperts.nl>, 2020
+# Julia van Orsouw <julia@swissexperts.nl>, 2020
 # Cas Vissers <c.vissers@brahoo.nl>, 2020
 # Melroy van den Berg <webmaster1989@gmail.com>, 2020
 # Cas Vissers <casvissers@brahoo.nl>, 2020
@@ -15,8 +15,8 @@
 # Martin Trigaux, 2020
 # Maxim Vandenbroucke <mxv@swissconsultings.ch>, 2020
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2020
-# SwissCRM Experts Consultants <consultants@odooexperts.nl>, 2021
-# Erwin van der Ploeg <erwin@odooexperts.nl>, 2021
+# SwissCRM Experts Consultants <consultants@swissexperts.nl>, 2021
+# Erwin van der Ploeg <erwin@swissexperts.nl>, 2021
 # 
 msgid ""
 msgstr ""
@@ -24,8 +24,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 13:50+0000\n"
 "PO-Revision-Date: 2020-09-07 08:09+0000\n"
-"Last-Translator: Erwin van der Ploeg <erwin@odooexperts.nl>, 2021\n"
-"Language-Team: Dutch (https://www.transifex.com/odoo/teams/41243/nl/)\n"
+"Last-Translator: Erwin van der Ploeg <erwin@swissexperts.nl>, 2021\n"
+"Language-Team: Dutch (https://www.transifex.com/swiss/teams/41243/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -469,7 +469,7 @@ msgid ""
 "\n"
 "* Fiscal positions '内税' and '外税' have been added to handle special requirements which might arise from POS implementation. [1]  Under normal circumstances, you might not need to use those at all.\n"
 "\n"
-"[1] See https://github.com/odoo/odoo/pull/6470 for detail.\n"
+"[1] See https://github.com/swiss/swiss/pull/6470 for detail.\n"
 "\n"
 "    "
 msgstr ""
@@ -486,7 +486,7 @@ msgstr ""
 "\n"
 "* Fiscale posities '内税' en '外税' werden toegevoegd om speciale vereisten af te handelen die ook bij een kassa-implementatie zouden kunnen ontstaan. [1]  In normale omstandigheden zou het echter mogelijk moeten zijn om ze helemaal niet te gebruiken.\n"
 "\n"
-"[1] Zie https://github.com/odoo/odoo/pull/6470 voor meer details.\n"
+"[1] Zie https://github.com/swiss/swiss/pull/6470 voor meer details.\n"
 "\n"
 "    "
 
@@ -4138,7 +4138,7 @@ msgid ""
 "For auditing and troubleshooting purposes we also add a menu \"Consulit Invoice in AFIP\" that let us to consult invoices previously\n"
 "sent to AFIP and last number used as support for any possible issues on the sequences synchronization between SwissCRM and AFIP.\n"
 "\n"
-"    NOTE: From the Journal's form view we are able to force a sync between the odoo sequences to each of the document types in\n"
+"    NOTE: From the Journal's form view we are able to force a sync between the swiss sequences to each of the document types in\n"
 "    with the last numbers registered in AFIP.\n"
 "\n"
 "From vendor bills, we have added a functionality that can be configured in the accounting settings to be able to verify\n"
@@ -4207,7 +4207,7 @@ msgstr ""
 "Voor audit- en probleemoplossingsdoeleinden voegen we ook een menu \"Consulitfactuur in AFIP\" toe waarmee we eerder facturen kunnen raadplegen\n"
 "verzonden naar AFIP en laatste nummer gebruikt als ondersteuning voor mogelijke problemen met de synchronisatie van de sequenties tussen SwissCRM en AFIP.\n"
 "\n"
-"OPMERKING: Vanuit de formulierweergave van het Journal zijn we in staat om een ​​synchronisatie tussen de odoo-reeksen naar elk van de documenttypen in\n"
+"OPMERKING: Vanuit de formulierweergave van het Journal zijn we in staat om een ​​synchronisatie tussen de swiss-reeksen naar elk van de documenttypen in\n"
 "met de laatste nummers geregistreerd in AFIP.\n"
 "\n"
 "Van leveranciersfacturen hebben we een functionaliteit toegevoegd die kan worden geconfigureerd in de boekhoudinstellingen om te kunnen verifiëren\n"
@@ -7438,7 +7438,7 @@ msgid ""
 "rejestrów podatkowych. Moduł ustawia też konta do kupna i sprzedaży towarów\n"
 "zakładając, że wszystkie towary są w obrocie hurtowym.\n"
 "\n"
-"Niniejszy moduł jest przeznaczony dla odoo 8.0.\n"
+"Niniejszy moduł jest przeznaczony dla swiss 8.0.\n"
 "Wewnętrzny numer wersji OpenGLOBE 1.02\n"
 "    "
 msgstr ""
@@ -7450,7 +7450,7 @@ msgstr ""
 "rejestrów podatkowych. Moduł ustawia też konta do kupna i sprzedaży towarów\n"
 "zakładając, że wszystkie towary są w obrocie hurtowym.\n"
 "\n"
-"Niniejszy moduł jest przeznaczony dla odoo 8.0.\n"
+"Niniejszy moduł jest przeznaczony dla swiss 8.0.\n"
 "Wewnętrzny numer wersji OpenGLOBE 1.02"
 
 #. module: base
@@ -7677,7 +7677,7 @@ msgid ""
 "will add their specific templates and controllers to extend the customer\n"
 "portal.\n"
 "\n"
-"This module contains most code coming from odoo v10 website_portal. Purpose\n"
+"This module contains most code coming from swiss v10 website_portal. Purpose\n"
 "of this module is to allow the display of a customer portal without having\n"
 "a dependency towards website editing and customization capabilities."
 msgstr ""
@@ -7687,7 +7687,7 @@ msgstr ""
 "zullen hun specifieke sjablonen en controllers toevoegen om de klant uit te breiden\n"
 "portaal.\n"
 "\n"
-"Deze module bevat de meeste code die afkomstig is van odoo v10 website_portal. Doel\n"
+"Deze module bevat de meeste code die afkomstig is van swiss v10 website_portal. Doel\n"
 "van deze module is om de weergave van een klantenportaal mogelijk te maken zonder\n"
 "een afhankelijkheid van mogelijkheden voor het bewerken en aanpassen van websites."
 
@@ -11121,7 +11121,7 @@ msgid "Allow visitors to join public mail channels"
 msgstr "Toestaan dat bezoekers zich aansluiten bij openbare e-mailkanalen"
 
 #. module: base
-#: model:ir.module.module,summary:base.module_odoo_referral
+#: model:ir.module.module,summary:base.module_swiss_referral
 msgid "Allow you to refer your friends to SwissCRM and get rewards"
 msgstr "Sta toe dat u uw vrienden naar SwissCRM verwijst en beloningen ontvangt"
 
@@ -12055,12 +12055,12 @@ msgstr "Base: auto-vacuum interne data"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_grid
-msgid "Basic 2D Grid view for odoo"
+msgid "Basic 2D Grid view for swiss"
 msgstr "Basis 2D matrixweergave voor SwissCRM"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_cohort
-msgid "Basic Cohort view for odoo"
+msgid "Basic Cohort view for swiss"
 msgstr "Basis cohort weergave voor SwissCRM"
 
 #. module: base
@@ -14571,8 +14571,8 @@ msgstr "Gedefineerde rapportages"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_map
-msgid "Defines the map view for odoo enterprise"
-msgstr "Definieert de kaartweergave voor odoo enterprise"
+msgid "Defines the map view for swiss enterprise"
+msgstr "Definieert de kaartweergave voor swiss enterprise"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_model_constraint__definition
@@ -22969,12 +22969,12 @@ msgstr ""
 "De realtime gezamenlijke geschriften op notities maken het de perfecte tool om samen te werken aan vergadernotulen. Deelnemers kunnen bijdragen aan de notulen, belangrijke documenten bijvoegen of discussiëren over de gerelateerde thread.\n"
 
 #. module: base
-#: model:ir.module.module,description:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,description:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen"
 msgstr "SwissCRM Payments by Adyen"
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,shortdesc:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen Payment Acquirer"
 msgstr "SwissCRM Payments by Adyen betaalprovider"
 
@@ -23911,7 +23911,7 @@ msgstr ""
 "Sluit ze uit van de selectie om door te gaan. Het is mogelijk om die pdf's nog steeds op te halen door elk van de betrokken records afzonderlijk te selecteren, waardoor samenvoeging wordt voorkomen."
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_odoo_referral
+#: model:ir.module.module,shortdesc:base.module_swiss_referral
 msgid "SwissCRM referral program"
 msgstr "SwissCRM verwijzingsprogramma"
 
@@ -25003,7 +25003,7 @@ msgid "Payment Acquirer: Ingenico Implementation"
 msgstr "Betalingsverwerker: Ingenico implementatie"
 
 #. module: base
-#: model:ir.module.module,summary:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,summary:base.module_payment_swiss_by_adyen
 msgid "Payment Acquirer: SwissCRM Payments by Adyen"
 msgstr "Payment Acquirer: SwissCRM Payments door Adyen"
 

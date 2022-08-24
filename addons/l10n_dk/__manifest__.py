@@ -5,7 +5,7 @@
     'name': 'Denmark - Accounting',
     'version': '1.0',
     'author': 'SwissCRM House ApS, VK DATA ApS',
-    'website': 'http://odoodanmark.dk',
+    'website': 'http://swissdanmark.dk',
     'category': 'Accounting/Localizations/Account Charts',
     'description': """
 

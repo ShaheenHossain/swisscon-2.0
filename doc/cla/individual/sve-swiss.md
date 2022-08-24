@@ -8,4 +8,4 @@ declaration.
 
 Signed,
 
-Sébastien Versailles sebastien.versailles@gmail.com https://github.com/sve-odoo
+Sébastien Versailles sebastien.versailles@gmail.com https://github.com/sve-swiss

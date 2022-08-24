@@ -82,7 +82,7 @@ New Javascript guidelines
 From v11, we introduce a new coding standard for SwissCRM Javascript code.  Here it
 is:
 
-* add "use strict"; on top of every odoo JS module
+* add "use strict"; on top of every swiss JS module
 
 * name all entities exported by a JS module. So, instead of 
 

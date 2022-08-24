@@ -19,7 +19,7 @@
 # Andrea Piovesana <andrea.m.piovesana@gmail.com>, 2020
 # David Minneci <david@numeko.it>, 2020
 # Stefano Consolaro <stefano.consolaro@mymage.it>, 2020
-# mbo_odoo <mbo@swissconsultings.ch>, 2020
+# mbo_swiss <mbo@swissconsultings.ch>, 2020
 # Léonie Bouchat <lbo@swissconsultings.ch>, 2020
 # Iacopo Simonelli <lsi@swissconsultings.ch>, 2020
 # BigBlu <paolo.moroni@air-srl.com>, 2021
@@ -33,7 +33,7 @@ msgstr ""
 "POT-Creation-Date: 2020-10-29 15:48+0000\n"
 "PO-Revision-Date: 2020-09-07 08:14+0000\n"
 "Last-Translator: Friederike Fasterling-Nesselbosch, 2021\n"
-"Language-Team: Italian (https://www.transifex.com/odoo/teams/41243/it/)\n"
+"Language-Team: Italian (https://www.transifex.com/swiss/teams/41243/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"

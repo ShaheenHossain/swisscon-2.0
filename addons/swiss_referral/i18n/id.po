@@ -1,6 +1,6 @@
 # Translation of SwissCRM Server.
 # This file contains the translation of the following modules:
-# 	* odoo_referral
+# 	* swiss_referral
 # 
 # Translators:
 # Martin Trigaux, 2020
@@ -14,16 +14,16 @@ msgstr ""
 "POT-Creation-Date: 2020-09-29 13:45+0000\n"
 "PO-Revision-Date: 2020-10-05 06:33+0000\n"
 "Last-Translator: Altela Eleviansyah Pramardhika <altela_pramardhika@yahoo.com>, 2021\n"
-"Language-Team: Indonesian (https://www.transifex.com/odoo/teams/41243/id/)\n"
+"Language-Team: Indonesian (https://www.transifex.com/swiss/teams/41243/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#. module: odoo_referral
+#. module: swiss_referral
 #. openerp-web
-#: code:addons/odoo_referral/static/src/js/systray.js:0
+#: code:addons/swiss_referral/static/src/js/systray.js:0
 #, python-format
 msgid ""
 "A popup window has been blocked. You may need to change your browser "
@@ -32,30 +32,30 @@ msgstr ""
 "Jendela pop up terblokir. Anda harus mengubah pengaturan browser untuk "
 "mengizinkan jendela pop up untuk halaman ini."
 
-#. module: odoo_referral
-#: model:ir.model.fields,field_description:odoo_referral.field_res_users__display_name
+#. module: swiss_referral
+#: model:ir.model.fields,field_description:swiss_referral.field_res_users__display_name
 msgid "Display Name"
 msgstr "Nama Tampilan"
 
-#. module: odoo_referral
-#: model:ir.model.fields,field_description:odoo_referral.field_res_users__id
+#. module: swiss_referral
+#: model:ir.model.fields,field_description:swiss_referral.field_res_users__id
 msgid "ID"
 msgstr "ID"
 
-#. module: odoo_referral
-#: model:ir.model.fields,field_description:odoo_referral.field_res_users____last_update
+#. module: swiss_referral
+#: model:ir.model.fields,field_description:swiss_referral.field_res_users____last_update
 msgid "Last Modified on"
 msgstr "Terakhir diubah pada"
 
-#. module: odoo_referral
+#. module: swiss_referral
 #. openerp-web
-#: code:addons/odoo_referral/static/src/xml/systray.xml:0
-#: code:addons/odoo_referral/static/src/xml/systray.xml:0
+#: code:addons/swiss_referral/static/src/xml/systray.xml:0
+#: code:addons/swiss_referral/static/src/xml/systray.xml:0
 #, python-format
 msgid "SwissCRM Referral Program"
 msgstr ""
 
-#. module: odoo_referral
-#: model:ir.model,name:odoo_referral.model_res_users
+#. module: swiss_referral
+#: model:ir.model,name:swiss_referral.model_res_users
 msgid "Users"
 msgstr "Pengguna"

@@ -20,7 +20,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 13:50+0000\n"
 "PO-Revision-Date: 2020-09-07 08:09+0000\n"
 "Last-Translator: 敬雲 林 <chingyun@yuanchih-consult.com>, 2022\n"
-"Language-Team: Chinese (Taiwan) (https://www.transifex.com/odoo/teams/41243/zh_TW/)\n"
+"Language-Team: Chinese (Taiwan) (https://www.transifex.com/swiss/teams/41243/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -463,7 +463,7 @@ msgid ""
 "\n"
 "* Fiscal positions '内税' and '外税' have been added to handle special requirements which might arise from POS implementation. [1]  Under normal circumstances, you might not need to use those at all.\n"
 "\n"
-"[1] See https://github.com/odoo/odoo/pull/6470 for detail.\n"
+"[1] See https://github.com/swiss/swiss/pull/6470 for detail.\n"
 "\n"
 "    "
 msgstr ""
@@ -479,7 +479,7 @@ msgstr ""
 "\n"
 "• 已增加\"+\"和\"*\"的會計頭寸，以處理 POS 實施可能產生的特殊要求。[1] 在正常情況下，您可能根本不需要使用它們。\n"
 "\n"
-"[1] 有關詳細資訊，請參閱HTTPs://github.com/odoo/odoo/pull/6470 "
+"[1] 有關詳細資訊，請參閱HTTPs://github.com/swiss/swiss/pull/6470 "
 
 #. module: base
 #: code:addons/base/models/res_config.py:0
@@ -4152,7 +4152,7 @@ msgid ""
 "For auditing and troubleshooting purposes we also add a menu \"Consulit Invoice in AFIP\" that let us to consult invoices previously\n"
 "sent to AFIP and last number used as support for any possible issues on the sequences synchronization between SwissCRM and AFIP.\n"
 "\n"
-"    NOTE: From the Journal's form view we are able to force a sync between the odoo sequences to each of the document types in\n"
+"    NOTE: From the Journal's form view we are able to force a sync between the swiss sequences to each of the document types in\n"
 "    with the last numbers registered in AFIP.\n"
 "\n"
 "From vendor bills, we have added a functionality that can be configured in the accounting settings to be able to verify\n"
@@ -4218,7 +4218,7 @@ msgstr ""
 "出於審計和故障排除目的，我們還增加了一個功能表\"在 AFIP 中諮詢票據\"，讓我們可以查閱先前發送到 AFIP 的票據和用作支援 SwissCRM 和 AFIP 之間序列同步的任何可能問題的最後一個號碼.\n"
 "\n"
 "    注意：從日誌的表單視圖中，我們可以強制同步\n"
-" 在每個文檔類型的 odoo 序列之間使用 AFIP 中登記的最後一個數字.\n"
+" 在每個文檔類型的 swiss 序列之間使用 AFIP 中登記的最後一個數字.\n"
 "\n"
 "從供應商賬單中，我們增加了一個功能，可以\n"
 " 在會計設定中設定能夠驗證 AFIP 中的供應商賬單以檢查供應商賬單是否真實 (更多訊息請查看設定說明).\n"
@@ -7433,7 +7433,7 @@ msgid ""
 "rejestrów podatkowych. Moduł ustawia też konta do kupna i sprzedaży towarów\n"
 "zakładając, że wszystkie towary są w obrocie hurtowym.\n"
 "\n"
-"Niniejszy moduł jest przeznaczony dla odoo 8.0.\n"
+"Niniejszy moduł jest przeznaczony dla swiss 8.0.\n"
 "Wewnętrzny numer wersji OpenGLOBE 1.02\n"
 "    "
 msgstr ""
@@ -7676,7 +7676,7 @@ msgid ""
 "will add their specific templates and controllers to extend the customer\n"
 "portal.\n"
 "\n"
-"This module contains most code coming from odoo v10 website_portal. Purpose\n"
+"This module contains most code coming from swiss v10 website_portal. Purpose\n"
 "of this module is to allow the display of a customer portal without having\n"
 "a dependency towards website editing and customization capabilities."
 msgstr ""
@@ -7684,7 +7684,7 @@ msgstr ""
 "此模組為完全整合的客戶門戶增加所需的基本代碼.\n"
 "它包含基本控制器類和基本模板. 業務外掛將增加其特定模板和控制器以延伸客戶門戶.\n"
 "\n"
-"該模組包含來自 odoo v10 website_portal 的大部分程式碼. 該模組的目的是允許在不依賴網站編輯和自定義功能的情況下顯示客戶門戶."
+"該模組包含來自 swiss v10 website_portal 的大部分程式碼. 該模組的目的是允許在不依賴網站編輯和自定義功能的情況下顯示客戶門戶."
 
 #. module: base
 #: model:ir.module.module,description:base.module_event_barcode
@@ -11067,7 +11067,7 @@ msgid "Allow visitors to join public mail channels"
 msgstr "允許存取者加入公共郵件渠道"
 
 #. module: base
-#: model:ir.module.module,summary:base.module_odoo_referral
+#: model:ir.module.module,summary:base.module_swiss_referral
 msgid "Allow you to refer your friends to SwissCRM and get rewards"
 msgstr ""
 
@@ -11977,12 +11977,12 @@ msgstr "基礎:自動清理內部資料"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_grid
-msgid "Basic 2D Grid view for odoo"
+msgid "Basic 2D Grid view for swiss"
 msgstr "基本的2D矩陣視圖"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_cohort
-msgid "Basic Cohort view for odoo"
+msgid "Basic Cohort view for swiss"
 msgstr "SwissCRM的基本同類視圖"
 
 #. module: base
@@ -14444,8 +14444,8 @@ msgstr "定義的報告"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_map
-msgid "Defines the map view for odoo enterprise"
-msgstr "定義 odoo 企業板的地圖視圖"
+msgid "Defines the map view for swiss enterprise"
+msgstr "定義 swiss 企業板的地圖視圖"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_model_constraint__definition
@@ -18379,7 +18379,7 @@ msgstr "已安裝的版本"
 #. module: base
 #: model:ir.module.module,description:base.module_bus
 msgid "Instant Messaging Bus allow you to send messages to users, in live."
-msgstr "您可以通過即時訊息給使用者發送線上即時資訊，類似Line，但限於odoo的web框架內。"
+msgstr "您可以通過即時訊息給使用者發送線上即時資訊，類似Line，但限於swiss的web框架內。"
 
 #. module: base
 #: code:addons/models.py:0
@@ -22605,12 +22605,12 @@ msgid ""
 msgstr ""
 
 #. module: base
-#: model:ir.module.module,description:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,description:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen"
 msgstr ""
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,shortdesc:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen Payment Acquirer"
 msgstr ""
 
@@ -23176,7 +23176,7 @@ msgstr ""
 "請從選擇中排除它們以繼續。通過單獨選擇每個受影響的記錄，仍然可以檢索這些 PDF，這將避免合併。"
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_odoo_referral
+#: model:ir.module.module,shortdesc:base.module_swiss_referral
 msgid "SwissCRM referral program"
 msgstr ""
 
@@ -24253,7 +24253,7 @@ msgid "Payment Acquirer: Ingenico Implementation"
 msgstr ""
 
 #. module: base
-#: model:ir.module.module,summary:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,summary:base.module_payment_swiss_by_adyen
 msgid "Payment Acquirer: SwissCRM Payments by Adyen"
 msgstr ""
 
@@ -29956,7 +29956,7 @@ msgstr "視圖"
 msgid ""
 "Views allows you to personalize each view of SwissCRM. You can add new fields, "
 "move fields, rename them or delete the ones that you do not need."
-msgstr "視圖允許您個性化odoo的每一個視圖。您能增加新欄位，移動欄位，重命名欄位，或者刪除您不需要的欄位。"
+msgstr "視圖允許您個性化swiss的每一個視圖。您能增加新欄位，移動欄位，重命名欄位，或者刪除您不需要的欄位。"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_ui_view__inherit_children_ids

@@ -17,7 +17,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 11:24+0000\n"
 "PO-Revision-Date: 2020-09-07 08:14+0000\n"
 "Last-Translator: Wojciech Warczakowski <w.warczakowski@gmail.com>, 2021\n"
-"Language-Team: Polish (https://www.transifex.com/odoo/teams/41243/pl/)\n"
+"Language-Team: Polish (https://www.transifex.com/swiss/teams/41243/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -35,7 +35,7 @@ msgstr ""
 "Jesteś dla mnie zbyt ludzki! Bądźmy profesjonalni ❤️"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__disabled
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__disabled
 msgid "Disabled"
 msgstr "Wyłączone"
 
@@ -63,10 +63,10 @@ msgstr "Wątek email"
 #, python-format
 msgid ""
 "Great! 👍<br/>To access special commands, <b>start your sentence with</b> "
-"<span class=\"o_odoobot_command\">/</span>. Try getting help."
+"<span class=\"o_swissbot_command\">/</span>. Try getting help."
 msgstr ""
 "Świetnie! 👍<br/>Aby uzyskać dostęp do specjalnych poleceń, <b>zacznij zdanie"
-" od</b> <span class=\"o_odoobot_command\">/</span>. Spróbuj uzyskać pomoc."
+" od</b> <span class=\"o_swissbot_command\">/</span>. Spróbuj uzyskać pomoc."
 
 #. module: mail_bot
 #: model:ir.model,name:mail_bot.model_ir_http
@@ -79,11 +79,11 @@ msgstr "Wytyczanie HTTP"
 msgid ""
 "Hello,<br/>SwissCRM's chat helps employees collaborate efficiently. I'm here to "
 "help you discover its features.<br/><b>Try to send me an emoji</b> <span "
-"class=\"o_odoobot_command\">:)</span>"
+"class=\"o_swissbot_command\">:)</span>"
 msgstr ""
 "Cześć,<br/>czat SwissCRM pomaga pracownikom wydajnie współpracować. Jestem tu, "
 "aby pomóc Ci odkryć jego funkcje.<br/><b>Wyślij mi emoji</b> <span "
-"class=\"o_odoobot_command\">:)</span>"
+"class=\"o_swissbot_command\">:)</span>"
 
 #. module: mail_bot
 #: code:addons/mail_bot/models/mail_bot.py:0
@@ -114,7 +114,7 @@ msgstr "Obawiam się, że nie rozumiem. Przepraszam!"
 #, python-format
 msgid ""
 "I'm not smart enough to answer your question.<br/>To follow my guide, ask: "
-"<span class=\"o_odoobot_command\">start the tour</span>."
+"<span class=\"o_swissbot_command\">start the tour</span>."
 msgstr ""
 
 #. module: mail_bot
@@ -127,7 +127,7 @@ msgid "ID"
 msgstr "ID"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__idle
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__idle
 msgid "Idle"
 msgstr "Bezczynny"
 
@@ -150,11 +150,11 @@ msgstr "Bot poczty"
 #, python-format
 msgid ""
 "Not exactly. To continue the tour, send an emoji: <b>type</b> <span "
-"class=\"o_odoobot_command\">:)</span> and press enter."
+"class=\"o_swissbot_command\">:)</span> and press enter."
 msgstr ""
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__not_initialized
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__not_initialized
 msgid "Not initialized"
 msgstr "Nie zainicjowano"
 
@@ -163,37 +163,37 @@ msgstr "Nie zainicjowano"
 #, python-format
 msgid ""
 "Not sure what you are doing. Please, type <span "
-"class=\"o_odoobot_command\">/</span> and wait for the propositions. Select "
-"<span class=\"o_odoobot_command\">help</span> and press enter"
+"class=\"o_swissbot_command\">/</span> and wait for the propositions. Select "
+"<span class=\"o_swissbot_command\">help</span> and press enter"
 msgstr ""
 
 #. module: mail_bot
-#: model:ir.model.fields,field_description:mail_bot.field_res_users__odoobot_state
+#: model:ir.model.fields,field_description:mail_bot.field_res_users__swissbot_state
 msgid "SwissCRMBot Status"
 msgstr "Status SwissCRMBot"
 
 #. module: mail_bot
-#: model:ir.model.fields,field_description:mail_bot.field_res_users__odoobot_failed
+#: model:ir.model.fields,field_description:mail_bot.field_res_users__swissbot_failed
 msgid "SwissCRMbot Failed"
 msgstr ""
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__onboarding_attachement
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__onboarding_attachement
 msgid "Onboarding attachement"
 msgstr "Wdrażanie załącznika"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__onboarding_command
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__onboarding_command
 msgid "Onboarding command"
 msgstr "Wdrażanie komend"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__onboarding_emoji
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__onboarding_emoji
 msgid "Onboarding emoji"
 msgstr "Wdrażanie emotikon"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__onboarding_ping
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__onboarding_ping
 msgid "Onboarding ping"
 msgstr "Wdrażanie pingów"
 
@@ -203,7 +203,7 @@ msgstr "Wdrażanie pingów"
 msgid ""
 "Sorry I'm sleepy. Or not! Maybe I'm just trying to hide my unawareness of "
 "human language...<br/>I can show you features if you write: <span "
-"class=\"o_odoobot_command\">start the tour</span>."
+"class=\"o_swissbot_command\">start the tour</span>."
 msgstr ""
 
 #. module: mail_bot
@@ -211,7 +211,7 @@ msgstr ""
 #, python-format
 msgid ""
 "Sorry, I am not listening. To get someone's attention, <b>ping him</b>. "
-"Write <span class=\"o_odoobot_command\">@SwissCRMBot</span> and select me."
+"Write <span class=\"o_swissbot_command\">@SwissCRMBot</span> and select me."
 msgstr ""
 
 #. module: mail_bot
@@ -256,10 +256,10 @@ msgstr "Użytkownicy"
 msgid ""
 "Wow you are a natural!<br/>Ping someone with @username to grab their "
 "attention. <b>Try to ping me using</b> <span "
-"class=\"o_odoobot_command\">@SwissCRMBot</span> in a sentence."
+"class=\"o_swissbot_command\">@SwissCRMBot</span> in a sentence."
 msgstr ""
 "Wow, jesteś naturalnyl!<br/>Zwróć czyjąś uwagę pisząc @użytkownik. "
-"<b>Spróbuj poprzez</b> <span class=\"o_odoobot_command\">@SwissCRMBot</span> "
+"<b>Spróbuj poprzez</b> <span class=\"o_swissbot_command\">@SwissCRMBot</span> "
 "zwrócić się do mnie."
 
 #. module: mail_bot

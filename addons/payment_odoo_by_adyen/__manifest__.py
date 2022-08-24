@@ -11,7 +11,7 @@
     'depends': ['payment', 'adyen_platforms'],
     'data': [
         'views/payment_views.xml',
-        'views/payment_odoo_by_adyen_templates.xml',
+        'views/payment_swiss_by_adyen_templates.xml',
         'data/payment_acquirer_data.xml',
     ],
     'installable': True,

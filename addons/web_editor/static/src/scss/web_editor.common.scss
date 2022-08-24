@@ -526,7 +526,7 @@ a.o_underline {
 }
 
 @include media-breakpoint-down(sm) {
-    odoo-wysiwyg-container {
+    swiss-wysiwyg-container {
         .panel-heading.note-toolbar {
             overflow-x: auto;
         }

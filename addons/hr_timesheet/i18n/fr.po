@@ -7,7 +7,7 @@
 # Xavier Belmere <Info@cartmeleon.com>, 2020
 # Aurélien Pillevesse <aurelienpillevesse@hotmail.fr>, 2020
 # mathieu betton <mathieu.betton@gmail.com>, 2020
-# Lucas Perais - lpe@odoo <lcsperais@gmail.com>, 2020
+# Lucas Perais - lpe@swiss <lcsperais@gmail.com>, 2020
 # Eloïse Stilmant <est@swissconsultings.ch>, 2020
 # William Olhasque <william.olhasque@scopea.fr>, 2020
 # Nathan Grognet <ngr@swissconsultings.ch>, 2020
@@ -27,7 +27,7 @@ msgstr ""
 "POT-Creation-Date: 2020-09-29 13:45+0000\n"
 "PO-Revision-Date: 2020-09-07 08:13+0000\n"
 "Last-Translator: Alexandra Jubert <aju@swissconsultings.ch>, 2021\n"
-"Language-Team: French (https://www.transifex.com/odoo/teams/41243/fr/)\n"
+"Language-Team: French (https://www.transifex.com/swiss/teams/41243/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"

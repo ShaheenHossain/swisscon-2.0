@@ -5,7 +5,7 @@
 # Translators:
 # Martin Trigaux, 2020
 # Morten Schou <ms@msteknik.dk>, 2020
-# Jesper Carstensen <jc@danodoo.dk>, 2020
+# Jesper Carstensen <jc@danswiss.dk>, 2020
 # Mads Søndergaard, 2020
 # Mads Søndergaard <mads@vkdata.dk>, 2020
 # 
@@ -16,7 +16,7 @@ msgstr ""
 "POT-Creation-Date: 2020-09-01 07:29+0000\n"
 "PO-Revision-Date: 2020-09-07 08:13+0000\n"
 "Last-Translator: Mads Søndergaard <mads@vkdata.dk>, 2020\n"
-"Language-Team: Danish (https://www.transifex.com/odoo/teams/41243/da/)\n"
+"Language-Team: Danish (https://www.transifex.com/swiss/teams/41243/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -63,20 +63,20 @@ msgstr "Mail bot"
 #, python-format
 msgid ""
 "Not sure what you are doing. Please, type <span "
-"class=\"o_odoobot_command\">:</span> and wait for the propositions. Select "
+"class=\"o_swissbot_command\">:</span> and wait for the propositions. Select "
 "one of them and press enter."
 msgstr ""
 "Er ikke sikker på hvad du laver. Være venlig at skrive <span "
-"class=\"o_odoobot_command\">:</span> og afvendt forslagene. Vælg en af dem, "
+"class=\"o_swissbot_command\">:</span> og afvendt forslagene. Vælg en af dem, "
 "og tryk på enter."
 
 #. module: im_livechat_mail_bot
-#: model:ir.model.fields,field_description:im_livechat_mail_bot.field_res_users__odoobot_state
+#: model:ir.model.fields,field_description:im_livechat_mail_bot.field_res_users__swissbot_state
 msgid "SwissCRMBot Status"
 msgstr "SwissCRMBot Status"
 
 #. module: im_livechat_mail_bot
-#: model:ir.model.fields.selection,name:im_livechat_mail_bot.selection__res_users__odoobot_state__onboarding_canned
+#: model:ir.model.fields.selection,name:im_livechat_mail_bot.selection__res_users__swissbot_state__onboarding_canned
 msgid "Onboarding canned"
 msgstr "onboarding forudinlæste"
 
@@ -84,10 +84,10 @@ msgstr "onboarding forudinlæste"
 #: code:addons/im_livechat_mail_bot/models/mail_bot.py:0
 #, python-format
 msgid ""
-"That's me! 🎉<br/>Try typing <span class=\"o_odoobot_command\">:</span> to "
+"That's me! 🎉<br/>Try typing <span class=\"o_swissbot_command\">:</span> to "
 "use canned responses."
 msgstr ""
-"Det er mig! 🎉<br/>Prøv at skriv <span class=\"o_odoobot_command\">:</span> "
+"Det er mig! 🎉<br/>Prøv at skriv <span class=\"o_swissbot_command\">:</span> "
 "for at bruge gemte svar."
 
 #. module: im_livechat_mail_bot

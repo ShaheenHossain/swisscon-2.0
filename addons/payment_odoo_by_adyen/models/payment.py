@@ -9,7 +9,7 @@ from werkzeug import urls
 
 from swiss import _, api, fields, models
 from swiss.exceptions import ValidationError
-from swiss.addons.payment_odoo_by_adyen.controllers.main import SwissCRMByAdyenController
+from swiss.addons.payment_swiss_by_adyen.controllers.main import SwissCRMByAdyenController
 
 _logger = logging.getLogger(__name__)
 

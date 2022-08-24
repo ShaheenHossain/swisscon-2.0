@@ -132,11 +132,11 @@ $chatter_zone_width: 35%;
     }
 }
 .o_main_navbar {
-    color: color-yiq($o-brand-odoo);
+    color: color-yiq($o-brand-swiss);
 
     > ul > li > a,
     > ul > li > label {
-        color: color-yiq($o-brand-odoo);
+        color: color-yiq($o-brand-swiss);
     }
     .dropdown-menu.show {
         max-height: calc(100vh - #{$o-navbar-height});
@@ -165,8 +165,8 @@ $chatter_zone_width: 35%;
         background: url("../img/home-menu-bg-overlay.svg"),
             linear-gradient(
                 to bottom,
-                $o-brand-odoo,
-                desaturate(lighten($o-brand-odoo, 20%), 15)
+                $o-brand-swiss,
+                desaturate(lighten($o-brand-swiss, 20%), 15)
             );
         background-size: cover;
         border-radius: 0;

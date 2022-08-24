@@ -21,7 +21,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 13:50+0000\n"
 "PO-Revision-Date: 2020-09-07 08:09+0000\n"
 "Last-Translator: Alina Lisnenko <alinasemeniuk1@gmail.com>, 2022\n"
-"Language-Team: Ukrainian (https://www.transifex.com/odoo/teams/41243/uk/)\n"
+"Language-Team: Ukrainian (https://www.transifex.com/swiss/teams/41243/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -466,7 +466,7 @@ msgid ""
 "\n"
 "* Fiscal positions '内税' and '外税' have been added to handle special requirements which might arise from POS implementation. [1]  Under normal circumstances, you might not need to use those at all.\n"
 "\n"
-"[1] See https://github.com/odoo/odoo/pull/6470 for detail.\n"
+"[1] See https://github.com/swiss/swiss/pull/6470 for detail.\n"
 "\n"
 "    "
 msgstr ""
@@ -483,7 +483,7 @@ msgstr ""
 "\n"
 "* Схема оподаткування '内税' та '外税' додано для обробки спеціальних вимог, які можуть виникнути при впровадженні точки продажу. [1]  За звичайних обставин вам, можливо, не доведеться використовувати їх взагалі.\n"
 "\n"
-"[1] See https://github.com/odoo/odoo/pull/6470 для деталей.\n"
+"[1] See https://github.com/swiss/swiss/pull/6470 для деталей.\n"
 "\n"
 "    "
 
@@ -4217,7 +4217,7 @@ msgid ""
 "For auditing and troubleshooting purposes we also add a menu \"Consulit Invoice in AFIP\" that let us to consult invoices previously\n"
 "sent to AFIP and last number used as support for any possible issues on the sequences synchronization between SwissCRM and AFIP.\n"
 "\n"
-"    NOTE: From the Journal's form view we are able to force a sync between the odoo sequences to each of the document types in\n"
+"    NOTE: From the Journal's form view we are able to force a sync between the swiss sequences to each of the document types in\n"
 "    with the last numbers registered in AFIP.\n"
 "\n"
 "From vendor bills, we have added a functionality that can be configured in the accounting settings to be able to verify\n"
@@ -4288,7 +4288,7 @@ msgstr ""
 " надіслані раніше AFIP, та останній номер, який використовується як підтримка будь-яких можливих питань синхронізації послідовностей\n"
 "SwissCRM та AFIP.\n"
 "\n"
-"    ЗАНОТУЙТЕ: З форми перегляду Журналу ми можемо запустити синхронізацію між послідовностями odoo та кожним типом документів\n"
+"    ЗАНОТУЙТЕ: З форми перегляду Журналу ми можемо запустити синхронізацію між послідовностями swiss та кожним типом документів\n"
 "    з останніми номерами, зареєстрованими в AFIP.\n"
 "\n"
 "З рахунків постачальників ми додали функціональність, яку можна налаштувати в налаштуваннях бухгалтерського обліку, щоби можна було\n"
@@ -7592,7 +7592,7 @@ msgid ""
 "rejestrów podatkowych. Moduł ustawia też konta do kupna i sprzedaży towarów\n"
 "zakładając, że wszystkie towary są w obrocie hurtowym.\n"
 "\n"
-"Niniejszy moduł jest przeznaczony dla odoo 8.0.\n"
+"Niniejszy moduł jest przeznaczony dla swiss 8.0.\n"
 "Wewnętrzny numer wersji OpenGLOBE 1.02\n"
 "    "
 msgstr ""
@@ -7604,7 +7604,7 @@ msgstr ""
 "rejestrów podatkowych. Moduł ustawia też konta do kupna i sprzedaży towarów\n"
 "zakładając, że wszystkie towary są w obrocie hurtowym.\n"
 "\n"
-"Niniejszy moduł jest przeznaczony dla odoo 8.0.\n"
+"Niniejszy moduł jest przeznaczony dla swiss 8.0.\n"
 "Wewnętrzny numer wersji OpenGLOBE 1.02\n"
 "    "
 
@@ -7838,7 +7838,7 @@ msgid ""
 "will add their specific templates and controllers to extend the customer\n"
 "portal.\n"
 "\n"
-"This module contains most code coming from odoo v10 website_portal. Purpose\n"
+"This module contains most code coming from swiss v10 website_portal. Purpose\n"
 "of this module is to allow the display of a customer portal without having\n"
 "a dependency towards website editing and customization capabilities."
 msgstr ""
@@ -7848,7 +7848,7 @@ msgstr ""
 "Бізнес-додатки додадуть свої спеціальні шаблони та\n"
 " контролери, щоб розширити клієнтський портал.\n"
 "\n"
-"Цей модуль містить більшість коду, отриманого з web_portal odoo v10. Метою \n"
+"Цей модуль містить більшість коду, отриманого з web_portal swiss v10. Метою \n"
 "цього модуля є можливість відображення клієнтського порталу без залежності \n"
 "від можливостей редагування та налаштування веб-сайту."
 
@@ -11334,7 +11334,7 @@ msgid "Allow visitors to join public mail channels"
 msgstr "Дозвольте відвідувачам приєднуватися до публічних каналів пошти"
 
 #. module: base
-#: model:ir.module.module,summary:base.module_odoo_referral
+#: model:ir.module.module,summary:base.module_swiss_referral
 msgid "Allow you to refer your friends to SwissCRM and get rewards"
 msgstr "Дозволяє вам направляти ваших друзів в SwissCRM та отримувати нагороду"
 
@@ -12272,12 +12272,12 @@ msgstr "База: автоматичні вакуумні внутрішні д�
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_grid
-msgid "Basic 2D Grid view for odoo"
+msgid "Basic 2D Grid view for swiss"
 msgstr "Базовий перегляд 2D Grid для SwissCRM"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_cohort
-msgid "Basic Cohort view for odoo"
+msgid "Basic Cohort view for swiss"
 msgstr "Базовий перегляд когорти для SwissCRM"
 
 #. module: base
@@ -14786,8 +14786,8 @@ msgstr "Визначені Звіти"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_map
-msgid "Defines the map view for odoo enterprise"
-msgstr "Визначіть перегляд карти для odoo enterprise"
+msgid "Defines the map view for swiss enterprise"
+msgstr "Визначіть перегляд карти для swiss enterprise"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_model_constraint__definition
@@ -23178,12 +23178,12 @@ msgstr ""
 "\n"
 
 #. module: base
-#: model:ir.module.module,description:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,description:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen"
 msgstr "SwissCRM платежі через Adyen"
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,shortdesc:base.module_payment_swiss_by_adyen
 msgid "SwissCRM Payments by Adyen Payment Acquirer"
 msgstr "Платежі SwissCRM через платіжний еквайєр Adyen"
 
@@ -24125,7 +24125,7 @@ msgstr ""
 "Щоб продовжити, виключіть їх із вибору. Можна все одно отримати ці PDF-файли, вибравши кожен із порушених записів окремо, що дозволить уникнути злиття."
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.module_odoo_referral
+#: model:ir.module.module,shortdesc:base.module_swiss_referral
 msgid "SwissCRM referral program"
 msgstr "Програма рекомендацій SwissCRM"
 
@@ -25226,7 +25226,7 @@ msgid "Payment Acquirer: Ingenico Implementation"
 msgstr "Платіжний еквайєр: впровадження Ingenico"
 
 #. module: base
-#: model:ir.module.module,summary:base.module_payment_odoo_by_adyen
+#: model:ir.module.module,summary:base.module_payment_swiss_by_adyen
 msgid "Payment Acquirer: SwissCRM Payments by Adyen"
 msgstr "Платіжний еквайєр: Платежі SwissCRM через Adyen"
 

@@ -18,7 +18,7 @@ e.g. To have an invoice generated automatically periodically:
     * Define a document type based on Invoice object
     * Define a recurring whose source document is the document defined as
       above. Specify the interval information and partner to be invoiced.
-      Module taken from odoov10 subscription.
+      Module taken from swissv10 subscription.
     """,
     'depends': ['account', 'purchase', 'sales_team', 'base', 'contacts', 'sale',
                 'l10n_generic_coa'],

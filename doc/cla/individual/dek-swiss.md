@@ -8,4 +8,4 @@ declaration.
 
 Signed,
 
-Devendra kavthekar dkatodoo@gmail.com https://github.com/dek-odoo
+Devendra kavthekar dkatswiss@gmail.com https://github.com/dek-swiss

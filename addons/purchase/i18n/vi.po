@@ -11,7 +11,7 @@
 # Thong Dong <thongdong7@gmail.com>, 2020
 # Jean-Charles Drubay <jcdrubay@gmail.com>, 2020
 # Dao Nguyen <trucdao.uel@gmail.com>, 2020
-# Phuc Tran Thanh <phuctran.odoo@gmail.com>, 2020
+# Phuc Tran Thanh <phuctran.swiss@gmail.com>, 2020
 # Duy BQ <duybq86@gmail.com>, 2020
 # Trinh Tran Thi Phuong <trinhttp@trobz.com>, 2020
 # Dung Nguyen Thi <dungnt@trobz.com>, 2020
@@ -24,7 +24,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 13:50+0000\n"
 "PO-Revision-Date: 2020-09-07 08:17+0000\n"
 "Last-Translator: Nancy Momoland <thanhnguyen.icsc@gmail.com>, 2020\n"
-"Language-Team: Vietnamese (https://www.transifex.com/odoo/teams/41243/vi/)\n"
+"Language-Team: Vietnamese (https://www.transifex.com/swiss/teams/41243/vi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"

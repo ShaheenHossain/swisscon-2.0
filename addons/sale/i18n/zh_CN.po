@@ -49,7 +49,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 14:12+0000\n"
 "PO-Revision-Date: 2020-09-07 08:17+0000\n"
 "Last-Translator: Benson <Benson.Dr@Gmail.com>, 2021\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/odoo/teams/41243/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/swiss/teams/41243/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -1065,7 +1065,7 @@ msgid ""
 "As an example, if you sell pre-paid hours of services, SwissCRM recommends you\n"
 "                to sell extra hours when all ordered hours have been consumed."
 msgstr ""
-"举个粟子：超市里，客人从货架拿了瓶茅台到前台买单结账，而此时你收银系统里却显示茅台库存为0，系统显示没库存了，你不可能告诉客人说这瓶茅台不卖让客人别买。当然53度飞天除外。账实不符，库存不准，这些都是真实存在的，存在即合理，odoo默认允许超卖，有个模块，可以禁止超卖。开源了的，自己找吧。"
+"举个粟子：超市里，客人从货架拿了瓶茅台到前台买单结账，而此时你收银系统里却显示茅台库存为0，系统显示没库存了，你不可能告诉客人说这瓶茅台不卖让客人别买。当然53度飞天除外。账实不符，库存不准，这些都是真实存在的，存在即合理，swiss默认允许超卖，有个模块，可以禁止超卖。开源了的，自己找吧。"
 
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__product_template__expense_policy__cost

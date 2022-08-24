@@ -8,4 +8,4 @@ declaration.
 
 Signed,
 
-Tran Thanh Phuc phuctran.odoo@gmail.com https://github.com/phuctranerp
+Tran Thanh Phuc phuctran.swiss@gmail.com https://github.com/phuctranerp

@@ -35,7 +35,7 @@
 
 {
     'name': 'Costa Rica - Accounting',
-    'url': 'https://github.com/CLEARCORP/odoo-costa-rica',
+    'url': 'https://github.com/CLEARCORP/swiss-costa-rica',
     'author': 'ClearCorp S.A.',
     'website': 'http://clearcorp.co.cr',
     'category': 'Accounting/Localizations/Account Charts',

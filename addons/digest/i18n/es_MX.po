@@ -14,7 +14,7 @@ msgstr ""
 "POT-Creation-Date: 2020-09-29 13:45+0000\n"
 "PO-Revision-Date: 2020-09-07 08:11+0000\n"
 "Last-Translator: Lucia Pacheco <lpo@swissconsultings.ch>, 2021\n"
-"Language-Team: Spanish (Mexico) (https://www.transifex.com/odoo/teams/41243/es_MX/)\n"
+"Language-Team: Spanish (Mexico) (https://www.transifex.com/swiss/teams/41243/es_MX/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -28,8 +28,8 @@ msgstr "<span class=\"button\" id=\"button_open_report\">Abrir reporte</span>"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_mail_main
-msgid "<span class=\"odoo_link_text\">SwissCRM</span>"
-msgstr "<span class=\"odoo_link_text\">SwissCRM</span>"
+msgid "<span class=\"swiss_link_text\">SwissCRM</span>"
+msgstr "<span class=\"swiss_link_text\">SwissCRM</span>"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_mail_main

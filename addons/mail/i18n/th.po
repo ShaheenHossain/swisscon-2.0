@@ -11,7 +11,7 @@
 # Martin Trigaux, 2020
 # Seksan Poltree <seksan.poltree@gmail.com>, 2020
 # Khwunchai Jaengsawang <khwunchai.j@ku.th>, 2020
-# SwissCRM Thaidev <odoothaidev@gmail.com>, 2020
+# SwissCRM Thaidev <swissthaidev@gmail.com>, 2020
 # kittipot anuwet <pipemsn1@gmail.com>, 2021
 # Wichanon Jamwutthipreecha, 2021
 # 
@@ -22,7 +22,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 11:23+0000\n"
 "PO-Revision-Date: 2020-09-07 08:14+0000\n"
 "Last-Translator: Wichanon Jamwutthipreecha, 2021\n"
-"Language-Team: Thai (https://www.transifex.com/odoo/teams/41243/th/)\n"
+"Language-Team: Thai (https://www.transifex.com/swiss/teams/41243/th/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -2648,7 +2648,7 @@ msgstr "จัดการโดยอีเมลล์"
 #. module: mail
 #: model:ir.model.fields.selection,name:mail.selection__res_users__notification_type__inbox
 msgid "Handle in SwissCRM"
-msgstr "จัดการในระบบ odoo"
+msgstr "จัดการในระบบ swiss"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_resend_message__has_cancel

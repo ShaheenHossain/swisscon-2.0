@@ -12,7 +12,7 @@ msgstr ""
 "POT-Creation-Date: 2020-04-21 10:46+0000\n"
 "PO-Revision-Date: 2020-09-07 08:13+0000\n"
 "Last-Translator: 敬雲 林 <chingyun@yuanchih-consult.com>, 2020\n"
-"Language-Team: Chinese (Taiwan) (https://www.transifex.com/odoo/teams/41243/zh_TW/)\n"
+"Language-Team: Chinese (Taiwan) (https://www.transifex.com/swiss/teams/41243/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -151,7 +151,7 @@ msgstr "服務名稱"
 #: code:addons/iap/static/src/js/crash_manager.js:0
 #, python-format
 msgid "Start a Trial at SwissCRM"
-msgstr "在odoo中開始試用"
+msgstr "在swiss中開始試用"
 
 #. module: iap
 #: code:addons/iap/models/iap.py:0

@@ -16,7 +16,7 @@
     transition: background 0s ease-out 0s;
     padding: 3px 0;
     &:focus, &.focus {
-        background-image: linear-gradient($o-brand-odoo, $o-brand-odoo), linear-gradient(#d9d9d9, #d9d9d9);
+        background-image: linear-gradient($o-brand-swiss, $o-brand-swiss), linear-gradient(#d9d9d9, #d9d9d9);
         border: 0 none !important;
         border-radius: 0;
         box-shadow: none;
@@ -29,7 +29,7 @@
 
 .table-striped {
     > tbody > tr:nth-of-type(odd) {
-        background-color: lighten($o-brand-odoo, 100%);
+        background-color: lighten($o-brand-swiss, 100%);
     }
 }
 
@@ -40,6 +40,6 @@
     right: 0;
     border-radius: 0;
     padding: 10px 20px;
-    background-color: $o-brand-odoo;
+    background-color: $o-brand-swiss;
 }
 

@@ -116,9 +116,9 @@ groupadd usbusers
 usermod -a -G usbusers pi
 usermod -a -G lp pi
 usermod -a -G input lightdm
-mkdir -v /var/log/odoo
-chown pi:pi /var/log/odoo
-chown pi:pi -R /home/pi/odoo/
+mkdir -v /var/log/swiss
+chown pi:pi /var/log/swiss
+chown pi:pi -R /home/pi/swiss/
 
 # logrotate is very picky when it comes to file permissions
 chown -R root:root /etc/logrotate.d/
@@ -126,7 +126,7 @@ chmod -R 644 /etc/logrotate.d/
 chown root:root /etc/logrotate.conf
 chmod 644 /etc/logrotate.conf
 
-echo "* * * * * rm /var/run/odoo/sessions/*" | crontab -
+echo "* * * * * rm /var/run/swiss/sessions/*" | crontab -
 
 update-rc.d -f hostapd remove
 update-rc.d -f nginx remove
@@ -156,7 +156,7 @@ echo "disable_overscan=1" >> /boot/config.txt
 sed -i '/dtoverlay/d' /boot/config.txt
 
 # exclude /drivers folder from git info to be able to load specific drivers
-echo "addons/hw_drivers/iot_devices/" > /home/pi/odoo/.git/info/exclude
+echo "addons/hw_drivers/iot_devices/" > /home/pi/swiss/.git/info/exclude
 
 # create dirs for ramdisks
 create_ramdisk_dir () {

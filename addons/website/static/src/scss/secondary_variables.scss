@@ -170,7 +170,7 @@ $o-we-auto-contrast-exclusions: join($o-we-auto-contrast-exclusions, map-keys(o-
     ));
 }
 
-// Add odoo unicode support for all fonts
+// Add swiss unicode support for all fonts
 @each $font-name, $font-config in $o-theme-font-configs {
     $o-theme-font-configs: map-merge($o-theme-font-configs, (
         $font-name: map-merge($font-config, (

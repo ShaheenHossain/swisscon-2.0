@@ -159,11 +159,11 @@ body[data-menu="sidemenu"].o_web_client {
                                     position: relative;
                                     display: block;
                                     &:hover {
-                                        background-color: $o-brand-odoo;
+                                        background-color: $o-brand-swiss;
                                         border-radius: 0px;
                                     }
                                     &:focus {
-                                        background-color: $o-brand-odoo;
+                                        background-color: $o-brand-swiss;
                                         outline: none;
                                     }
                                 }
@@ -191,7 +191,7 @@ body[data-menu="sidemenu"].o_web_client {
                                     }
                                 }
                                 &.active a {
-                                    background-color: $o-brand-odoo;
+                                    background-color: $o-brand-swiss;
                                 }
                             }
                             .oe_menu_text {
@@ -208,11 +208,11 @@ body[data-menu="sidemenu"].o_web_client {
                                     a {
                                         padding-left: 29px;
                                         &:hover {
-                                            background-color: $o-brand-odoo;
+                                            background-color: $o-brand-swiss;
                                             border-radius: 0px;
                                         }
                                         &:focus {
-                                            background-color: $o-brand-odoo;
+                                            background-color: $o-brand-swiss;
                                             outline: none;
                                         }
                                     }
@@ -221,7 +221,7 @@ body[data-menu="sidemenu"].o_web_client {
                             }
                         }
                         .side_menu_heading {
-                            background-color: $o-brand-odoo;
+                            background-color: $o-brand-swiss;
                             color: $white_color;
                             padding: 12px 13px 12px 13px;
                             margin: 0px;
@@ -248,11 +248,11 @@ body[data-menu="sidemenu"].o_web_client {
                                 padding: 9px 15px 9px 21px;
                                 margin: -5px -10px -5px -15px;
                                 &:hover {
-                                    background-color: $o-brand-odoo;
+                                    background-color: $o-brand-swiss;
                                     border-radius: 0px;
                                 }
                                 &:focus {
-                                    background-color: $o-brand-odoo;
+                                    background-color: $o-brand-swiss;
                                     outline: none;
                                 }
                             }

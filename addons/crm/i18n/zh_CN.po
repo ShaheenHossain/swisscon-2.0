@@ -32,7 +32,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 14:12+0000\n"
 "PO-Revision-Date: 2020-09-07 08:11+0000\n"
 "Last-Translator: Jeffery CHEN <jeffery9@gmail.com>, 2021\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/odoo/teams/41243/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/swiss/teams/41243/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -852,7 +852,7 @@ msgstr "转换为商机"
 msgid ""
 "Convert visitors of your website into leads and perform data enrichment "
 "based on their IP address"
-msgstr "假如填了联系我们那个页面上的表单，则访客所填写的表单信息，将被odoo自动转成一条线索，出现在CRM线索列表中。"
+msgstr "假如填了联系我们那个页面上的表单，则访客所填写的表单信息，将被swiss自动转成一条线索，出现在CRM线索列表中。"
 
 #. module: crm
 #: model:ir.model.fields.selection,name:crm.selection__crm_lead__email_state__correct

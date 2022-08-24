@@ -15,7 +15,7 @@ msgstr ""
 "POT-Creation-Date: 2020-11-27 11:24+0000\n"
 "PO-Revision-Date: 2020-09-07 08:14+0000\n"
 "Last-Translator: jabelchi, 2021\n"
-"Language-Team: Catalan (https://www.transifex.com/odoo/teams/41243/ca/)\n"
+"Language-Team: Catalan (https://www.transifex.com/swiss/teams/41243/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -33,7 +33,7 @@ msgstr ""
 "per a mi! Mantenim-ho professional ❤️"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__disabled
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__disabled
 msgid "Disabled"
 msgstr "Inhabilitat "
 
@@ -61,7 +61,7 @@ msgstr "Notificacions del sistema"
 #, python-format
 msgid ""
 "Great! 👍<br/>To access special commands, <b>start your sentence with</b> "
-"<span class=\"o_odoobot_command\">/</span>. Try getting help."
+"<span class=\"o_swissbot_command\">/</span>. Try getting help."
 msgstr ""
 
 #. module: mail_bot
@@ -75,7 +75,7 @@ msgstr "Enrutament HTTP"
 msgid ""
 "Hello,<br/>SwissCRM's chat helps employees collaborate efficiently. I'm here to "
 "help you discover its features.<br/><b>Try to send me an emoji</b> <span "
-"class=\"o_odoobot_command\">:)</span>"
+"class=\"o_swissbot_command\">:)</span>"
 msgstr ""
 
 #. module: mail_bot
@@ -104,7 +104,7 @@ msgstr "Em temo que no ho entenc. Ho sento!"
 #, python-format
 msgid ""
 "I'm not smart enough to answer your question.<br/>To follow my guide, ask: "
-"<span class=\"o_odoobot_command\">start the tour</span>."
+"<span class=\"o_swissbot_command\">start the tour</span>."
 msgstr ""
 
 #. module: mail_bot
@@ -117,7 +117,7 @@ msgid "ID"
 msgstr "ID"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__idle
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__idle
 msgid "Idle"
 msgstr "Ociós"
 
@@ -140,11 +140,11 @@ msgstr "Robot de correu"
 #, python-format
 msgid ""
 "Not exactly. To continue the tour, send an emoji: <b>type</b> <span "
-"class=\"o_odoobot_command\">:)</span> and press enter."
+"class=\"o_swissbot_command\">:)</span> and press enter."
 msgstr ""
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__not_initialized
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__not_initialized
 msgid "Not initialized"
 msgstr "No iniciat"
 
@@ -153,37 +153,37 @@ msgstr "No iniciat"
 #, python-format
 msgid ""
 "Not sure what you are doing. Please, type <span "
-"class=\"o_odoobot_command\">/</span> and wait for the propositions. Select "
-"<span class=\"o_odoobot_command\">help</span> and press enter"
+"class=\"o_swissbot_command\">/</span> and wait for the propositions. Select "
+"<span class=\"o_swissbot_command\">help</span> and press enter"
 msgstr ""
 
 #. module: mail_bot
-#: model:ir.model.fields,field_description:mail_bot.field_res_users__odoobot_state
+#: model:ir.model.fields,field_description:mail_bot.field_res_users__swissbot_state
 msgid "SwissCRMBot Status"
 msgstr "Estat de l'SwissCRMBot"
 
 #. module: mail_bot
-#: model:ir.model.fields,field_description:mail_bot.field_res_users__odoobot_failed
+#: model:ir.model.fields,field_description:mail_bot.field_res_users__swissbot_failed
 msgid "SwissCRMbot Failed"
 msgstr ""
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__onboarding_attachement
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__onboarding_attachement
 msgid "Onboarding attachement"
 msgstr "Fitxer adjunt"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__onboarding_command
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__onboarding_command
 msgid "Onboarding command"
 msgstr "Comandament a bord"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__onboarding_emoji
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__onboarding_emoji
 msgid "Onboarding emoji"
 msgstr "Incorporació d'emoji"
 
 #. module: mail_bot
-#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__onboarding_ping
+#: model:ir.model.fields.selection,name:mail_bot.selection__res_users__swissbot_state__onboarding_ping
 msgid "Onboarding ping"
 msgstr "Ping d'incorporació"
 
@@ -193,7 +193,7 @@ msgstr "Ping d'incorporació"
 msgid ""
 "Sorry I'm sleepy. Or not! Maybe I'm just trying to hide my unawareness of "
 "human language...<br/>I can show you features if you write: <span "
-"class=\"o_odoobot_command\">start the tour</span>."
+"class=\"o_swissbot_command\">start the tour</span>."
 msgstr ""
 
 #. module: mail_bot
@@ -201,7 +201,7 @@ msgstr ""
 #, python-format
 msgid ""
 "Sorry, I am not listening. To get someone's attention, <b>ping him</b>. "
-"Write <span class=\"o_odoobot_command\">@SwissCRMBot</span> and select me."
+"Write <span class=\"o_swissbot_command\">@SwissCRMBot</span> and select me."
 msgstr ""
 
 #. module: mail_bot
@@ -246,7 +246,7 @@ msgstr "Usuaris"
 msgid ""
 "Wow you are a natural!<br/>Ping someone with @username to grab their "
 "attention. <b>Try to ping me using</b> <span "
-"class=\"o_odoobot_command\">@SwissCRMBot</span> in a sentence."
+"class=\"o_swissbot_command\">@SwissCRMBot</span> in a sentence."
 msgstr ""
 
 #. module: mail_bot

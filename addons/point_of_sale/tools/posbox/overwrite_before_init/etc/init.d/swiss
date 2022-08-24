@@ -1,11 +1,11 @@
 #!/bin/bash
 ### BEGIN INIT INFO
-# Provides:          odoo.py
+# Provides:          swiss.py
 # Required-Start:    $remote_fs $syslog
 # Required-Stop:     $remote_fs $syslog
 # Default-Start:     2 3 4 5
 # Default-Stop:      0 1 6
-# Short-Description: Start odoo daemon at boot time
+# Short-Description: Start swiss daemon at boot time
 # Description:       Enable service provided by daemon.
 # X-Interactive:     true
 ### END INIT INFO
@@ -14,13 +14,13 @@
 . /lib/lsb/init-functions
 
 PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin
-DAEMON=/home/pi/odoo/odoo-bin
-NAME=odoo
-DESC=odoo
-CONFIG=/home/pi/odoo/addons/point_of_sale/tools/posbox/configuration/odoo.conf
-LOGFILE=/var/log/odoo/odoo-server.log
+DAEMON=/home/pi/swiss/swiss-bin
+NAME=swiss
+DESC=swiss
+CONFIG=/home/pi/swiss/addons/point_of_sale/tools/posbox/configuration/swiss.conf
+LOGFILE=/var/log/swiss/swiss-server.log
 PIDFILE=/var/run/${NAME}.pid
-MODULES=$(ls /home/pi/odoo/addons/ -m -w0 | tr -d ' ')
+MODULES=$(ls /home/pi/swiss/addons/ -m -w0 | tr -d ' ')
 USER=pi
 
 test -x $DAEMON || exit 0
