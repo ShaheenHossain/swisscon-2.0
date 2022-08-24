@@ -26,9 +26,9 @@
                             <a data-menu="about" href="/page/website.aboutus">About</a>
                         </li>
                         <li class="divider"></li>
-                        <li>
+<!--                        <li>
                             <a data-menu="account" href="https://swissconsultings.ch">My swissconsultings.ch account</a>
-                        </li>
+                        </li>-->
                         <li>
                             <a data-menu="logout" href="/web/session/logout?redirect=/">Log out</a>
                         </li>
