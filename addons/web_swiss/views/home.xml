@@ -27,7 +27,7 @@
                         </li>
                         <li class="divider"></li>
                         <li>
-                            <a data-menu="account" href="https://accounts.swissconsultings.ch/web/login?">My swissconsultings.ch account</a>
+                            <a data-menu="account" href="https://swissconsultings.ch">My swissconsultings.ch account</a>
                         </li>
                         <li>
                             <a data-menu="logout" href="/web/session/logout?redirect=/">Log out</a>

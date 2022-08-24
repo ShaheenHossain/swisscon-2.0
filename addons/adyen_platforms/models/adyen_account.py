@@ -192,7 +192,7 @@ class AdyenAccount(models.Model):
     def action_create_redirect(self):
         '''
         Accessing the FormView to create an Adyen account needs to be done through this action.
-        The action will redirect the user to accounts.swissconsultings.ch to link an SwissCRM user_id to the Adyen
+        The action will redirect the user to swissconsultings.ch to link an SwissCRM user_id to the Adyen
         account. After logging in on swissconsultings.ch the user will be redirected to his DB with a token in
         the URL. This token is then needed to create the Adyen account.
         '''

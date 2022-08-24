@@ -144,7 +144,7 @@
            <t t-call="web.external_layout">
                    <div class="pt-5">
                        <div class="address row">
-                           <div name="address" class="col-md-5 ml-auto">
+                           <div name="address" class="col-6">
                                <address>
                                    <address class="mb-0" itemscope="itemscope"
                                             itemtype="http://schema.org/Organization">

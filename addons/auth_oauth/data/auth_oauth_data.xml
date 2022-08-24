@@ -3,9 +3,9 @@
     <data noupdate="1">
         <record id="provider_openerp" model="auth.oauth.provider">
             <field name="name">swissconsultings.ch Accounts</field>
-            <field name="auth_endpoint">https://accounts.swissconsultings.ch/oauth2/auth</field>
+            <field name="auth_endpoint">https://swissconsultings.ch</field>
             <field name="scope">userinfo</field>
-            <field name="validation_endpoint">https://accounts.swissconsultings.ch/oauth2/tokeninfo</field>
+            <field name="validation_endpoint">https://swissconsultings.ch</field>
             <field name="css_class">fa fa-fw o_custom_icon</field>
             <field name="body">Log in with swissconsultings.ch</field>
             <field name="enabled" eval="True"/>

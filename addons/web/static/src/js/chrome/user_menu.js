@@ -70,7 +70,7 @@ var UserMenu = Widget.extend({
                     })
                     .guardedCatch(function (result, ev){
                         ev.preventDefault();
-                        framework.redirect('https://accounts.swissconsultings.ch/account');
+                        framework.redirect('https://swissconsultings.ch');
                     });
             },
         });
