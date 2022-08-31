@@ -144,7 +144,7 @@
            <t t-call="web.external_layout">
                    <div class="pt-5">
                        <div class="address row">
-                           <div name="address" class="col-md-5 ml-auto">
+                           <div name="address" class="col-6">
                                <address>
                                    <address class="mb-0" itemscope="itemscope"
                                             itemtype="http://schema.org/Organization">
@@ -466,15 +466,26 @@
     <template id="external_layout_standard">
         <div t-attf-class="header o_company_#{company.id}_layout" t-att-style="report_header_style">
             <div class="row">
-                <div class="col-3 mb4">
-                    <img t-if="company.logo" t-att-src="image_data_uri(company.logo)" style="max-height: 45px;" alt="Logo"/>
+
+<!--                for big logo right side-->
+<!--                 <div class="col-3 mb4">-->
+<!--                    <img t-if="company.logo" t-att-src="image_data_uri(company.logo)" style="max-height: 45px;" alt="Logo"/>-->
+<!--                </div>-->
+
+                <div class="col-12 text-right">
+                    <img t-if="company.logo" t-att-src="image_data_uri(company.logo)" style="max-height: 140px;" alt="Logo"/>
                 </div>
+
                 <div class="col-9 text-right" style="margin-top:22px;" t-field="company.report_header" name="moto"/>
             </div>
+
             <div t-if="company.logo or company.report_header" class="row zero_min_height">
-                <div class="col-12">
-                    <div style="border-bottom: 1px solid black;"/>
-                </div>
+
+<!--                for hide the line -->
+<!--                <div class="col-12">-->
+<!--                    <div style="border-bottom: 1px solid black;"/>-->
+<!--                </div>-->
+
             </div>
             <div class="row">
                 <div class="col-6" name="company_address">
